@@ -1,35 +1,15 @@
 {
-  "updatedAt": "2026-08-25T13:51+00:00",
+  "updatedAt": "2026-08-25T23:54+00:00",
   "items": [
     {
-      "category": "供应商视角",
-      "date": "2026-08-24",
-      "source": "Construction World",
-      "title": "Enlight Metals Launches AI-Enabled 24-Hour Metal Procurement - Construction World",
+      "category": "区域供应链",
+      "date": "2026-08-18",
+      "source": "South China Morning Post",
+      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - South China Morning Post",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDRVSWNxY0Nnc2dCS3NZTC1iZm5fMWdvUVhhSkE1c1B1aEhMWklSV0VuakFZbkR5bFljZXdKVm4xUU1zMmJhX0RLQWpjbUs5NlJVcXZSdGNwSER3Q1RLaDh5a1l1dGRONlV2WEJqMEJPazhDUmVibS1Tc1kxV00yakVVM0hmOGVBMlpnRmdOZFAycXZiTjJNSEFnN0Y2QVJKZzhrT3JuNWRVdndDQVhhNW1mUmNpM3pta2FoMkJvOV92TWxtWDZnZE85NzQ?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-08-24",
-      "source": "Global Sources",
-      "title": "Home Market Trends Innovation Strategy & Analysis Sourcing & Supply Chain Regulations & Compliance Supplier Tips - Global Sources",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSk5NNUFyNGVoNWx2b2duSWh6WW1BY2h1dGM5c0JCTHBiNWt6ZmJvVWFwWThDS0pBS2VmV0xLWnIzeHpzb2VSVzdOaEI1ODdnbHhVSjZOT21FcGdkU0lsei1Ndkc5M2NldTF1SWtlVkl3Z2xZVkRvRExYeUltdnFWTlRfMWFob3A3cS15cW1SSTdZZzZXa0hsMThKaGV0V3I4Vi1BSUNOMW1sWmZmM1ZhX1FEMHhlb0VyVVdRc2c2LWtVcmlGZkxnVVZrSU9tYlF1ZFlYeVpYZnJ2eGpoMHctWFM2dmlxVEhQako4YVp6ODUwODg?oc=5"
-    },
-    {
-      "category": "汽车供应链",
-      "date": "2026-08-21",
-      "source": "Straits Research",
-      "title": "EV Coolants Market Size, Share, Growth, Analysis, 2034 - Straits Research",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEUDV1aGVEcUVBVFpfNFhtNElmM05vMkZRY1E3NW1HakRsWkRwNFlMV2ctd1NLSWxyaGRqRzJiajFEczJoOWp2X3FKaGtRaVpqN0FSVFFkXzF0aGowUnZLOG1WUQ?oc=5"
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -82,6 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam1zZWx5WDdfTlZTS2ZReXN6ajlVZ3dQSm04Q0JYY2o3NTc4NWVRempvNk9SLW1ybUZrUzZGclNlX1BVUHVoM00zX0RiQ1drMmJVNHNhZnlaOUhqTTRwTEFnSnMwT05QSkQ5alRyRnRWd0lKam9CVDZlVE9WVkI2NzlPRExZRGhiUlotd1hZN3J5WUlZNEpBYkJ3cHA?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-08-11",
+      "source": "India Shipping News",
+      "title": "Container crunch at Singapore and Colombo disrupts Indian export supply chains - India Shipping News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1ZQYVNlTC0yb0J3ZE1YeEhKODEzNjJWa21yRURqWVBEMk1halFIZndFaEVGb3luNzROUHk3SW1mVkN5cUhlZW9yWUNqeTRGTFBQYndCbHhZYXVJbmljWjFFZFViVm9RdVpNWUtUX3BMRC0ycXlReFRZWXYyS1AwVW90WjhjQVJMb0xOUE4wZlhWSlMzcmp4dFNXdGZDVlVjUnNSamRSOU9IR2w4MkNrNUt4V1VwOUk?oc=5"
+    },
+    {
       "category": "能源与原材料",
       "date": "2026-08-05",
       "source": "American Battery Technology Company",
@@ -92,10 +82,20 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
     },
     {
+      "category": "汽车供应链",
+      "date": "2026-08-03",
+      "source": "Fortune Business Insights",
+      "title": "Electric Vehicle Adhesives Market Size, Share | Growth [2034] - Fortune Business Insights",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnlZVkVnaDVrMXBxMGJESGNnQnJ3NmV0VUhWMHZaSTZKdVRndW5LbXRld0VqNWtVdDlMcVpPX0ROUVJ3WExGUkNDVlQyUS01Qm5idzN4MHdRMW1mcWJhS19jRzItYVBOZG9SVXl2Z2VtUktaTDFzRXNzWmNNem1FWDdxRlg2eTA?oc=5"
+    },
+    {
       "category": "科技供应链",
       "date": "2026-07-22",
-      "source": "DW.com",
-      "title": "Can India become the next semiconductor hub after Taiwan? - DW.com",
+      "source": "dw.com",
+      "title": "Can India become the next semiconductor hub after Taiwan? - dw.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
@@ -163,13 +163,13 @@
     },
     {
       "category": "汽车供应链",
-      "date": "2026-07-07",
-      "source": "WardsAuto",
-      "title": "EV transition challenges auto supply chain resilience, Moody’s says - WardsAuto",
+      "date": "2026-07-06",
+      "source": "Global Market Insights Inc.",
+      "title": "Electric Vehicle Battery Recycling and Material Recovery Market, 2035 - Global Market Insights Inc.",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaTgxRjRHaG0zNElpZElzWm1OMDZtbWgwSzMySlBkc2RaeGtmWV85Y0xuYU1YMm9KQ1hPM2U0eE9Qcl9oRDRLajBpYUIzYk9ldFJUdWRkU2phRlRESUxOVC02cG5qREo1dGFXX0xLN3pYRmhVNEk3SHJMVTA5MS15MXMwNUlBYkk4Y3NNNHVyS29wLW93SW0xMEVwRENqU2g2UXZodUhnQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDlGZzluYm44WF9nNnJ4UkxPWWZ3NFQ1TFRqbTJsS0VSUlRMalowck5tTktZeHdLaDJkVS0tYW5oUndZZTM1TVhqTG5VMVJmV1prNDJFMHE2eEdLRVpqOHkySmZwRGlkWUhpVDdCQVktU1FLV09rU0N0X2R6cllSS0xPVHhFVWJ4X05hVjlsVUQ3VVhNQ3VseFFHOUNGeEtsWG1YZE5ScWVRYXhMbzVObQ?oc=5"
     },
     {
       "category": "区域供应链",
