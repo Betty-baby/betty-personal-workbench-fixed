@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T23:07+00:00",
+  "updatedAt": "2026-08-30T23:07+00:00",
   "items": [
     {
       "category": "汽车供应链",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "source": "InsideEVs",
       "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production - InsideEVs",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
@@ -12,20 +12,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VYVzRuc3QzSVNnbHd5aWF2OVZmM1FkRXYydk5iNUkzTHZVUVRIVTFrSlRfZXhBdzdDUkxubEtRREhxQ0hOQ3FMMWE0U0xMTEZpTU5UcTB0NExVUWxXR29DZUlfdTlzZFR6TjBNa3c0MDRVTHJfOERSOE5zQVl1QmN6VFYtUGF3dFJF?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-08-28",
-      "source": "CIO Africa",
-      "title": "Morocco Leads Africa’s EV Battery Race - CIO Africa",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNTTBwODVqdGplcGVaX296eHF4bHRhVE0tY3FlLUVxV1hMcFZ0VS03REhaWlJwZm8yTmdBNERBWnBadGFwSHJ5U1FrMkl4R2RWRXRhOHZkaXZLUUl1Q1VMZThlbHlOUEZ0Q2hJ?oc=5"
-    },
-    {
       "category": "时尚供应链",
       "date": "2026-08-27",
-      "source": "Issuewire",
-      "title": "Fashion Sourcing The Essential Small Batch Production Beginner’s Guide Explained By Fashion Sourcing - Issuewire",
+      "source": "Issuewire.com",
+      "title": "Fashion Sourcing The Essential Small Batch Production Beginner’s Guide Explained By Fashion Sourcing - Issuewire.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "时尚供应链",
@@ -42,6 +32,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
     },
     {
+      "category": "区域供应链",
+      "date": "2026-08-18",
+      "source": "Borneo Bulletin",
+      "title": "Thailand’s EEC tops Southeast Asia manufacturing hub ranking - Borneo Bulletin",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmU4Zk5paEliM0M5M1BTNjJTNzdmcjYxVTdJNUJ6bXBCZ1l3YTFnaURqWm4yVjktZUZEOXZVTkp0LUhDdldXWTRob0FXX2ppZUZBdllLODdOeFBFcUEzSWU4U1dVbzE1TFlXVVZlWUpGTjRjcjdrVjBjUXQ0QktyV2RGOXNmUF9wZTNyWE9zVzJFZ2g0?oc=5"
+    },
+    {
       "category": "时尚供应链",
       "date": "2026-08-17",
       "source": "AIMultiple",
@@ -50,6 +50,16 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
+    },
+    {
+      "category": "区域供应链",
+      "date": "2026-08-16",
+      "source": "The Business Times",
+      "title": "'Full of confidence' in South-east Asia: Cosco Shipping eyes investments in Malaysia, Vietnam and Indonesia to power growth - The Business Times",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXdBYXFMSE9TMlEtelhuUWJCSzZqcnZ3bWVxSGMxYVlONGNCOUEzR1lhbVNXb0s1ekxWWXF2TlA0ZjZpMXlGc1VJa29sdDBFZnYxTHFtQklHYVpZN0lEVHZNQmZ6VjlUZ1N6RG9YcEpfM0lBdW1nX2dhMkY1bFE3RkN6Vi1PdnJtZW51WTFPNUJjdlFyX1Y4M2FyNEREQzd1bmljTjhqRmktVVJzdlBTUXRHRFNHenNVME9HMGNtc21yZDl5X1hqR2w3anFVZ0pINVo1eUlNVVBfUWJHNFZWbkh0VWRwdw?oc=5"
     },
     {
       "category": "物流视角",
@@ -102,14 +112,14 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
     },
     {
-      "category": "科技供应链",
-      "date": "2026-07-22",
-      "source": "dw.com",
-      "title": "Can India become the next semiconductor hub after Taiwan? - dw.com",
+      "category": "区域供应链",
+      "date": "2026-07-30",
+      "source": "Thailand Business News",
+      "title": "Southeast Asia's EV Race Heats Up as Foreign and Domestic Producers Chase a Fast-Growing Market - Thailand Business News",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLW8waUYxTkZxYUg1NXczSUVKUXRVdS1ZQnJHMGtYWWc1Z0p0Slh4TzlFNUhkVWF5UTktbnBoWGtLOERUZTVLZmNXYnBNUFBvVGQwdmIwdC1BcEUtWVo4SnJ5NnpwbVREVFFBYTVHeTJtWGZTRnYwTy0xM01DclFOdnJHN0c5dGpUMTNkeVBSZTB6WnEyZ083bjhNRjlsU256VzlQeV8zVzFRcVZGTXcxcEFaNlZRemJrVU1UUHVna0pxMHliWlFUbWNjdjZqc2p2aDJ0UkJ4ODFOU3l6amFj?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -173,6 +183,16 @@
     },
     {
       "category": "汽车供应链",
+      "date": "2026-07-12",
+      "source": "EV Infrastructure News",
+      "title": "Thailand records US$4.1 billion in EV supply chain investment - EV Infrastructure News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnNUZ0pQNnR1Z3Z2N2I5ZXVWSEhjLWtMVWRlRy1QM0dHdkV2NmYyeENHU21Md3ZZS1FvbUV4b3EzelU5NXJrWl9JSm9QdHZtdTdWNkN4aEpXWl92a1dudnZQb1BPZ21ZMnhkS2trQ201OU4waEU2cHA0eDJsMkwwQUZRbmJuWnhZeUFia1kxZjUxOTJ1VHpkTTVWQnlWd09HN0lKQi1kSUtoZlFBRmxJS25JZw?oc=5"
+    },
+    {
+      "category": "汽车供应链",
       "date": "2026-07-10",
       "source": "Manufacturing Today",
       "title": "BMW Group is spending $1.7bn to start EV production in the US - Manufacturing Today",
@@ -180,26 +200,6 @@
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1hRNzB0V2NrOTVnUjJ3a1RPYTlkdlR2RDM5NFhxdm5HNjhBVldMOGNrdlhTbTA3R253SElkM1Vfd24xV1dlLTEwVFRqZlFpTHFiUklsSHctdl8wQW9hVmRYU2NNYUg1czd1YUZZT1daazlWQ0pOaUNMQW9PcXBsUTctYjZDSzBwVWJtUUFwVXNUdzVNVWxaOFZkdmRDUjQ?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-07-07",
-      "source": "Al Jazeera",
-      "title": "After Iran war upheaval, global shipping eyes return to status quo - Al Jazeera",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWU2amE5VDFhNmRPMWt6NzJ3NjJaYmNoYnZ4a1lDYW54TGdCUWMybXVwWkIySG9rV0I5VUsyRlZham9wT3dDLVc0LUNhQ3dEUDhhdVA1bVNEZ0RpVzl0aG00NVBjZmRsTndsSy1DUV9qb3V1eS1OdjF5cGxBczloaDF4c3pNcWx6V1ZDTmFSRk9pTFhGa3puZWpxS3pReC1kcmZqbDBzRDdXTjZB0gGyAUFVX3lxTFBxWnpiRHI3elBFOE1PT29oZ3NoUHhyNWVQYkFfWHZ3VHlLZ0pRZTYtdzJTYkhxNTRvSERPMnFETm1hLWFQS3ZEQWR1ajJULXRrLXdFRmRQRVI4c3NxWEcyTmViSnQxaFltVGxVYjlzTGI5bjA0dFBra1JuMVo5NzZyVWQzOUFVS2l3SFlEYUdOYnhuMTd1RlRnNVhBVmxEZzd1NGlZQUplOE94WXBTakVWVWc?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-07-06",
-      "source": "Supply Chain Management Review",
-      "title": "Caught between a rock and a hard place: Mapping your supply chain - Supply Chain Management Review",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SLUVCMFZmVWpyRWJqOGxXWEgtZ2tfdUdvUGlfMDAtOGpCamtZS003WkE4bVJIc1N2MGdmN1liUmY2WHp2Nk42bmZJLXk0N0RSeEE3TXNjeXNEbmdWYnRrVVlKSnhBSjJCa0FDcmZoN3FuLTR0UEtHN2cwZjJsUQ?oc=5"
     }
   ]
 }
