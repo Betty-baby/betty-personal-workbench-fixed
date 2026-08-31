@@ -1,21 +1,11 @@
 {
-  "updatedAt": "2026-08-30T23:07+00:00",
+  "updatedAt": "2026-08-31T23:07+00:00",
   "items": [
-    {
-      "category": "汽车供应链",
-      "date": "2026-08-30",
-      "source": "InsideEVs",
-      "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production - InsideEVs",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VYVzRuc3QzSVNnbHd5aWF2OVZmM1FkRXYydk5iNUkzTHZVUVRIVTFrSlRfZXhBdzdDUkxubEtRREhxQ0hOQ3FMMWE0U0xMTEZpTU5UcTB0NExVUWxXR29DZUlfdTlzZFR6TjBNa3c0MDRVTHJfOERSOE5zQVl1QmN6VFYtUGF3dFJF?oc=5"
-    },
     {
       "category": "时尚供应链",
       "date": "2026-08-27",
-      "source": "Issuewire.com",
-      "title": "Fashion Sourcing The Essential Small Batch Production Beginner’s Guide Explained By Fashion Sourcing - Issuewire.com",
+      "source": "Issuewire",
+      "title": "Fashion Sourcing The Essential Small Batch Production Beginner’s Guide Explained By Fashion Sourcing - Issuewire",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "时尚供应链",
@@ -24,8 +14,8 @@
     {
       "category": "区域供应链",
       "date": "2026-08-18",
-      "source": "South China Morning Post",
-      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - South China Morning Post",
+      "source": "scmp.com",
+      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - scmp.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "区域供应链",
@@ -102,6 +92,16 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
     },
     {
+      "category": "中国供应链",
+      "date": "2026-08-05",
+      "source": "DHL",
+      "title": "Understanding Supply Chain Diversification Strategies - DHL",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLUlwdG1LaXFLSXpaTlV3b3FBOGFIX29GbWNGY1I3aGNqV0dLS1FMNk5wV0R3SXdxQXczVUd2UmdsclMtaUEtaTFyWi11Qmw4QkM1amwwY3FJaURSc1NkRFpXcVZUdnJ6cnR1WXo5NEJJU0VoUVJJNGxtWlltcEI4cDFkaFZuRjUtV1AxVnQzc2k2RFlzbURoM2xzazQ0aG83NDY5VW1fVzRVTHpCczdZ?oc=5"
+    },
+    {
       "category": "能源与原材料",
       "date": "2026-08-05",
       "source": "American Battery Technology Company",
@@ -140,16 +140,6 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMndUanZFblB1NlJvcW9NdEFNNE9TWE9TRVBJM2lhZXdHWU1KSkNCUGFReWExQjh4X244Q0RTazFyNnY1TmNpZDg3eXhybVhfYmZPQWVfQUpqRW5tYlVvd2FtVU5rdWo0MDllTlRuc0VDYkkxaUE1LVQyNG51WXJ0MmtwejJEMFA4?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-07-20",
-      "source": "Bain Capital",
-      "title": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing - Bain Capital",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHFRd2FPaENOX1h3QjVlTl9aSUxKbWlEcktYSTBTNnJYSXhlYXVlWTRMZUdCdXFMVjdCeDM1SDZzai1HcFdaTzBmRkU4OVcwV3R0SVlFZkN3WnlVQ3owVl9BdnJMdXFJUlExNlN6UVVSdkZUME5jX0kxM0J3RnFINEZoRlhwY09maTJCdnlrTS1aUWhnOU5EcTMySGtqcWltejVVd1REcjdCMGJWV1h5VXNXVzFfclV3T0NnSkVfU2I?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -200,6 +190,16 @@
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1hRNzB0V2NrOTVnUjJ3a1RPYTlkdlR2RDM5NFhxdm5HNjhBVldMOGNrdlhTbTA3R253SElkM1Vfd24xV1dlLTEwVFRqZlFpTHFiUklsSHctdl8wQW9hVmRYU2NNYUg1czd1YUZZT1daazlWQ0pOaUNMQW9PcXBsUTctYjZDSzBwVWJtUUFwVXNUdzVNVWxaOFZkdmRDUjQ?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-07-07",
+      "source": "Al Jazeera",
+      "title": "After Iran war upheaval, global shipping eyes return to status quo - Al Jazeera",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWU2amE5VDFhNmRPMWt6NzJ3NjJaYmNoYnZ4a1lDYW54TGdCUWMybXVwWkIySG9rV0I5VUsyRlZham9wT3dDLVc0LUNhQ3dEUDhhdVA1bVNEZ0RpVzl0aG00NVBjZmRsTndsSy1DUV9qb3V1eS1OdjF5cGxBczloaDF4c3pNcWx6V1ZDTmFSRk9pTFhGa3puZWpxS3pReC1kcmZqbDBzRDdXTjZB0gGyAUFVX3lxTFBxWnpiRHI3elBFOE1PT29oZ3NoUHhyNWVQYkFfWHZ3VHlLZ0pRZTYtdzJTYkhxNTRvSERPMnFETm1hLWFQS3ZEQWR1ajJULXRrLXdFRmRQRVI4c3NxWEcyTmViSnQxaFltVGxVYjlzTGI5bjA0dFBra1JuMVo5NzZyVWQzOUFVS2l3SFlEYUdOYnhuMTd1RlRnNVhBVmxEZzd1NGlZQUplOE94WXBTakVWVWc?oc=5"
     }
   ]
 }
