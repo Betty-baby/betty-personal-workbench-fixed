@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-01T23:11+00:00",
+  "updatedAt": "2026-09-02T23:12+00:00",
   "items": [
+    {
+      "category": "物流视角",
+      "date": "2026-08-31",
+      "source": "Journal of Commerce",
+      "title": "Shippers see fresh disruption from China as new typhoon again closes key ports - Journal of Commerce",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW9xbDFOZkhSdzQ2SjRaNUhNak1DblBDRkhHOG1WNV9ndXg0cGlXbFZuRDd1SWI5SzFtX1c2RVJxalpZd3gzWUVlR01OcXZEajBTZVpWTUUxME5JV2JGOURYc2NkSVhuNVVyUU9FbXBkQ3dvUDY0UFFNRmtlSnJJdGRrYUVEejVGNXRYR3ZKZ2VJQ3U2NTJwazVTbEx6UUtDdXBPZkxGMG5uUGgwWlRneURySEs?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-08-29",
+      "source": "Intelligent Living",
+      "title": "Mining City E-Waste for Critical Minerals: How Battery Recycling and Urban Ore Stabilize Supply Chains - Intelligent Living",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sT0tNTGdrZF9EZ2p0Ql9zZFZpbWJXUC1SSlpFZHNNTVVFSzlhbi1wS1l2ZjgyUlNFY2Z6ejY4QXduZ3hscTZDNDlRVTRFbm5qMHpLQm82UHl6aV81ZVNNMWU4NFZJbkRKQWhycjVibENPZw?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-08-28",
+      "source": "markets.businessinsider.com",
+      "title": "AI-Powered, ESG-Embedded Industrial Supply Chain Innovation Earns JINGDONG Industrials 2026 Sedex Technoical Innovation Award - markets.businessinsider.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaDg0SmRwSGpaQ0JfWVRGWFBxTlhRRElyb3lPdW1mMVc4WUFiTkFxOWZwTmF4Z0kyZ09GTng4TFNjOU5xNlFDYjVheE1keW9NYjdVNEJYTm5TbU14WUptNnJUQm5LbHEzVHdxdFF1ZUdoTGN3SEJXRDBKTUw3WnZQNkdpTnA4N2hta3FRYVFjNC1nTlY1cFp1c2xiM1d5RHdvSGJZLUVKZlh5NmxON3h5VEdudlJFczBZU1BHYWl4cTIwTXpZbkR6dFFXMW8tTkpLNU1LRUNiYWJaVWQ2Q1BoZWF2Y2xrSTFKNV9Vazg2d25HcVUzUEs2d05WNUlDWE9meVJ1NzNPOUR0bUJSNm9GVw?oc=5"
+    },
     {
       "category": "时尚供应链",
       "date": "2026-08-27",
@@ -32,6 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
     },
     {
+      "category": "中国供应链",
+      "date": "2026-08-15",
+      "source": "Procurement Magazine",
+      "title": "Top Procurement Stories: PepsiCo, Heineken, GE Appliances - Procurement Magazine",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzV3TkM1eDd2R0ltUHhRR1ZScFVWVHBlTnBYYlU3VXdBOExEV0FBa1pDZ0RtU05ackwwbllhRHFTNHExS0NSN1dIalNYemZpRDVkai1WN0FVNWRuM0RabVZzcHZmeTRFVUExb2hzTjBMMnBwR3ZwSFkxbEY0M3phZmM3U1ExMHM2MmVjbWdEWQ?oc=5"
+    },
+    {
       "category": "物流视角",
       "date": "2026-08-14",
       "source": "India Shipping News",
@@ -40,16 +80,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFUteE1OS0ZlYzI1Ykwyblh1ODBzbklYMlNkSEg2Yk03Z1RRZlNwRVpkQm8xTUJTNmdzVkEwaXU4aktWUFBjVkhlOXUtMm9YWnFnMWoxVzV5RE9GV24ydHdQYUdzYk51a3pYb1VqaGhMN0RQZ0kzR3hEN3JjR3otRHBmNlBZRXZ3dXRBeXJjZzl5dGp0ZERVQTRobVhuend2bGpWUHRRcmMwTUUwS3p6enZJNGtSQQ?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-08-13",
-      "source": "PIB",
-      "title": "Semiconductor and AI Revolution - PIB",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53azRoeENkT2xzYnBNRDZGQ2xLc01GaFFGYjJYa3R6TXB2X1hLYlRvbldwNlo5VmJXTldOZlloTjZ5UzJTaUtsOUMtU3QyOVZhN3B5clRYWmctb2tYbzlSRkJtVnhEdjRa?oc=5"
     },
     {
       "category": "物流视角",
@@ -82,44 +112,24 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
     },
     {
-      "category": "能源与原材料",
-      "date": "2026-07-22",
-      "source": "UN News",
-      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - UN News",
+      "category": "汽车供应链",
+      "date": "2026-07-30",
+      "source": "IEA – International Energy Agency",
+      "title": "Executive summary – Electric Car Markets in a Time of Uncertainty – Analysis - IEA – International Energy Agency",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Db2l1SjhLYTBKa2lFbE05TmczWGdZTk1iWXNjd19ZZ2VBMjhrZG9zZzViNmc0XzVTNy1nczV3RTZTUDdwSG1waHRpeVRKZzRhNWpIam5JTQ?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-07-21",
-      "source": "조선일보",
-      "title": "German Hidden Champions Hold Semiconductor Supply Chain Bottlenecks - 조선일보",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMndUanZFblB1NlJvcW9NdEFNNE9TWE9TRVBJM2lhZXdHWU1KSkNCUGFReWExQjh4X244Q0RTazFyNnY1TmNpZDg3eXhybVhfYmZPQWVfQUpqRW5tYlVvd2FtVU5rdWo0MDllTlRuc0VDYkkxaUE1LVQyNG51WXJ0MmtwejJEMFA4?oc=5"
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWk3V0o2T0VTYzBxNGJsQ3ZjeWctYjEyMS1vb1lUbzB4bTY3d1V3aWtRemhRRFBGT2RCdnV5WXB1YmdOWV9FX0pmcF94U0xiN05oNk5PVW5RTHJzVDZYQUpkYzRHT0o3Y1RRTmhDZmhSR3RrYW51UURoYUVJZE9BTGQtWElxM2xFbk5kc2wtbktsRFROdUE?oc=5"
     },
     {
       "category": "供应商视角",
-      "date": "2026-07-20",
-      "source": "Bain Capital",
-      "title": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing - Bain Capital",
+      "date": "2026-07-24",
+      "source": "Procurement Magazine",
+      "title": "Canada Goose Links Circularity to Supplier Sourcing Plans - Procurement Magazine",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHFRd2FPaENOX1h3QjVlTl9aSUxKbWlEcktYSTBTNnJYSXhlYXVlWTRMZUdCdXFMVjdCeDM1SDZzai1HcFdaTzBmRkU4OVcwV3R0SVlFZkN3WnlVQ3owVl9BdnJMdXFJUlExNlN6UVVSdkZUME5jX0kxM0J3RnFINEZoRlhwY09maTJCdnlrTS1aUWhnOU5EcTMySGtqcWltejVVd1REcjdCMGJWV1h5VXNXVzFfclV3T0NnSkVfU2I?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-07-16",
-      "source": "IEA – International Energy Agency",
-      "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0MxdDEtbzNJVEQ0ZVhkSGxIR3RNdW03QUZZRHNydDVHZ2tsMUJ3U3ZMM1d2dHVGenBmUm8xbXpzR21Eay1PeXlodHgtSWtJWXFXS21ROGJTc2ZpaEcxOExwU3hieFNCcnR5VG1kS3BSR2h5UllSTTZMLVRHUmluRnN4amltWERKaEtRWTh6YktQd3c?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -162,16 +172,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1hRNzB0V2NrOTVnUjJ3a1RPYTlkdlR2RDM5NFhxdm5HNjhBVldMOGNrdlhTbTA3R253SElkM1Vfd24xV1dlLTEwVFRqZlFpTHFiUklsSHctdl8wQW9hVmRYU2NNYUg1czd1YUZZT1daazlWQ0pOaUNMQW9PcXBsUTctYjZDSzBwVWJtUUFwVXNUdzVNVWxaOFZkdmRDUjQ?oc=5"
     },
     {
-      "category": "供应链视角",
-      "date": "2026-07-08",
-      "source": "Fibre2Fashion",
-      "title": "The New Global Sourcing Map: How India, Asia, and Emerging Regions are Reshaping Textile Supply Chains - Fibre2Fashion",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应链",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNm5vM1ZXSUFoWXFYdTBUVlk3Y2ZtelZSTm1POFZYQVp4bjd2SDBKZmdUbnFFWXFCRGhkOW00bXh4Y0dibkNoN3cwcmFIS0hhdG9IdTc4LVVueGJUWlRNaWxLeERrNUliaFVUYVppejVxbnR1bktDMnVudWhSR1h1X3FkeWpOTmQ1dnZHSi1hRWloZE5XN1QtRDZpSzBmdlp2UVMxaGt6SmFqZUFVMHRHVXF0Nm1FTXZOckFjNzU5WmRVdFB0alBGdnZSQmtEdDNRUDhRalN6cG9pNmdYWlJuS3RGN1FkNmvSAfMBQVVfeXFMUGdVYVp5UGJfWko1WnZPTEhud0lEWWZWZkV3Y0J4MTRfZEVITjRjX1ZIRUJkcTlqcnd3Rm5Ra0FMUTdVWklPTkgtYlNmbWF5QVpySkxRQ01aaHNjaC0xSDZkNmF3LW9WYkRVb3pDZjRkTTBWblJBUUZOdTRYSnZJeDJ0MnNJaThjQ3lNTUtRMVRGRU5YTzU3dkhQV19zYWFtWnZBSGtDQVpYRnVDbEtRdXNTSUhBOVNrWENzV3NBVkRvS2pOSVFGXzFFQWZyZlQydEkxbEhGMnNmeC1fWWRFZnUxWDRNR2RKaE9hYU1vdER5aG9j?oc=5"
-    },
-    {
       "category": "物流视角",
       "date": "2026-07-07",
       "source": "Al Jazeera",
@@ -192,14 +192,14 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDlGZzluYm44WF9nNnJ4UkxPWWZ3NFQ1TFRqbTJsS0VSUlRMalowck5tTktZeHdLaDJkVS0tYW5oUndZZTM1TVhqTG5VMVJmV1prNDJFMHE2eEdLRVpqOHkySmZwRGlkWUhpVDdCQVktU1FLV09rU0N0X2R6cllSS0xPVHhFVWJ4X05hVjlsVUQ3VVhNQ3VseFFHOUNGeEtsWG1YZE5ScWVRYXhMbzVObQ?oc=5"
     },
     {
-      "category": "中国供应链",
-      "date": "2026-07-06",
-      "source": "Supply Chain Management Review",
-      "title": "Caught between a rock and a hard place: Mapping your supply chain - Supply Chain Management Review",
+      "category": "汽车供应链",
+      "date": "2026-06-29",
+      "source": "DGAP",
+      "title": "China’s EV Rise and the Strategic Challenge for Japan’s Automotive Industry - DGAP",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SLUVCMFZmVWpyRWJqOGxXWEgtZ2tfdUdvUGlfMDAtOGpCamtZS003WkE4bVJIc1N2MGdmN1liUmY2WHp2Nk42bmZJLXk0N0RSeEE3TXNjeXNEbmdWYnRrVVlKSnhBSjJCa0FDcmZoN3FuLTR0UEtHN2cwZjJsUQ?oc=5"
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMk1EbHlibVd3cUFqd0pGX3F0eFlZejVxOUlQcERqOWxIa1NQdHhEaVMwQlBydWJWdUgwLWN1QWFKQnkxUENsVzBsN002NGNJZWRIXzVYaDVvM2JyMXNzaTVMa0FpVlBya1d1LTFPN3BhQUFVb1pDdFBTcldTVURJLU5aUFg5aVhjLWJXUzBUb0pieDdfLTkxNEVwa1lqdzB1blpiNnM1TWZ1OG8?oc=5"
     }
   ]
 }
