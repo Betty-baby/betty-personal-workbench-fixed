@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-03T23:12+00:00",
+  "updatedAt": "2026-09-04T23:12+00:00",
   "items": [
+    {
+      "category": "物流视角",
+      "date": "2026-09-04",
+      "source": "ET Infra",
+      "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - ET Infra",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
+    },
     {
       "category": "供应商视角",
       "date": "2026-09-03",
@@ -42,16 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     },
     {
-      "category": "贸易与政策",
-      "date": "2026-09-01",
-      "source": "Britannica",
-      "title": "What Is a Trade War? History, Tariffs, & Impact - Britannica",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "贸易与政策",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOQm1yN1o4dXBKdWVGdE1IeG9xN3NTaUdJQUFDOXR3NDZlZmVhYTVhSjdPMFllWHA5SXduczlPMTNoU3FmNEIybl80SEZjYnBPYVpZeHFQekFaVVAtNG9N?oc=5"
-    },
-    {
       "category": "物流视角",
       "date": "2026-08-31",
       "source": "Journal of Commerce",
@@ -60,16 +60,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW9xbDFOZkhSdzQ2SjRaNUhNak1DblBDRkhHOG1WNV9ndXg0cGlXbFZuRDd1SWI5SzFtX1c2RVJxalpZd3gzWUVlR01OcXZEajBTZVpWTUUxME5JV2JGOURYc2NkSVhuNVVyUU9FbXBkQ3dvUDY0UFFNRmtlSnJJdGRrYUVEejVGNXRYR3ZKZ2VJQ3U2NTJwazVTbEx6UUtDdXBPZkxGMG5uUGgwWlRneURySEs?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-08-30",
-      "source": "supplychaindigital.com",
-      "title": "Congested Chinese Ports Cause Supply Chain Operation Issues - supplychaindigital.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZEdOVWxqZ2lMVF9VOE9lbnp2bFlScExDQ2dkRzNCVThETk45TUdKN1V5TWF1dTh3MTRWSFZHNEhZVWE4amFnUUR1aDNkaVJfQm1LbHBzMW9tLVNoY294bHVxXzdRc0dpeUtSOVZJTVZVZGl0Q0pqWmhyTmdidnRPLWZZa0pBdVRxOGdxcU93NnAzZWZTMlplaE9WRQ?oc=5"
     },
     {
       "category": "中国供应链",
@@ -83,13 +73,13 @@
     },
     {
       "category": "供应商视角",
-      "date": "2026-08-27",
-      "source": "Fibre2Fashion",
-      "title": "Apparel Vendor Benchmark Report: How Brands Can Compare Supplier Performance Across Countries - Fibre2Fashion",
+      "date": "2026-08-18",
+      "source": "Supply Chain Digital",
+      "title": "Walmart: Embedding Sustainability Throughout Supply Chain - Supply Chain Digital",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUjZOaTloaWxHUS1KWlZFUlFtWmp0TzZkNHgwM1BMMW1GcDM3UXFwTGF1Qm9mallJN0dBM3NhRFV1R0k5dzNrbjdscG84V0xHY004cUFQNFl4Z3pUSmRQampmNHJyZDJLM1U5V3pwVUhWU3RIVEcyWlZHZUNBd0Vwb01HUmdMdDNPN253OU9mZ2VKbHBULXMxUGhmanlHMlR6NG90bnVFT3p2T181cGlsVlhOS1Jka3JCRGJodDAwVnJIVlkzLUZuVkNaekVBaGR6MFZxZTJSZEJnS2NjUGpHdnNTYkpyUmZmTFBnSGtR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM19SVHdhREdJSkpfM2h6eG9DR193dVJicllaUFJwOWxfWVl2NXpEbEF5RTI1Mzk0dmgwU0JOaEZNWFREcVRrN2FIS0JfdjNaTWZyS3NRUkJ6Y1hPUHEtaG5iX3Ayb1VjWUxPZjk5VjVscGhPdnpnZlp2ZVUzcUN3Zkwwb2JSUHlxd1d6bHp5SXQxTHdua1Nn?oc=5"
     },
     {
       "category": "区域供应链",
@@ -112,34 +102,14 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkVsODdKbGFNSHFJNE9CLUZJWENEYmc0bWZtN0hXYjdMeXgxcTR3RXFXeXk4SXdfVFNoSl9WQWg0U3ZLbFZfS0VuNHFiOGEwcHRCc1JaS0dfd2FzbnVZNFZxbEkwVWtRcE9DUFQ2bUJXTkd3aUxmNUNHQWxHcmJTaWZ6WF9fWENIci1BRE9Qc21qZlo0?oc=5"
     },
     {
-      "category": "区域供应链",
-      "date": "2026-08-16",
-      "source": "The Business Times",
-      "title": "'Full of confidence' in South-east Asia: Cosco Shipping eyes investments in Malaysia, Vietnam and Indonesia to power growth - The Business Times",
+      "category": "时尚供应链",
+      "date": "2026-08-17",
+      "source": "AIMultiple",
+      "title": "Top 11 AI in Fashion Use Cases & Examples - AIMultiple",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXdBYXFMSE9TMlEtelhuUWJCSzZqcnZ3bWVxSGMxYVlONGNCOUEzR1lhbVNXb0s1ekxWWXF2TlA0ZjZpMXlGc1VJa29sdDBFZnYxTHFtQklHYVpZN0lEVHZNQmZ6VjlUZ1N6RG9YcEpfM0lBdW1nX2dhMkY1bFE3RkN6Vi1PdnJtZW51WTFPNUJjdlFyX1Y4M2FyNEREQzd1bmljTjhqRmktVVJzdlBTUXRHRFNHenNVME9HMGNtc21yZDl5X1hqR2w3anFVZ0pINVo1eUlNVVBfUWJHNFZWbkh0VWRwdw?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-08-13",
-      "source": "Clean Energy Canada",
-      "title": "A Critical Moment - Clean Energy Canada",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVEpEUnhJVHJkNXBqbE9MeDFjQmd2U1NOb2pfSXFvWUN4RHBJZEs2V3YtaDlvcVRqdXRIZGpCVnJtdGtoaW9xNmZzZGtDVWJ5dXBmdVYyNl8tSFd5aW43WW5KSkl3dw?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-08-13",
-      "source": "PIB",
-      "title": "Semiconductor and AI Revolution - PIB",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53azRoeENkT2xzYnBNRDZGQ2xLc01GaFFGYjJYa3R6TXB2X1hLYlRvbldwNlo5VmJXTldOZlloTjZ5UzJTaUtsOUMtU3QyOVZhN3B5clRYWmctb2tYbzlSRkJtVnhEdjRa?oc=5"
+      "stage": "时尚供应链",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
     },
     {
       "category": "物流视角",
@@ -152,14 +122,14 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam1zZWx5WDdfTlZTS2ZReXN6ajlVZ3dQSm04Q0JYY2o3NTc4NWVRempvNk9SLW1ybUZrUzZGclNlX1BVUHVoM00zX0RiQ1drMmJVNHNhZnlaOUhqTTRwTEFnSnMwT05QSkQ5alRyRnRWd0lKam9CVDZlVE9WVkI2NzlPRExZRGhiUlotd1hZN3J5WUlZNEpBYkJ3cHA?oc=5"
     },
     {
-      "category": "物流视角",
-      "date": "2026-08-12",
-      "source": "Construction World",
-      "title": "Indian Exporters Face Shipping Delays - Construction World",
+      "category": "时尚供应链",
+      "date": "2026-08-10",
+      "source": "Fortune Business Insights",
+      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lhX29HdktvOEZReFRSNlpBc3NKcmg5MGhtb0dwcXdBZUFXTlE4dzdBSUZCZ3d6LWI1OWI3bjdEcWpmcmxqTVRxVE5hV2Z4dlFZLVhZUXFHNFpHaXducnBzWU5UckEyV050cTBUVnhyaFp1ekdUR2dScFJzaEcwMy05RE8xNHRVQzI1M3FURGUzdm1UMHg3TkdQQkNZcXZSdEJPeGtVdDZHQjBvT3lCVDhadkt4cTRyMTUxVA?oc=5"
+      "stage": "时尚供应链",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -172,34 +142,64 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-07-30",
-      "source": "IEA – International Energy Agency",
-      "title": "Executive summary – Electric Car Markets in a Time of Uncertainty – Analysis - IEA – International Energy Agency",
+      "category": "时尚供应链",
+      "date": "2026-08-04",
+      "source": "WWD",
+      "title": "Top 100 Apparel Brands Ranked by Annual Sales - WWD",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWk3V0o2T0VTYzBxNGJsQ3ZjeWctYjEyMS1vb1lUbzB4bTY3d1V3aWtRemhRRFBGT2RCdnV5WXB1YmdOWV9FX0pmcF94U0xiN05oNk5PVW5RTHJzVDZYQUpkYzRHT0o3Y1RRTmhDZmhSR3RrYW51UURoYUVJZE9BTGQtWElxM2xFbk5kc2wtbktsRFROdUE?oc=5"
+      "stage": "时尚供应链",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnFLaFZXbVlwejFqNzlmX3otWGVDMEJ4NkNselF5bUw2aGFqLUc0VGhtVjRKaGx5V0ZUZTZkNElDSUhSTzBOYjF0a3Q1MzRCdFdtS1lNSXFpcUFBMEE1UFlXMU9hLU96SVBqdmxjbEo1V1FCcDUxWkVzdXJIWkJqaWg4Q1oyeEY0UnI3QVhwZERlVnZUVEtKbUpqSkJwOXBQOG5qWExXaXU1ZFpFcGVyN0VzRERmRmc?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-07-22",
+      "source": "UN News",
+      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - UN News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Db2l1SjhLYTBKa2lFbE05TmczWGdZTk1iWXNjd19ZZ2VBMjhrZG9zZzViNmc0XzVTNy1nczV3RTZTUDdwSG1waHRpeVRKZzRhNWpIam5JTQ?oc=5"
+    },
+    {
+      "category": "供应商视角",
+      "date": "2026-07-20",
+      "source": "Bain Capital",
+      "title": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing - Bain Capital",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHFRd2FPaENOX1h3QjVlTl9aSUxKbWlEcktYSTBTNnJYSXhlYXVlWTRMZUdCdXFMVjdCeDM1SDZzai1HcFdaTzBmRkU4OVcwV3R0SVlFZkN3WnlVQ3owVl9BdnJMdXFJUlExNlN6UVVSdkZUME5jX0kxM0J3RnFINEZoRlhwY09maTJCdnlrTS1aUWhnOU5EcTMySGtqcWltejVVd1REcjdCMGJWV1h5VXNXVzFfclV3T0NnSkVfU2I?oc=5"
     },
     {
       "category": "科技供应链",
-      "date": "2026-07-22",
-      "source": "DW.com",
-      "title": "Can India become the next semiconductor hub after Taiwan? - DW.com",
+      "date": "2026-07-18",
+      "source": "electronics.economictimes.indiatimes.com",
+      "title": "Tata Group resorts to older tech to launch its chip foray - electronics.economictimes.indiatimes.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUkxWT0F0Sl9aMl9yZzNXSXN2YzFfdXFINnAzdmVqTjZPaU9XT3VIMm95ZFhpYWprUUV3U3l2MHFzRG9RRk5ZRW9EM1VuU1pMOGljWGRzNW5CNy1BUmt5SU50bmstZjhFT2N3Zm0tQjZwNEllc0tYQjNwRXhKdkdIejJYcFZaZlRXRUFfMW1oVHBDRlFVSVNCLXMyQXJXcjllZndBWjRnWmVHNGppc2QwUGNiWWNFMGVXX3RCWnVrTkphUTV6ZXBnTWpySkN3dkxlZGw0aHN6SkdSX1BFX2JRUzFvQ3JEZDBLYUHSAe8BQVVfeXFMTTBzWURURUdDMHdiSGZaODZLQ0t4N3B6RHM4OGxzdWhRTWxnb1paMHVwYUlua2VrUTA1Sk9xVXJJSDk3N21FQTY5ZmZ3VGc4cC1STVIzVHQxNkdOMHo2X1dpMEhwWU5jRVVleGI4OER0dGJXdGZJWC1QRzhPdWFsejVuUl9jeUVyM1lWUFNxMjZSd1ZJcFVfY2JTb1hybUcyNGhQendVVjI3d3VLZlEtLXNwMURPeDZjaGtRSWNneElmS3lUbS13VkN4TDlPaExXa1dmdUp4dXRvd2JYZmRHZEtBNm9SdUpQZjFvMG15dzA?oc=5"
     },
     {
-      "category": "物流视角",
-      "date": "2026-07-21",
-      "source": "Kuehne+Nagel",
-      "title": "Port operational updates from around the world (15 - 21 July 2026) - Kuehne+Nagel",
+      "category": "能源与原材料",
+      "date": "2026-07-16",
+      "source": "IEA – International Energy Agency",
+      "title": "Executive summary – Global Critical Minerals Outlook 2026 – Analysis - IEA – International Energy Agency",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xPV3hMcnFqSmdnMmctTVNvU3lvcDZ2ajVmWVhuVTRlaWNyck5ZS0Y1YVVONDA1NkxqaTBlRFUxNlJaWWk5VnQ3V2tFRzk4WG5BYTJRSmU3MHVFSHI2bTJhLUtxbVl5akltTGlyRTRuZzVkc1BsbFZkQXJGcng5SlF6LU10RlM5dVp3?oc=5"
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFNpdzloN056aHJMNWlmbng1YWZ0VnhkUEpjaUNFZUZlVkpJRXd5TDVWOE9iMlEtZ2dZS0t3aEZtWEJQNHk5ajlPRHZIb1FJRWE3TE5LYmpzVXNUX0pwem9Ndk4tZ3J6VThEMXRLeTNaZUx6bndEU2RrWmRWX1Q1NkJfTVBNOHdFX19j?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-07-16",
+      "source": "The Energy Mix",
+      "title": "IEA Stresses Supply Chain Risks for Critical Minerals as Geopolitical Risks Proliferate - The Energy Mix",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLU1iOFdWOTRoc2dVeXNzcExBWUlvUmZDUWphTnlRanRtdC1LSzNyOWVuSHI4NGlWOHF2R01VbnZqZVZqODI4YUVGZXZSQm1NSzk2aHlqMXNtbWZSWjI5ZnowNFNiVnNTNmtIc3BEbGc0UGlZSzF4X29tOS01MEEyZkFlZzEwYzFMblExVHhRLVZoT1hoUlJVQkV0OUxmR3pJd2UtOENnZmptQXB0WEp1UC16NDBpamJq?oc=5"
     }
   ]
 }
