@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:12+00:00",
+  "updatedAt": "2026-09-05T23:12+00:00",
   "items": [
     {
       "category": "物流视角",
@@ -14,32 +14,12 @@
     {
       "category": "供应商视角",
       "date": "2026-09-03",
-      "source": "Med-Tech Insights",
-      "title": "Q&A: How Early Supply Chain Decisions Shape MedTech Success - Med-Tech Insights",
+      "source": "Investopedia",
+      "title": "Understanding Supply Chain Management (SCM) and Its Importance - Investopedia",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNk1kZWgzRFJBM2t3WnRoajB1MEY2anRGSkMzNkV3eE9TQUtubFZzN0FGM3dtb2dFMF9KVC1nZklMa1JIaEF6QkRvcmpUSGptaTBNY3N5NDJEZ0FuaWdQb1VkbmR5dk9lM3Q3OGV0Vzlsb3hvcENCVUNfTzV0al9CRWNuVmNtd1ZPa2ozenNKQUs1bC1CZFoyNGItMElGVTg?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-09-03",
-      "source": "India Shipping News",
-      "title": "Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays - India Shipping News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUIzSkJCbWdIa1phQXlpbDRVX1JNQ0E3aWMwd0ZubWQtYWc0NjRGRHNMUnJ6NHVoMjYzcUtYMHRhNW5mSVU0c250QnY0U2wzTWJzRnRoSlRPc2w5cnkzWTEzQ21nTGFPYTYxWlJzelVLX0M0RHBVTFZ0RkhyX0VVR2V0VmxvX2duQ3dhRUxQVWtRRDBfU0YybU54c0FfTzBqeWxlUllvQU03aVdwd1VrOEczblhpcmFaVFAwMzhaOGNOcWpzczlQLVJVYXBKV2drZWM4UFp2UHU0T3c?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-09-02",
-      "source": "iChongqing",
-      "title": "Built Faster, Priced Lower: China’s Foreign Ministry Spotlights Prefab Homes Now Reaching 150 Markets - iChongqing",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUhBSlYwdF9INTdheGxJTDllUm9IMEpoaHdNWC10SjAzRGZRY3k0QV9yZndkR1EtaW1zZF9ZekdGdGNpYmtrdEhSUnlkcHRMQXljRjhtSk5jbTRMSTYxQjREY0pSQ3lRcndWRnJlOWd0M1AxYmVGSEw5TXl3dHpnWl9FbWdXbHowdzVNN1R1YXBYaTVEa3MtVGpMbmROcW1sSVNCUW1NaXBjSng3emNqczlUZU9WNkJORF90cTFnMi01dzFZNkEtS3lSQnNwMzl5dTRKY9IB2gFBVV95cUxPWF9iQWFFeEY2YThCUEVsT0ZuS0lTVWNCRDBrQ0xoOV8xd1g4RjBSVkFha3paMFdDRVNIQUxCaUdGV0NJQVpJUHNwbmI2U2piVmVKNnhTTkIyNlE5SkdvVDYxT2ZWeEVyUEhNcXlMMEhGTDFpNzZ5T240dlZPb2xVLUZpSWV6cmc4NjZDYXlMVFBJOFZvMjJyMjJYS0U4UE9fLWRnUkJQU2d1TGNFUlF2a2RZVVd1OWl0NjNQbjVqVnloLXhpN0tNR20tMW9DcmhkV1ZNUW54Wi1QUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQmlQbmg2VmFqVGJzN1dfT2FUd2tSZEN2UEVRLTlUVm9SVmdjSlJCaXgzcHctMWJtYVh6SkZhd1lMd0RwVnZXLTZfa0hkWTZVWk1QLWtOaw?oc=5"
     },
     {
       "category": "物流视角",
@@ -92,16 +72,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-08-17",
-      "source": "Fortune Business Insights",
-      "title": "Sustainable Automotive Manufacturing Market Size, Share [2034] - Fortune Business Insights",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkVsODdKbGFNSHFJNE9CLUZJWENEYmc0bWZtN0hXYjdMeXgxcTR3RXFXeXk4SXdfVFNoSl9WQWg0U3ZLbFZfS0VuNHFiOGEwcHRCc1JaS0dfd2FzbnVZNFZxbEkwVWtRcE9DUFQ2bUJXTkd3aUxmNUNHQWxHcmJTaWZ6WF9fWENIci1BRE9Qc21qZlo0?oc=5"
-    },
-    {
       "category": "时尚供应链",
       "date": "2026-08-17",
       "source": "AIMultiple",
@@ -113,9 +83,19 @@
     },
     {
       "category": "物流视角",
+      "date": "2026-08-14",
+      "source": "India Shipping News",
+      "title": "Asia container freight faces delays due to typhoon, tight capacity - India Shipping News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFUteE1OS0ZlYzI1Ykwyblh1ODBzbklYMlNkSEg2Yk03Z1RRZlNwRVpkQm8xTUJTNmdzVkEwaXU4aktWUFBjVkhlOXUtMm9YWnFnMWoxVzV5RE9GV24ydHdQYUdzYk51a3pYb1VqaGhMN0RQZ0kzR3hEN3JjR3otRHBmNlBZRXZ3dXRBeXJjZzl5dGp0ZERVQTRobVhuend2bGpWUHRRcmMwTUUwS3p6enZJNGtSQQ?oc=5"
+    },
+    {
+      "category": "物流视角",
       "date": "2026-08-12",
-      "source": "Metro Global",
-      "title": "Customer Advisory: India and China Container Shipping Disruption - Metro Global",
+      "source": "metro.global",
+      "title": "Customer Advisory: India and China Container Shipping Disruption - metro.global",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
@@ -133,7 +113,7 @@
     },
     {
       "category": "能源与原材料",
-      "date": "2026-08-05",
+      "date": "2026-08-08",
       "source": "American Battery Technology Company",
       "title": "The Next Battery Materials Megatrends Are Already Here - American Battery Technology Company",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
@@ -154,8 +134,8 @@
     {
       "category": "能源与原材料",
       "date": "2026-07-22",
-      "source": "UN News",
-      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - UN News",
+      "source": "news.un.org",
+      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - news.un.org",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "原材料",
@@ -185,11 +165,11 @@
       "category": "能源与原材料",
       "date": "2026-07-16",
       "source": "IEA – International Energy Agency",
-      "title": "Executive summary – Global Critical Minerals Outlook 2026 – Analysis - IEA – International Energy Agency",
+      "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFNpdzloN056aHJMNWlmbng1YWZ0VnhkUEpjaUNFZUZlVkpJRXd5TDVWOE9iMlEtZ2dZS0t3aEZtWEJQNHk5ajlPRHZIb1FJRWE3TE5LYmpzVXNUX0pwem9Ndk4tZ3J6VThEMXRLeTNaZUx6bndEU2RrWmRWX1Q1NkJfTVBNOHdFX19j?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -200,6 +180,26 @@
       "status": "待核验",
       "stage": "原材料",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLU1iOFdWOTRoc2dVeXNzcExBWUlvUmZDUWphTnlRanRtdC1LSzNyOWVuSHI4NGlWOHF2R01VbnZqZVZqODI4YUVGZXZSQm1NSzk2aHlqMXNtbWZSWjI5ZnowNFNiVnNTNmtIc3BEbGc0UGlZSzF4X29tOS01MEEyZkFlZzEwYzFMblExVHhRLVZoT1hoUlJVQkV0OUxmR3pJd2UtOENnZmptQXB0WEp1UC16NDBpamJq?oc=5"
+    },
+    {
+      "category": "区域供应链",
+      "date": "2026-07-14",
+      "source": "kr-asia.com",
+      "title": "ZKH Industrial Supply targets MRO bottlenecks facing Chinese manufacturers in Southeast Asia - kr-asia.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzVMd2liTTRINmR1Rk41YTZvTnhkMWcyckdCcWZHaldZWkRrcFQxUDZ5V19zcGlMM2VsSFVuSnhhWXR5ZnJLektQemVoNmFFU3NUZ3pEd1FMbHVyTEJtRzZxMm1QSWQxY1d2MDZtcWdQZjdJU05RWVc1dmR5RXJoUEE3a2I5Vy1qNVBkQ21XVnVWbjNSUXpLWGtBT0M5dlRPN0NFUTg0LWp3WXczQXdqMDB3?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-07-12",
+      "source": "EV Infrastructure News",
+      "title": "Thailand records US$4.1 billion in EV supply chain investment - EV Infrastructure News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnNUZ0pQNnR1Z3Z2N2I5ZXVWSEhjLWtMVWRlRy1QM0dHdkV2NmYyeENHU21Md3ZZS1FvbUV4b3EzelU5NXJrWl9JSm9QdHZtdTdWNkN4aEpXWl92a1dudnZQb1BPZ21ZMnhkS2trQ201OU4waEU2cHA0eDJsMkwwQUZRbmJuWnhZeUFia1kxZjUxOTJ1VHpkTTVWQnlWd09HN0lKQi1kSUtoZlFBRmxJS25JZw?oc=5"
     }
   ]
 }
