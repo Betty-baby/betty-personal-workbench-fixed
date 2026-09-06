@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:12+00:00",
+  "updatedAt": "2026-09-06T23:12+00:00",
   "items": [
     {
       "category": "物流视角",
@@ -12,14 +12,24 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
     },
     {
-      "category": "供应商视角",
+      "category": "物流视角",
       "date": "2026-09-03",
-      "source": "Investopedia",
-      "title": "Understanding Supply Chain Management (SCM) and Its Importance - Investopedia",
+      "source": "India Shipping News",
+      "title": "Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays - India Shipping News",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQmlQbmg2VmFqVGJzN1dfT2FUd2tSZEN2UEVRLTlUVm9SVmdjSlJCaXgzcHctMWJtYVh6SkZhd1lMd0RwVnZXLTZfa0hkWTZVWk1QLWtOaw?oc=5"
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUIzSkJCbWdIa1phQXlpbDRVX1JNQ0E3aWMwd0ZubWQtYWc0NjRGRHNMUnJ6NHVoMjYzcUtYMHRhNW5mSVU0c250QnY0U2wzTWJzRnRoSlRPc2w5cnkzWTEzQ21nTGFPYTYxWlJzelVLX0M0RHBVTFZ0RkhyX0VVR2V0VmxvX2duQ3dhRUxQVWtRRDBfU0YybU54c0FfTzBqeWxlUllvQU03aVdwd1VrOEczblhpcmFaVFAwMzhaOGNOcWpzczlQLVJVYXBKV2drZWM4UFp2UHU0T3c?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-09-02",
+      "source": "iChongqing",
+      "title": "Built Faster, Priced Lower: China’s Foreign Ministry Spotlights Prefab Homes Now Reaching 150 Markets - iChongqing",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUhBSlYwdF9INTdheGxJTDllUm9IMEpoaHdNWC10SjAzRGZRY3k0QV9yZndkR1EtaW1zZF9ZekdGdGNpYmtrdEhSUnlkcHRMQXljRjhtSk5jbTRMSTYxQjREY0pSQ3lRcndWRnJlOWd0M1AxYmVGSEw5TXl3dHpnWl9FbWdXbHowdzVNN1R1YXBYaTVEa3MtVGpMbmROcW1sSVNCUW1NaXBjSng3emNqczlUZU9WNkJORF90cTFnMi01dzFZNkEtS3lSQnNwMzl5dTRKY9IB2gFBVV95cUxPWF9iQWFFeEY2YThCUEVsT0ZuS0lTVWNCRDBrQ0xoOV8xd1g4RjBSVkFha3paMFdDRVNIQUxCaUdGV0NJQVpJUHNwbmI2U2piVmVKNnhTTkIyNlE5SkdvVDYxT2ZWeEVyUEhNcXlMMEhGTDFpNzZ5T240dlZPb2xVLUZpSWV6cmc4NjZDYXlMVFBJOFZvMjJyMjJYS0U4UE9fLWRnUkJQU2d1TGNFUlF2a2RZVVd1OWl0NjNQbjVqVnloLXhpN0tNR20tMW9DcmhkV1ZNUW54Wi1QUQ?oc=5"
     },
     {
       "category": "物流视角",
@@ -40,16 +50,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW9xbDFOZkhSdzQ2SjRaNUhNak1DblBDRkhHOG1WNV9ndXg0cGlXbFZuRDd1SWI5SzFtX1c2RVJxalpZd3gzWUVlR01OcXZEajBTZVpWTUUxME5JV2JGOURYc2NkSVhuNVVyUU9FbXBkQ3dvUDY0UFFNRmtlSnJJdGRrYUVEejVGNXRYR3ZKZ2VJQ3U2NTJwazVTbEx6UUtDdXBPZkxGMG5uUGgwWlRneURySEs?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-08-28",
-      "source": "markets.businessinsider.com",
-      "title": "AI-Powered, ESG-Embedded Industrial Supply Chain Innovation Earns JINGDONG Industrials 2026 Sedex Technoical Innovation Award - markets.businessinsider.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaDg0SmRwSGpaQ0JfWVRGWFBxTlhRRElyb3lPdW1mMVc4WUFiTkFxOWZwTmF4Z0kyZ09GTng4TFNjOU5xNlFDYjVheE1keW9NYjdVNEJYTm5TbU14WUptNnJUQm5LbHEzVHdxdFF1ZUdoTGN3SEJXRDBKTUw3WnZQNkdpTnA4N2hta3FRYVFjNC1nTlY1cFp1c2xiM1d5RHdvSGJZLUVKZlh5NmxON3h5VEdudlJFczBZU1BHYWl4cTIwTXpZbkR6dFFXMW8tTkpLNU1LRUNiYWJaVWQ2Q1BoZWF2Y2xrSTFKNV9Vazg2d25HcVUzUEs2d05WNUlDWE9meVJ1NzNPOUR0bUJSNm9GVw?oc=5"
     },
     {
       "category": "供应商视角",
@@ -74,6 +74,16 @@
     {
       "category": "时尚供应链",
       "date": "2026-08-17",
+      "source": "Fortune Business Insights",
+      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "时尚供应链",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
+    },
+    {
+      "category": "时尚供应链",
+      "date": "2026-08-17",
       "source": "AIMultiple",
       "title": "Top 11 AI in Fashion Use Cases & Examples - AIMultiple",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
@@ -94,26 +104,16 @@
     {
       "category": "物流视角",
       "date": "2026-08-12",
-      "source": "metro.global",
-      "title": "Customer Advisory: India and China Container Shipping Disruption - metro.global",
+      "source": "Metro Global",
+      "title": "Customer Advisory: India and China Container Shipping Disruption - Metro Global",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam1zZWx5WDdfTlZTS2ZReXN6ajlVZ3dQSm04Q0JYY2o3NTc4NWVRempvNk9SLW1ybUZrUzZGclNlX1BVUHVoM00zX0RiQ1drMmJVNHNhZnlaOUhqTTRwTEFnSnMwT05QSkQ5alRyRnRWd0lKam9CVDZlVE9WVkI2NzlPRExZRGhiUlotd1hZN3J5WUlZNEpBYkJ3cHA?oc=5"
     },
     {
-      "category": "时尚供应链",
-      "date": "2026-08-10",
-      "source": "Fortune Business Insights",
-      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
-    },
-    {
       "category": "能源与原材料",
-      "date": "2026-08-08",
+      "date": "2026-08-05",
       "source": "American Battery Technology Company",
       "title": "The Next Battery Materials Megatrends Are Already Here - American Battery Technology Company",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
@@ -122,20 +122,10 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
     },
     {
-      "category": "时尚供应链",
-      "date": "2026-08-04",
-      "source": "WWD",
-      "title": "Top 100 Apparel Brands Ranked by Annual Sales - WWD",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnFLaFZXbVlwejFqNzlmX3otWGVDMEJ4NkNselF5bUw2aGFqLUc0VGhtVjRKaGx5V0ZUZTZkNElDSUhSTzBOYjF0a3Q1MzRCdFdtS1lNSXFpcUFBMEE1UFlXMU9hLU96SVBqdmxjbEo1V1FCcDUxWkVzdXJIWkJqaWg4Q1oyeEY0UnI3QVhwZERlVnZUVEtKbUpqSkJwOXBQOG5qWExXaXU1ZFpFcGVyN0VzRERmRmc?oc=5"
-    },
-    {
       "category": "能源与原材料",
       "date": "2026-07-22",
-      "source": "news.un.org",
-      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - news.un.org",
+      "source": "UN News",
+      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - UN News",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "原材料",
@@ -184,8 +174,8 @@
     {
       "category": "区域供应链",
       "date": "2026-07-14",
-      "source": "kr-asia.com",
-      "title": "ZKH Industrial Supply targets MRO bottlenecks facing Chinese manufacturers in Southeast Asia - kr-asia.com",
+      "source": "KrASIA",
+      "title": "ZKH Industrial Supply targets MRO bottlenecks facing Chinese manufacturers in Southeast Asia - KrASIA",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "区域供应链",
@@ -194,12 +184,22 @@
     {
       "category": "汽车供应链",
       "date": "2026-07-12",
-      "source": "EV Infrastructure News",
-      "title": "Thailand records US$4.1 billion in EV supply chain investment - EV Infrastructure News",
+      "source": "evinfrastructurenews.com",
+      "title": "Thailand records US$4.1 billion in EV supply chain investment - evinfrastructurenews.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnNUZ0pQNnR1Z3Z2N2I5ZXVWSEhjLWtMVWRlRy1QM0dHdkV2NmYyeENHU21Md3ZZS1FvbUV4b3EzelU5NXJrWl9JSm9QdHZtdTdWNkN4aEpXWl92a1dudnZQb1BPZ21ZMnhkS2trQ201OU4waEU2cHA0eDJsMkwwQUZRbmJuWnhZeUFia1kxZjUxOTJ1VHpkTTVWQnlWd09HN0lKQi1kSUtoZlFBRmxJS25JZw?oc=5"
+    },
+    {
+      "category": "区域供应链",
+      "date": "2026-07-05",
+      "source": "Lowy Institute",
+      "title": "Between the superpowers: Southeast Asia’s strategic supply chain dilemma - Lowy Institute",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpiVkNXREV5TzdueERpTjZZM0JBTmQ4emJrdGdDUXBPRG9WOWlrMlhOcUtFSEV2MGVZbVpoZFp1VXJzcDVjWklKdk1FZVNqaV9zckVoZWlmMDdtREQwbkdUQ3hOWFhPZmdKODZNbmhVRWJNSXRfSEttRWhnU2dUNlF0UVRlV2h5ajludEk2S2psWG1VenptWXNDUF9NVDU5QndhMjZlSHJuMFJqMUNLVlNOOEc?oc=5"
     }
   ]
 }
