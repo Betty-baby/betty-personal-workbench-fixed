@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:13+00:00",
+  "updatedAt": "2026-09-10T23:11+00:00",
   "items": [
     {
       "category": "物流视角",
@@ -52,26 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     },
     {
-      "category": "供应商视角",
-      "date": "2026-08-18",
-      "source": "Supply Chain Digital",
-      "title": "Walmart: Embedding Sustainability Throughout Supply Chain - Supply Chain Digital",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM19SVHdhREdJSkpfM2h6eG9DR193dVJicllaUFJwOWxfWVl2NXpEbEF5RTI1Mzk0dmgwU0JOaEZNWFREcVRrN2FIS0JfdjNaTWZyS3NRUkJ6Y1hPUHEtaG5iX3Ayb1VjWUxPZjk5VjVscGhPdnpnZlp2ZVUzcUN3Zkwwb2JSUHlxd1d6bHp5SXQxTHdua1Nn?oc=5"
-    },
-    {
-      "category": "汽车供应链",
-      "date": "2026-08-18",
-      "source": "South China Morning Post",
-      "title": "Can Indonesia build a lasting EV ‘ecosystem’ and not just a market? - South China Morning Post",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUC1GeGJPOWJlT2pNOFNSUWE2dkEzT0pXU0RSRHZ3QTV0LTlwYmRhQWI0NUpQbi1fYnVtdEtTU29tZmFQN3NUQ2Nvc0hyNXJCNGtFWi1UcUZla3BjZXVaWllSZ3dwNFl4bllQWW5DMzIyc0c1UjJoLW5JcFdLMG0wMi0teDZvYUdzRmV2ZkpOdE9KV2hNeHVkLWdoSFFpN2pmSHJ1YVdKUGIzcFhrSVY1ZG1TcjBzYmJTc2UzVnVUa9IBvwFBVV95cUxQSUZZQk41X1hTN19pVjY1M0dPMFpXdjJUVms4VXp0UUc0NGxReXctWlk0SXJmeDRveURvOGt1WlB0VHpwUzNicU1rVHB5dnlHakhBSDl3U2VpdFVfQ3huNERmaU96VXVudnljdG9zQWI0cVQzUFJ3YW1jV3dHdVUyc01pc3dKOHluTmFwTGFfcExHVE9jSG9mak9JTVdVeXgwenItQWtFZUVSRWtxc1pySnhiZkRhVExRTjAxNUJFUQ?oc=5"
-    },
-    {
       "category": "区域供应链",
       "date": "2026-08-18",
       "source": "South China Morning Post",
@@ -100,6 +80,16 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFUteE1OS0ZlYzI1Ykwyblh1ODBzbklYMlNkSEg2Yk03Z1RRZlNwRVpkQm8xTUJTNmdzVkEwaXU4aktWUFBjVkhlOXUtMm9YWnFnMWoxVzV5RE9GV24ydHdQYUdzYk51a3pYb1VqaGhMN0RQZ0kzR3hEN3JjR3otRHBmNlBZRXZ3dXRBeXJjZzl5dGp0ZERVQTRobVhuend2bGpWUHRRcmMwTUUwS3p6enZJNGtSQQ?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-08-12",
+      "source": "Procurement Magazine",
+      "title": "How DHL's Investment Will Expand China Logistics Capacity - Procurement Magazine",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkZ6MlpnMmNmaWdibTZKNy11UDNoVGtqakd0NDRHSEItTmZkREkxZjRSUHJDeHpKS2ZTSVRuenJsVmlGMU9JaXI4QTFUZWVuMVZOZWVGdzZMX25ZcHZUOV9USnlSZF9ZcnJ6Nkt6aEdtRENRVFFfQWxfZ2VUakx1eHlBcU5yOTFrNFZLRVZoU1BIY2gzcnRR?oc=5"
     },
     {
       "category": "物流视角",
@@ -172,10 +162,20 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Db2l1SjhLYTBKa2lFbE05TmczWGdZTk1iWXNjd19ZZ2VBMjhrZG9zZzViNmc0XzVTNy1nczV3RTZTUDdwSG1waHRpeVRKZzRhNWpIam5JTQ?oc=5"
     },
     {
+      "category": "供应商视角",
+      "date": "2026-07-20",
+      "source": "Bain Capital",
+      "title": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing - Bain Capital",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHFRd2FPaENOX1h3QjVlTl9aSUxKbWlEcktYSTBTNnJYSXhlYXVlWTRMZUdCdXFMVjdCeDM1SDZzai1HcFdaTzBmRkU4OVcwV3R0SVlFZkN3WnlVQ3owVl9BdnJMdXFJUlExNlN6UVVSdkZUME5jX0kxM0J3RnFINEZoRlhwY09maTJCdnlrTS1aUWhnOU5EcTMySGtqcWltejVVd1REcjdCMGJWV1h5VXNXVzFfclV3T0NnSkVfU2I?oc=5"
+    },
+    {
       "category": "能源与原材料",
       "date": "2026-07-16",
-      "source": "iea.org",
-      "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - iea.org",
+      "source": "IEA – International Energy Agency",
+      "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "原材料",
@@ -194,8 +194,8 @@
     {
       "category": "区域供应链",
       "date": "2026-07-14",
-      "source": "kr-asia.com",
-      "title": "ZKH Industrial Supply targets MRO bottlenecks facing Chinese manufacturers in Southeast Asia - kr-asia.com",
+      "source": "KrASIA",
+      "title": "ZKH Industrial Supply targets MRO bottlenecks facing Chinese manufacturers in Southeast Asia - KrASIA",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "区域供应链",
