@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-10T23:11+00:00",
+  "updatedAt": "2026-09-11T23:12+00:00",
   "items": [
+    {
+      "category": "供应商视角",
+      "date": "2026-09-11",
+      "source": "scmr.com",
+      "title": "First Shift: AI demand tightens supply while manufacturers deepen regional sourcing - scmr.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTJQdjdncmpxRV90RXhlWHRDUG5QUzV3NGNNXzVZQmEzRm9KZXV3ekhRdzJoOE1Ba1VWZW5jQUpCb2NlRTU4ZDRUNU1xN1B2em1RQ0o5UkVvcGZQSWpoTUNETFhNaEhWT3dfTDBHck9aTHI3Zkg4WjB2SVNid3oyT2tKOGxnSUFmeWNCc1RYUEk5X2piNjM3Z0JPWXFiOTRlUjg5ekh6cHR5WnJkeGhjcg?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-09-11",
+      "source": "Global Sources",
+      "title": "China turns manufacturing scale into a strategic advantage in the race for high-tech dominance - Global Sources",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSzFNQWZGZVEweW1FZFY0NlJOMG1qa3gtTXA4aVJqNUhLR0Zya0hMMGZfdko4ZEVQZHZNeF9FSnJQOFJUT0Y5RHQzYThSSTUyWElqUUlKcjBLMFNHQ3NBelBSYjdNS29fS0RJbG5VM3h0RWQyNDAxNFFEeXJ0bzhaWFJZQ2dRUWRadWpwZ2xvZUlwTHJ5MzYzZ050dDNzMDhNODhDWEFtaUZ2RlRxc3B6c0drS3NtZ2cweXpta18xVHlxYUpGVUw4QjBzZjlpSU11eUl2QzZKQXI?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-09-09",
+      "source": "Global Sources",
+      "title": "Car Makers Are Moving Into the Stationary Battery Storage Scene as EV Demand Slows Down - Global Sources",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE5MSjFndWYzSWtCemlndndiQ2dzRUdyVnhBcGs5SDZ6aXVERW13a2NhVmhQWmczSmtKRnlaN1VvR2pNOFk0SFJ5Y3ZTNzE4c3hzUHZmcVh0dXhQMUpMUWVqbl9pUDFPVE52RDFYS01Qbkt5QThCVTJLZFhmWkNoQTJiSm1CZTVFSUhFc1BXMmRPQ2VCTWZXTE9WTDlsSFB1d1NWVy1kX2s5Vjc3bmdPZ3J3S0x2UlBfM0hFTlFjQlYxRUtGYjRjR2ZaelF4NVNsZWxrOEtneEhjUQ?oc=5"
+    },
     {
       "category": "物流视角",
       "date": "2026-09-09",
@@ -29,7 +59,7 @@
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0E?oc=5"
     },
     {
       "category": "中国供应链",
@@ -52,6 +82,26 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-08-21",
+      "source": "Gulf News",
+      "title": "DP World moves 500,000 TEUs overland across GCC amid shipping disruption - Gulf News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUE40ckk4NU5SVGJaQklHZDlrdV96bjJzWERzYVBtcGZmM1c3QUtqejNhNFlsNVBYdmRQRHp2RURaRG1aTEczWXM0OEFnazYyMEhfTHNOWFVtZDdKVHBqRTRvZWFndXFvbFFSNXhQTnJMTDdHZlhIMmh4d1ZmQ1UyVG1Oenppb09kVmdFSVJQRGRkeDhnaEc5ZVp0WEx6MEpaS3hIbUVST1BOcHJnQzBseVFMR091WEFSVU1kT1h30gHQAUFVX3lxTE1ZMzhEVjAteU9qM3N0YXE2SUt2aDNCdHI3alh1M2gtQmpWb1ZkeS1MUXp1MjlhWDItRW1XQjlrV0lRNGgxVmhCNjE4OTZnYlgxSEZrX0pnbG15eHQ2enZGbnVTNnFBSVRhRU9uU3FNVFh0N09YVEtTYmVTT3ViOW1IRDhWYU11Rm9tLUtYcjFOLTdHTjhIQ1lEazBjYmkwTGR0cmN0cmhLY013bjdyVmx4OGNBZkNNLW9WMjR5RmQwTHFQZVlHMlR2X0RnX0NUd2g?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-08-18",
+      "source": "South China Morning Post",
+      "title": "Can Indonesia build a lasting EV ‘ecosystem’ and not just a market? - South China Morning Post",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUC1GeGJPOWJlT2pNOFNSUWE2dkEzT0pXU0RSRHZ3QTV0LTlwYmRhQWI0NUpQbi1fYnVtdEtTU29tZmFQN3NUQ2Nvc0hyNXJCNGtFWi1UcUZla3BjZXVaWllSZ3dwNFl4bllQWW5DMzIyc0c1UjJoLW5JcFdLMG0wMi0teDZvYUdzRmV2ZkpOdE9KV2hNeHVkLWdoSFFpN2pmSHJ1YVdKUGIzcFhrSVY1ZG1TcjBzYmJTc2UzVnVUa9IBvwFBVV95cUxQSUZZQk41X1hTN19pVjY1M0dPMFpXdjJUVms4VXp0UUc0NGxReXctWlk0SXJmeDRveURvOGt1WlB0VHpwUzNicU1rVHB5dnlHakhBSDl3U2VpdFVfQ3huNERmaU96VXVudnljdG9zQWI0cVQzUFJ3YW1jV3dHdVUyc01pc3dKOHluTmFwTGFfcExHVE9jSG9mak9JTVdVeXgwenItQWtFZUVSRWtxc1pySnhiZkRhVExRTjAxNUJFUQ?oc=5"
+    },
+    {
       "category": "区域供应链",
       "date": "2026-08-18",
       "source": "South China Morning Post",
@@ -62,6 +112,26 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
     },
     {
+      "category": "区域供应链",
+      "date": "2026-08-18",
+      "source": "Borneo Bulletin",
+      "title": "Thailand’s EEC tops Southeast Asia manufacturing hub ranking - Borneo Bulletin",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmU4Zk5paEliM0M5M1BTNjJTNzdmcjYxVTdJNUJ6bXBCZ1l3YTFnaURqWm4yVjktZUZEOXZVTkp0LUhDdldXWTRob0FXX2ppZUZBdllLODdOeFBFcUEzSWU4U1dVbzE1TFlXVVZlWUpGTjRjcjdrVjBjUXQ0QktyV2RGOXNmUF9wZTNyWE9zVzJFZ2g0?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-08-17",
+      "source": "Fortune Business Insights",
+      "title": "Sustainable Automotive Manufacturing Market Size, Share [2034] - Fortune Business Insights",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkVsODdKbGFNSHFJNE9CLUZJWENEYmc0bWZtN0hXYjdMeXgxcTR3RXFXeXk4SXdfVFNoSl9WQWg0U3ZLbFZfS0VuNHFiOGEwcHRCc1JaS0dfd2FzbnVZNFZxbEkwVWtRcE9DUFQ2bUJXTkd3aUxmNUNHQWxHcmJTaWZ6WF9fWENIci1BRE9Qc21qZlo0?oc=5"
+    },
+    {
       "category": "时尚供应链",
       "date": "2026-08-17",
       "source": "AIMultiple",
@@ -70,6 +140,16 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
+    },
+    {
+      "category": "区域供应链",
+      "date": "2026-08-16",
+      "source": "The Business Times",
+      "title": "'Full of confidence' in South-east Asia: Cosco Shipping eyes investments in Malaysia, Vietnam and Indonesia to power growth - The Business Times",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXdBYXFMSE9TMlEtelhuUWJCSzZqcnZ3bWVxSGMxYVlONGNCOUEzR1lhbVNXb0s1ekxWWXF2TlA0ZjZpMXlGc1VJa29sdDBFZnYxTHFtQklHYVpZN0lEVHZNQmZ6VjlUZ1N6RG9YcEpfM0lBdW1nX2dhMkY1bFE3RkN6Vi1PdnJtZW51WTFPNUJjdlFyX1Y4M2FyNEREQzd1bmljTjhqRmktVVJzdlBTUXRHRFNHenNVME9HMGNtc21yZDl5X1hqR2w3anFVZ0pINVo1eUlNVVBfUWJHNFZWbkh0VWRwdw?oc=5"
     },
     {
       "category": "物流视角",
@@ -102,14 +182,14 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam1zZWx5WDdfTlZTS2ZReXN6ajlVZ3dQSm04Q0JYY2o3NTc4NWVRempvNk9SLW1ybUZrUzZGclNlX1BVUHVoM00zX0RiQ1drMmJVNHNhZnlaOUhqTTRwTEFnSnMwT05QSkQ5alRyRnRWd0lKam9CVDZlVE9WVkI2NzlPRExZRGhiUlotd1hZN3J5WUlZNEpBYkJ3cHA?oc=5"
     },
     {
-      "category": "物流视角",
-      "date": "2026-08-12",
-      "source": "Construction World",
-      "title": "Indian Exporters Face Shipping Delays - Construction World",
+      "category": "区域供应链",
+      "date": "2026-08-09",
+      "source": "KrASIA",
+      "title": "EV boom drives ASEAN car sales in Q2, with Indonesia surging 34% - KrASIA",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lhX29HdktvOEZReFRSNlpBc3NKcmg5MGhtb0dwcXdBZUFXTlE4dzdBSUZCZ3d6LWI1OWI3bjdEcWpmcmxqTVRxVE5hV2Z4dlFZLVhZUXFHNFpHaXducnBzWU5UckEyV050cTBUVnhyaFp1ekdUR2dScFJzaEcwMy05RE8xNHRVQzI1M3FURGUzdm1UMHg3TkdQQkNZcXZSdEJPeGtVdDZHQjBvT3lCVDhadkt4cTRyMTUxVA?oc=5"
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVDlvODRIMXN0OExxX3YyckppMGtmS3ZKaHRkWEVmeWVpTzQ3UTdGT3hzeW80U3BWc28xU2pBYVVvRUFxd3pFUGl4TFhCWmZyNHQ4Tk1GeU1QT0ZRZERuVU5scHpXOFhJTEUwNUg1OFdYbjRKYjBzaU51Qm82SVFVOWxVa2NuR3I0WUE?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -120,86 +200,6 @@
       "status": "待核验",
       "stage": "原材料",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-07-24",
-      "source": "Procurement Magazine",
-      "title": "Canada Goose Links Circularity to Supplier Sourcing Plans - Procurement Magazine",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0MxdDEtbzNJVEQ0ZVhkSGxIR3RNdW03QUZZRHNydDVHZ2tsMUJ3U3ZMM1d2dHVGenBmUm8xbXpzR21Eay1PeXlodHgtSWtJWXFXS21ROGJTc2ZpaEcxOExwU3hieFNCcnR5VG1kS3BSR2h5UllSTTZMLVRHUmluRnN4amltWERKaEtRWTh6YktQd3c?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-07-22",
-      "source": "The Economic Times",
-      "title": "Trade all at sea: Freight rattled by delays, ship shortages and port congestion as West Asia conflict flares up again - The Economic Times",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPUl9hOUQ2Vjh1STVZcEZjbm43RHo3cDBzMktUS0J0UFhFZWJ4ajZ3YVNBQUd2a2ZRS0NQMUxIdHFUVkdYTm84YjVJYXdQb0IwUFA5d3ExdzlRbGRPT0M3dzRiRUcxYzg4dWstcmpGTEVzVWUzWGhsUGVpS09VZ1lKckdfYWNWMXIya1hlQ3hJQ0JRMTA5cTEzemtvUGNGdUNqUVpFTzlfTUd0OFN3MUhtVzc4WTkwcXRGR3FnNG5Ib1JCaTB4WVdvdUg2WG5IZF9LSDNMd2xtbGI1V2tleG1vUWl4UTJtQlVIeHpjYXdqTlAycU15dmxpSnJ1elVSMWxXODdHT1g2OUtKSmZwMVlvZmlhRnJkOVVWWEd6M1BpZmw4UQ?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-07-22",
-      "source": "DW.com",
-      "title": "Can India become the next semiconductor hub after Taiwan? - DW.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-07-22",
-      "source": "UN News",
-      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - UN News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Db2l1SjhLYTBKa2lFbE05TmczWGdZTk1iWXNjd19ZZ2VBMjhrZG9zZzViNmc0XzVTNy1nczV3RTZTUDdwSG1waHRpeVRKZzRhNWpIam5JTQ?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-07-20",
-      "source": "Bain Capital",
-      "title": "Bain Capital Acquires SupplyOn, a Leading European Supply Chain Network for Complex Manufacturing - Bain Capital",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHFRd2FPaENOX1h3QjVlTl9aSUxKbWlEcktYSTBTNnJYSXhlYXVlWTRMZUdCdXFMVjdCeDM1SDZzai1HcFdaTzBmRkU4OVcwV3R0SVlFZkN3WnlVQ3owVl9BdnJMdXFJUlExNlN6UVVSdkZUME5jX0kxM0J3RnFINEZoRlhwY09maTJCdnlrTS1aUWhnOU5EcTMySGtqcWltejVVd1REcjdCMGJWV1h5VXNXVzFfclV3T0NnSkVfU2I?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-07-16",
-      "source": "IEA – International Energy Agency",
-      "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-07-16",
-      "source": "The Energy Mix",
-      "title": "IEA Stresses Supply Chain Risks for Critical Minerals as Geopolitical Risks Proliferate - The Energy Mix",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLU1iOFdWOTRoc2dVeXNzcExBWUlvUmZDUWphTnlRanRtdC1LSzNyOWVuSHI4NGlWOHF2R01VbnZqZVZqODI4YUVGZXZSQm1NSzk2aHlqMXNtbWZSWjI5ZnowNFNiVnNTNmtIc3BEbGc0UGlZSzF4X29tOS01MEEyZkFlZzEwYzFMblExVHhRLVZoT1hoUlJVQkV0OUxmR3pJd2UtOENnZmptQXB0WEp1UC16NDBpamJq?oc=5"
-    },
-    {
-      "category": "区域供应链",
-      "date": "2026-07-14",
-      "source": "KrASIA",
-      "title": "ZKH Industrial Supply targets MRO bottlenecks facing Chinese manufacturers in Southeast Asia - KrASIA",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzVMd2liTTRINmR1Rk41YTZvTnhkMWcyckdCcWZHaldZWkRrcFQxUDZ5V19zcGlMM2VsSFVuSnhhWXR5ZnJLektQemVoNmFFU3NUZ3pEd1FMbHVyTEJtRzZxMm1QSWQxY1d2MDZtcWdQZjdJU05RWVc1dmR5RXJoUEE3a2I5Vy1qNVBkQ21XVnVWbjNSUXpLWGtBT0M5dlRPN0NFUTg0LWp3WXczQXdqMDB3?oc=5"
     }
   ]
 }
