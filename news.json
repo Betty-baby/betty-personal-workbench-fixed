@@ -1,9 +1,19 @@
 {
-  "updatedAt": "2026-09-13T23:12+00:00",
+  "updatedAt": "2026-09-14T23:13+00:00",
   "items": [
     {
       "category": "汽车供应链",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
+      "source": "The National Interest",
+      "title": "Planning Ahead: How to Revitalize America’s EV Industry before ‘China Shock 2.0’ - The National Interest",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUoxaVNKZzVTQkQxM1lMUTZvRXNuWlRtY0x6bHY2aEY3b2ROaTNiYWg5NXJVdnM2WHlnRmlJTlp3c3hEUVJHb1J5MmtFNllYUW1HU3pSY2ZOVFJ2TjhUS3hidTAwX0dwSjVjbm95c2lqSUJKaGVteVkzT3JEWXRkc2xwWUJKM3JqOFlqRmtTdXF0VFRHUjA0aFJoaGxZRFNpVUJHSC0zQUNUNi1BWjRpRXU1OE1WV2RVbWdPUWJRWk4?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-09-14",
       "source": "InsideEVs",
       "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production - InsideEVs",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
@@ -24,22 +34,12 @@
     {
       "category": "中国供应链",
       "date": "2026-09-11",
-      "source": "Global Sources",
-      "title": "China turns manufacturing scale into a strategic advantage in the race for high-tech dominance - Global Sources",
+      "source": "globalsources.com",
+      "title": "China turns manufacturing scale into a strategic advantage in the race for high-tech dominance - globalsources.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "中国供应链",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSzFNQWZGZVEweW1FZFY0NlJOMG1qa3gtTXA4aVJqNUhLR0Zya0hMMGZfdko4ZEVQZHZNeF9FSnJQOFJUT0Y5RHQzYThSSTUyWElqUUlKcjBLMFNHQ3NBelBSYjdNS29fS0RJbG5VM3h0RWQyNDAxNFFEeXJ0bzhaWFJZQ2dRUWRadWpwZ2xvZUlwTHJ5MzYzZ050dDNzMDhNODhDWEFtaUZ2RlRxc3B6c0drS3NtZ2cweXpta18xVHlxYUpGVUw4QjBzZjlpSU11eUl2QzZKQXI?oc=5"
-    },
-    {
-      "category": "汽车供应链",
-      "date": "2026-09-09",
-      "source": "Global Sources",
-      "title": "Car Makers Are Moving Into the Stationary Battery Storage Scene as EV Demand Slows Down - Global Sources",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE5MSjFndWYzSWtCemlndndiQ2dzRUdyVnhBcGs5SDZ6aXVERW13a2NhVmhQWmczSmtKRnlaN1VvR2pNOFk0SFJ5Y3ZTNzE4c3hzUHZmcVh0dXhQMUpMUWVqbl9pUDFPVE52RDFYS01Qbkt5QThCVTJLZFhmWkNoQTJiSm1CZTVFSUhFc1BXMmRPQ2VCTWZXTE9WTDlsSFB1d1NWVy1kX2s5Vjc3bmdPZ3J3S0x2UlBfM0hFTlFjQlYxRUtGYjRjR2ZaelF4NVNsZWxrOEtneEhjUQ?oc=5"
     },
     {
       "category": "物流视角",
@@ -60,16 +60,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-09-02",
-      "source": "iChongqing",
-      "title": "Built Faster, Priced Lower: China’s Foreign Ministry Spotlights Prefab Homes Now Reaching 150 Markets - iChongqing",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUhBSlYwdF9INTdheGxJTDllUm9IMEpoaHdNWC10SjAzRGZRY3k0QV9yZndkR1EtaW1zZF9ZekdGdGNpYmtrdEhSUnlkcHRMQXljRjhtSk5jbTRMSTYxQjREY0pSQ3lRcndWRnJlOWd0M1AxYmVGSEw5TXl3dHpnWl9FbWdXbHowdzVNN1R1YXBYaTVEa3MtVGpMbmROcW1sSVNCUW1NaXBjSng3emNqczlUZU9WNkJORF90cTFnMi01dzFZNkEtS3lSQnNwMzl5dTRKY9IB2gFBVV95cUxPWF9iQWFFeEY2YThCUEVsT0ZuS0lTVWNCRDBrQ0xoOV8xd1g4RjBSVkFha3paMFdDRVNIQUxCaUdGV0NJQVpJUHNwbmI2U2piVmVKNnhTTkIyNlE5SkdvVDYxT2ZWeEVyUEhNcXlMMEhGTDFpNzZ5T240dlZPb2xVLUZpSWV6cmc4NjZDYXlMVFBJOFZvMjJyMjJYS0U4UE9fLWRnUkJQU2d1TGNFUlF2a2RZVVd1OWl0NjNQbjVqVnloLXhpN0tNR20tMW9DcmhkV1ZNUW54Wi1QUQ?oc=5"
     },
     {
       "category": "物流视角",
@@ -102,36 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
     },
     {
-      "category": "区域供应链",
-      "date": "2026-08-18",
-      "source": "Borneo Bulletin",
-      "title": "Thailand’s EEC tops Southeast Asia manufacturing hub ranking - Borneo Bulletin",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmU4Zk5paEliM0M5M1BTNjJTNzdmcjYxVTdJNUJ6bXBCZ1l3YTFnaURqWm4yVjktZUZEOXZVTkp0LUhDdldXWTRob0FXX2ppZUZBdllLODdOeFBFcUEzSWU4U1dVbzE1TFlXVVZlWUpGTjRjcjdrVjBjUXQ0QktyV2RGOXNmUF9wZTNyWE9zVzJFZ2g0?oc=5"
-    },
-    {
-      "category": "时尚供应链",
-      "date": "2026-08-17",
-      "source": "AIMultiple",
-      "title": "Top 11 AI in Fashion Use Cases & Examples - AIMultiple",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
-    },
-    {
-      "category": "区域供应链",
-      "date": "2026-08-16",
-      "source": "The Business Times",
-      "title": "'Full of confidence' in South-east Asia: Cosco Shipping eyes investments in Malaysia, Vietnam and Indonesia to power growth - The Business Times",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXdBYXFMSE9TMlEtelhuUWJCSzZqcnZ3bWVxSGMxYVlONGNCOUEzR1lhbVNXb0s1ekxWWXF2TlA0ZjZpMXlGc1VJa29sdDBFZnYxTHFtQklHYVpZN0lEVHZNQmZ6VjlUZ1N6RG9YcEpfM0lBdW1nX2dhMkY1bFE3RkN6Vi1PdnJtZW51WTFPNUJjdlFyX1Y4M2FyNEREQzd1bmljTjhqRmktVVJzdlBTUXRHRFNHenNVME9HMGNtc21yZDl5X1hqR2w3anFVZ0pINVo1eUlNVVBfUWJHNFZWbkh0VWRwdw?oc=5"
-    },
-    {
       "category": "物流视角",
       "date": "2026-08-14",
       "source": "India Shipping News",
@@ -162,16 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam1zZWx5WDdfTlZTS2ZReXN6ajlVZ3dQSm04Q0JYY2o3NTc4NWVRempvNk9SLW1ybUZrUzZGclNlX1BVUHVoM00zX0RiQ1drMmJVNHNhZnlaOUhqTTRwTEFnSnMwT05QSkQ5alRyRnRWd0lKam9CVDZlVE9WVkI2NzlPRExZRGhiUlotd1hZN3J5WUlZNEpBYkJ3cHA?oc=5"
     },
     {
-      "category": "区域供应链",
-      "date": "2026-08-09",
-      "source": "KrASIA",
-      "title": "EV boom drives ASEAN car sales in Q2, with Indonesia surging 34% - KrASIA",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVDlvODRIMXN0OExxX3YyckppMGtmS3ZKaHRkWEVmeWVpTzQ3UTdGT3hzeW80U3BWc28xU2pBYVVvRUFxd3pFUGl4TFhCWmZyNHQ4Tk1GeU1QT0ZRZERuVU5scHpXOFhJTEUwNUg1OFdYbjRKYjBzaU51Qm82SVFVOWxVa2NuR3I0WUE?oc=5"
-    },
-    {
       "category": "能源与原材料",
       "date": "2026-08-05",
       "source": "American Battery Technology Company",
@@ -182,14 +132,24 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
     },
     {
-      "category": "区域供应链",
-      "date": "2026-07-30",
-      "source": "Thailand Business News",
-      "title": "Southeast Asia's EV Race Heats Up as Foreign and Domestic Producers Chase a Fast-Growing Market - Thailand Business News",
+      "category": "贸易与政策",
+      "date": "2026-07-27",
+      "source": "CliftonLarsonAllen (CLA)",
+      "title": "The Impact of Trump's Tariffs: A Comprehensive Analysis - CliftonLarsonAllen (CLA)",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLW8waUYxTkZxYUg1NXczSUVKUXRVdS1ZQnJHMGtYWWc1Z0p0Slh4TzlFNUhkVWF5UTktbnBoWGtLOERUZTVLZmNXYnBNUFBvVGQwdmIwdC1BcEUtWVo4SnJ5NnpwbVREVFFBYTVHeTJtWGZTRnYwTy0xM01DclFOdnJHN0c5dGpUMTNkeVBSZTB6WnEyZ083bjhNRjlsU256VzlQeV8zVzFRcVZGTXcxcEFaNlZRemJrVU1UUHVna0pxMHliWlFUbWNjdjZqc2p2aDJ0UkJ4ODFOU3l6amFj?oc=5"
+      "stage": "贸易与政策",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTBRLXAtXzNnMUd6YmdaQ2Y0M0NUS1ZnZUxWRENUYVB0N1RJeUd1MmNKdzJSMTVWbC16dzhHU0FIQ0JMRUhKbU1sVVdfcVE5YUt5ajFlNk80RlZHcXNobWxSRHE0dkNGbUk5bXkxVUtBYThMb3JzLTRDSlBYTFBFaXh2VEkySkRqQVRacmpuaUNVRENGS1V4NjlLT0lQV21wVldMNUFwalQ?oc=5"
+    },
+    {
+      "category": "供应商视角",
+      "date": "2026-07-24",
+      "source": "Procurement Magazine",
+      "title": "Canada Goose Links Circularity to Supplier Sourcing Plans - Procurement Magazine",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0MxdDEtbzNJVEQ0ZVhkSGxIR3RNdW03QUZZRHNydDVHZ2tsMUJ3U3ZMM1d2dHVGenBmUm8xbXpzR21Eay1PeXlodHgtSWtJWXFXS21ROGJTc2ZpaEcxOExwU3hieFNCcnR5VG1kS3BSR2h5UllSTTZMLVRHUmluRnN4amltWERKaEtRWTh6YktQd3c?oc=5"
     },
     {
       "category": "物流视角",
@@ -200,6 +160,46 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPUl9hOUQ2Vjh1STVZcEZjbm43RHo3cDBzMktUS0J0UFhFZWJ4ajZ3YVNBQUd2a2ZRS0NQMUxIdHFUVkdYTm84YjVJYXdQb0IwUFA5d3ExdzlRbGRPT0M3dzRiRUcxYzg4dWstcmpGTEVzVWUzWGhsUGVpS09VZ1lKckdfYWNWMXIya1hlQ3hJQ0JRMTA5cTEzemtvUGNGdUNqUVpFTzlfTUd0OFN3MUhtVzc4WTkwcXRGR3FnNG5Ib1JCaTB4WVdvdUg2WG5IZF9LSDNMd2xtbGI1V2tleG1vUWl4UTJtQlVIeHpjYXdqTlAycU15dmxpSnJ1elVSMWxXODdHT1g2OUtKSmZwMVlvZmlhRnJkOVVWWEd6M1BpZmw4UQ?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-07-22",
+      "source": "UN News",
+      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - UN News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Db2l1SjhLYTBKa2lFbE05TmczWGdZTk1iWXNjd19ZZ2VBMjhrZG9zZzViNmc0XzVTNy1nczV3RTZTUDdwSG1waHRpeVRKZzRhNWpIam5JTQ?oc=5"
+    },
+    {
+      "category": "科技供应链",
+      "date": "2026-07-18",
+      "source": "electronics.economictimes.indiatimes.com",
+      "title": "Tata Group resorts to older tech to launch its chip foray - electronics.economictimes.indiatimes.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUkxWT0F0Sl9aMl9yZzNXSXN2YzFfdXFINnAzdmVqTjZPaU9XT3VIMm95ZFhpYWprUUV3U3l2MHFzRG9RRk5ZRW9EM1VuU1pMOGljWGRzNW5CNy1BUmt5SU50bmstZjhFT2N3Zm0tQjZwNEllc0tYQjNwRXhKdkdIejJYcFZaZlRXRUFfMW1oVHBDRlFVSVNCLXMyQXJXcjllZndBWjRnWmVHNGppc2QwUGNiWWNFMGVXX3RCWnVrTkphUTV6ZXBnTWpySkN3dkxlZGw0aHN6SkdSX1BFX2JRUzFvQ3JEZDBLYUHSAe8BQVVfeXFMTTBzWURURUdDMHdiSGZaODZLQ0t4N3B6RHM4OGxzdWhRTWxnb1paMHVwYUlua2VrUTA1Sk9xVXJJSDk3N21FQTY5ZmZ3VGc4cC1STVIzVHQxNkdOMHo2X1dpMEhwWU5jRVVleGI4OER0dGJXdGZJWC1QRzhPdWFsejVuUl9jeUVyM1lWUFNxMjZSd1ZJcFVfY2JTb1hybUcyNGhQendVVjI3d3VLZlEtLXNwMURPeDZjaGtRSWNneElmS3lUbS13VkN4TDlPaExXa1dmdUp4dXRvd2JYZmRHZEtBNm9SdUpQZjFvMG15dzA?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-07-16",
+      "source": "IEA – International Energy Agency",
+      "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-07-16",
+      "source": "The Energy Mix",
+      "title": "IEA Stresses Supply Chain Risks for Critical Minerals as Geopolitical Risks Proliferate - The Energy Mix",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLU1iOFdWOTRoc2dVeXNzcExBWUlvUmZDUWphTnlRanRtdC1LSzNyOWVuSHI4NGlWOHF2R01VbnZqZVZqODI4YUVGZXZSQm1NSzk2aHlqMXNtbWZSWjI5ZnowNFNiVnNTNmtIc3BEbGc0UGlZSzF4X29tOS01MEEyZkFlZzEwYzFMblExVHhRLVZoT1hoUlJVQkV0OUxmR3pJd2UtOENnZmptQXB0WEp1UC16NDBpamJq?oc=5"
     }
   ]
 }
