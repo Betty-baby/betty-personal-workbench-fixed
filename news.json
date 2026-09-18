@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-09-17T23:11+00:00",
+  "updatedAt": "2026-09-18T23:13+00:00",
   "items": [
+    {
+      "category": "科技供应链",
+      "date": "2026-09-18",
+      "source": "ANI News",
+      "title": "SEMICON India Day 2 sees 25 partnerships across chip manufacturing, supply chains, packaging and skills - ANI News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMnRUYTJZVVFqcjJFV2J2UmY3SjR5TUFFWEJfWGpoWklueEdaa3lPLVNiaDlhRlB5RDl6TFYteW9CekNsZ2g3cWM5QzVfeVhOdVFRNXdUZVpJMG5hQmRRRGxqWFRTNW9KS1R2c0NlbTMxUW04Wi0xYjFwdTFxaVFINjFsa09MNnc4cDZSd0lkY08tT3dEbG13UlFwUlNQbDJXZEM1SGt0WmFtY2pudGlQTnBnWlRvd05jaWtzYVBWMDFvVUVTQWtfYlBwaE44MmpHM3VmOXdGVjdOSF9aTDBicmhFVFZCR1U?oc=5"
+    },
+    {
+      "category": "科技供应链",
+      "date": "2026-09-18",
+      "source": "Larsen & Toubro",
+      "title": "L&T Semiconductor and Tata Electronics Partner to Expand Indigenous Manufacturing of Market-leading Chip Products for Global Customers - Larsen & Toubro",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbHVXdXN2RUlYb3cyTUdwYVk0MFQwa2RYaTdGUkFvZG9SOHZJY2xFMWtaLXlKV0ViMGdyYjJBTmZYUkx3VlBjNzlHUDFBSXBlaHRmMDk3blZjUUhPWHd1bmY1aEZlSzhIQTEwZ0lTNVpLWlJSZktoQXR1M1BaSE9YRTlCWVkxblNhYndQVERBaUoxQlVXaFhIbEZJY21EOS16NWN0SXV3clg3TlZwV1k1MmdDMzRJUTRiYVRUOFdVLWlveGRIVC1jZWNxN2JuVWZHcmxMaVJHYXVpZDFzc2RETS1reTRzeElkcmxJSDhjTVRNcHo2OG8tYjR2VlUxNlB3VlBDMlphZkpsdHBiWGFLNFBvbXVRMkFTcUlSTQ?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-09-18",
+      "source": "imarcgroup.com",
+      "title": "How Automotive Lead-Acid Batteries Are Driving Battery Market Growth - imarcgroup.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1B4bUx4RmYzVVEzdzk5TndxbnBJMUdJQVl0b2J6YXVic0VpeENKNGZuYjFKeVNmOTJyQ1d2QkxrVF9RUWE1eEdVc0FraU1sa2VRVld4dDJrVm9HaHllTWZYOHNoUWt1MkZsTGtwbXhxdmR5N2tPcWFvMi1TWTlKc055clE4N093Z2hxZVJPZzlXTHhhR2J0dnNmZUJTMWZOOXBjUjFKVGY?oc=5"
+    },
     {
       "category": "科技供应链",
       "date": "2026-09-17",
       "source": "YourStory.com",
-      "title": "Five deals, one chip ecosystem: Inside Tata Electronics' big semiconductor day - YourStory.com",
+      "title": "SEMICON India sees flurry of MoUs as chip supply chain expands - YourStory.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1RmbDF6NV9KYjNuTHhaTDRMT1AzeTNhMmQ4WjlLZms4aXFTcTl0dkJ0elFWSmRCMm5tS2U1LTk1UXBvMjFJeEZFNEVJUGI1dW9lZ0F2S1VFZTVORkxXUGl5MDBYdUZrM19tNEd6RElnb2JPVS1acTJiSFU4b1ZBbVN3NlZhdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2tyaDh5X1JmZEdzYzZ2V2gtcE5lUTNEZ2FRNjNHejgwUE1JWUc5UWRkNGxpLWdwejNOMFBfTVVfZ2lxT01kWXNvWnViUG9hZHhfM1A4a1lJSXBKaGItZzJDd01UUmVMNlFqaTNwOHNZNllCeFVQcjQ3MEl0bDhJY0RDTDBtVkV6NFRQUVZRNVkzTTBvTC1N?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -44,8 +74,8 @@
     {
       "category": "汽车供应链",
       "date": "2026-09-14",
-      "source": "The National Interest",
-      "title": "Planning Ahead: How to Revitalize America’s EV Industry before ‘China Shock 2.0’ - The National Interest",
+      "source": "nationalinterest.org",
+      "title": "Planning Ahead: How to Revitalize America’s EV Industry before ‘China Shock 2.0’ - nationalinterest.org",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
@@ -74,12 +104,22 @@
     {
       "category": "物流视角",
       "date": "2026-09-04",
-      "source": "ET Infra",
-      "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - ET Infra",
+      "source": "infra.economictimes.indiatimes.com",
+      "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - infra.economictimes.indiatimes.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-09-02",
+      "source": "iChongqing",
+      "title": "Built Faster, Priced Lower: China’s Foreign Ministry Spotlights Prefab Homes Now Reaching 150 Markets - iChongqing",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUhBSlYwdF9INTdheGxJTDllUm9IMEpoaHdNWC10SjAzRGZRY3k0QV9yZndkR1EtaW1zZF9ZekdGdGNpYmtrdEhSUnlkcHRMQXljRjhtSk5jbTRMSTYxQjREY0pSQ3lRcndWRnJlOWd0M1AxYmVGSEw5TXl3dHpnWl9FbWdXbHowdzVNN1R1YXBYaTVEa3MtVGpMbmROcW1sSVNCUW1NaXBjSng3emNqczlUZU9WNkJORF90cTFnMi01dzFZNkEtS3lSQnNwMzl5dTRKY9IB2gFBVV95cUxPWF9iQWFFeEY2YThCUEVsT0ZuS0lTVWNCRDBrQ0xoOV8xd1g4RjBSVkFha3paMFdDRVNIQUxCaUdGV0NJQVpJUHNwbmI2U2piVmVKNnhTTkIyNlE5SkdvVDYxT2ZWeEVyUEhNcXlMMEhGTDFpNzZ5T240dlZPb2xVLUZpSWV6cmc4NjZDYXlMVFBJOFZvMjJyMjJYS0U4UE9fLWRnUkJQU2d1TGNFUlF2a2RZVVd1OWl0NjNQbjVqVnloLXhpN0tNR20tMW9DcmhkV1ZNUW54Wi1QUQ?oc=5"
     },
     {
       "category": "物流视角",
@@ -100,16 +140,6 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-08-21",
-      "source": "Gulf News",
-      "title": "DP World moves 500,000 TEUs overland across GCC amid shipping disruption - Gulf News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUE40ckk4NU5SVGJaQklHZDlrdV96bjJzWERzYVBtcGZmM1c3QUtqejNhNFlsNVBYdmRQRHp2RURaRG1aTEczWXM0OEFnazYyMEhfTHNOWFVtZDdKVHBqRTRvZWFndXFvbFFSNXhQTnJMTDdHZlhIMmh4d1ZmQ1UyVG1Oenppb09kVmdFSVJQRGRkeDhnaEc5ZVp0WEx6MEpaS3hIbUVST1BOcHJnQzBseVFMR091WEFSVU1kT1h30gHQAUFVX3lxTE1ZMzhEVjAteU9qM3N0YXE2SUt2aDNCdHI3alh1M2gtQmpWb1ZkeS1MUXp1MjlhWDItRW1XQjlrV0lRNGgxVmhCNjE4OTZnYlgxSEZrX0pnbG15eHQ2enZGbnVTNnFBSVRhRU9uU3FNVFh0N09YVEtTYmVTT3ViOW1IRDhWYU11Rm9tLUtYcjFOLTdHTjhIQ1lEazBjYmkwTGR0cmN0cmhLY013bjdyVmx4OGNBZkNNLW9WMjR5RmQwTHFQZVlHMlR2X0RnX0NUd2g?oc=5"
     },
     {
       "category": "区域供应链",
@@ -170,36 +200,6 @@
       "status": "待核验",
       "stage": "区域供应链",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDNHVWh0VERmYk9iQ2c4MmZFVm1hdHpMNHJWeWhPdnZFQWtoMnBwc1RfaVpMZGd0VU9oWlR0UVREbUljcW9uSU1Da2I0alJ2c2JHUmo1NGtRN0VSV25NRUJvQ05BZm1iNUZCbDMyUGdOSEtIYl9BaFhoTFB2RllySEF1VnY1eTRwTzVqRGhKUFhXd0MxbXAtZjJlWk5kZFNDd0x5OERfRWNPVGdCN2NBUnFYQkZwV0dMdnZONkk0NWFUYjI3ZFNyTDZjQ3V6UjVqcUE?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-07-24",
-      "source": "Welcome to the United Nations",
-      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - Welcome to the United Nations",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR3hDdXN5NmFZTjdxZEJFcXhxN1ZYUmhIQVRoUXVDNjQ5Rno5ekx0LVBqM1daWWpnaFJMRi1aRVRlbm9kRllMdVRxSkFiTVRxZUhEeUZLVmRjRDhrQVhva2M4SXBVWkt2aWVfRXQ3Z1drRVB6LU9wOTdnV29ZZTVVbDNkdzlPQzRxaGZpU1I2VGdmUFVpWnBqd0laZDBaMlYtTmJNSUNLUE93bnpYZklzNGdxUW14Q3M?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-07-22",
-      "source": "DW.com",
-      "title": "Can India become the next semiconductor hub after Taiwan? - DW.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-07-21",
-      "source": "chosun.com",
-      "title": "German Hidden Champions Hold Semiconductor Supply Chain Bottlenecks - chosun.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMndUanZFblB1NlJvcW9NdEFNNE9TWE9TRVBJM2lhZXdHWU1KSkNCUGFReWExQjh4X244Q0RTazFyNnY1TmNpZDg3eXhybVhfYmZPQWVfQUpqRW5tYlVvd2FtVU5rdWo0MDllTlRuc0VDYkkxaUE1LVQyNG51WXJ0MmtwejJEMFA4?oc=5"
     }
   ]
 }
