@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-09-20T23:12+00:00",
+  "updatedAt": "2026-09-21T23:13+00:00",
   "items": [
     {
+      "category": "科技供应链",
+      "date": "2026-09-21",
+      "source": "ChemAnalyst",
+      "title": "Tata Electronics, Sumitomo Chemical Deepen India Semiconductor Supply Chain - ChemAnalyst",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZksybk1BTjBJbFMwOWZwNFpKb2s1eUJ3VU5zVmNleHdxTjVSSm5Qb0VZTkNtemZLZ2ZfbVBlbGF4WTNqcWRjdjNLeTN3TU90NVBjdHlTNVNmaUFIdUxQQy0wT21ZYzRiVTA4NU93SnJycEl2VGt5N2JhZ0FfWWFWU3VfMEN5YXdRUVpFcDFqWllWT2F1RGdDWkxUZGktWElNU3gxd2VlWWY4ZXF4WXdmRUFUMVZqbHRXczlqVg?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-09-21",
+      "source": "fleetpoint.org",
+      "title": "ACEA call for delay to EV rules as UK-EU trade faces 10% tariff - fleetpoint.org",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1piY2QyOVVxeU1ncTF0YkdkU1ppSFZDLUQ4d0N1THRSR3BabHhnb3ZRZWRUWjZyRHVFWWpsUUNJRy1iSUdTS3FWel8xbDh2YktESGlfNjA0M0d3MjliWmdETXZvSV9fcTZNZEYzLVJIRFdzUXJaMVRHbm1CV1ZIMFFSaWdKNHpoU2ZQczYzeDlNTHhzR21DQXhILW91OFJmZlU4OUNhUWQ2SlJ4YzQ0?oc=5"
+    },
+    {
       "category": "中国供应链",
-      "date": "2026-09-20",
-      "source": "Issuewire",
-      "title": "Top 10 Pallet Racking Manufacturer In China - Issuewire",
+      "date": "2026-09-19",
+      "source": "debuglies.com",
+      "title": "China’s Global Technology Supply Chains: State-Backed Resource, Manufacturing and Logistics Networks Behind Strategic Industrial Expansion - debuglies.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkNZamhfRjdMbTh5V0pOZ3hMT1ZYZzFPcmNtRTEyenM1TDR1LVNWbzd1bURxR25kMHB6bU5WQUctSTR5c1ozbjdva1N1QkhHXzJKamZmSHUzcDY2WU4wVXFnUEhnXzhtMl9yVlZUTGpKSlJmVmR5TE9GZ1kxaDNnOG9aQUVUOENwbEU0b3ZqWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcE5WX2dwRFM0aDJ4Q2k2WU9jaEpVeG1faXFDdUM3d3ZMeW9FTzhXd19Wc0tjSG5qc09sSjdhck1fVEhJem5pVE5Pa3UycGI3UmNieTVncEtBNDhKZEZ2RlBfaXZ4Wk1kcTlrb0QxUlZQQ2Jod2F0dEMxN0V2bjVnZnZkM1hWSzNjVUVJVXFyN0JnUFpCTExsbWRMa1g4OTFUMUFyLWNReHdxbWp3MGhiSTdEVEZBQzlrbjlCYmt4REZNbXpLVlhiZlRwckgtQzFZZTRTaEQxTlE3SXpvYXFBMG9weVRDQXgxbFRBQ1ZlbDc2UlBQakppN3ozalYwZw?oc=5"
     },
     {
       "category": "科技供应链",
@@ -24,8 +44,8 @@
     {
       "category": "科技供应链",
       "date": "2026-09-18",
-      "source": "larsentoubro.com",
-      "title": "L&T Semiconductor and Tata Electronics Partner to Expand Indigenous Manufacturing of Market-leading Chip Products for Global Customers - larsentoubro.com",
+      "source": "Larsen & Toubro",
+      "title": "L&T Semiconductor and Tata Electronics Partner to Expand Indigenous Manufacturing of Market-leading Chip Products for Global Customers - Larsen & Toubro",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
@@ -33,23 +53,13 @@
     },
     {
       "category": "科技供应链",
-      "date": "2026-09-17",
-      "source": "YourStory.com",
-      "title": "Five deals, one chip ecosystem: Inside Tata Electronics' big semiconductor day - YourStory.com",
+      "date": "2026-09-18",
+      "source": "Rediff MoneyWiz",
+      "title": "Tata Electronics & L&T Partner for India Chip Manufacturing - Rediff MoneyWiz",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1RmbDF6NV9KYjNuTHhaTDRMT1AzeTNhMmQ4WjlLZms4aXFTcTl0dkJ0elFWSmRCMm5tS2U1LTk1UXBvMjFJeEZFNEVJUGI1dW9lZ0F2S1VFZTVORkxXUGl5MDBYdUZrM19tNEd6RElnb2JPVS1acTJiSFU4b1ZBbVN3NlZhdw?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-09-17",
-      "source": "YourStory.com",
-      "title": "SEMICON India sees flurry of MoUs as chip supply chain expands - YourStory.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2tyaDh5X1JmZEdzYzZ2V2gtcE5lUTNEZ2FRNjNHejgwUE1JWUc5UWRkNGxpLWdwejNOMFBfTVVfZ2lxT01kWXNvWnViUG9hZHhfM1A4a1lJSXBKaGItZzJDd01UUmVMNlFqaTNwOHNZNllCeFVQcjQ3MEl0bDhJY0RDTDBtVkV6NFRQUVZRNVkzTTBvTC1N?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMW9OTWtnY0IySFo3dkVsajl4cmdkZ2YtZnFxLVVINDVLaDFEQWFOUUNLcE12enE2eGt6aV9OUm1TZW9CVmNHNDY4MXZQYzFqNElBYlBTN0ktWU9wVVhHRWc3d2RQQXA3bl9lTEdZNG4yVG80RHFGYjNwSjhtdDN1eHFBbjlkOS0tZTdCZXlzOFh4b0sxbkY1dHJ6Z3FtX3M1Y25tOWhna3FuYTBYNmfSAbMBQVVfeXFMTWFWU25uMk0tUF9Ka2hZaEFBYU9rZTlyQ2hVWWxJM3g3YTdpMFZVejJtTG1UM19GRjRLX0JRRE5NeEVWUUxDLWFGLWxKMGdwWWljQVR4QWQ4UEQ0LUxuR3hMaGpzVkUzN2p0bEdQRkVZQVRrWHFJWkhILWJJbGVBU01hODZDQy1acFhieVpkdWxaS3BBZUV0MkRyTVJMQUJKTjI3NXVsdlV0cU5nZ1d3WWc2UHc?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -64,8 +74,8 @@
     {
       "category": "汽车供应链",
       "date": "2026-09-15",
-      "source": "Reuters",
-      "title": "How Trump’s war on EVs derailed America’s auto-factory revival - Reuters",
+      "source": "reuters.com",
+      "title": "How Trump’s war on EVs derailed America’s auto-factory revival - reuters.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
@@ -112,28 +122,8 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-08-31",
-      "source": "Fortune Business Insights",
-      "title": "Electric Vehicle Adhesives Market Size, Share | Growth [2034] - Fortune Business Insights",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnlZVkVnaDVrMXBxMGJESGNnQnJ3NmV0VUhWMHZaSTZKdVRndW5LbXRld0VqNWtVdDlMcVpPX0ROUVJ3WExGUkNDVlQyUS01Qm5idzN4MHdRMW1mcWJhS19jRzItYVBOZG9SVXl2Z2VtUktaTDFzRXNzWmNNem1FWDdxRlg2eTA?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-08-26",
-      "source": "DD India",
-      "title": "How India is building its semiconductor ecosystem: From electronics manufacturing to Semicon 2.0 - DD India",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFVXM0ZOcVdxR0FidHZ3QklaQUNQMXh0OFFTd3hCZzFqdHo1STFtWXV6ZGVnXzdDTUJtYVFKajRaOE03bXJIczdicUxWMjJCRFpncmhac3drX1pPU2ZpZjgxTVI5Zy11UGdJMl8zck56RnZfbmdQc3RnRUFBMXlEWEFQRXJfZlJtamxKdG1VNEhyRjFxbE95TlVranVLZGhJUTVXLVpSZmM5aWxYd1ROUmJVR1ZXdEk4MXVpbjRkNTlWaDhV?oc=5"
-    },
-    {
       "category": "时尚供应链",
-      "date": "2026-08-24",
+      "date": "2026-08-31",
       "source": "Fortune Business Insights",
       "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
@@ -162,16 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
     },
     {
-      "category": "区域供应链",
-      "date": "2026-08-16",
-      "source": "The Business Times",
-      "title": "'Full of confidence' in South-east Asia: Cosco Shipping eyes investments in Malaysia, Vietnam and Indonesia to power growth - The Business Times",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXdBYXFMSE9TMlEtelhuUWJCSzZqcnZ3bWVxSGMxYVlONGNCOUEzR1lhbVNXb0s1ekxWWXF2TlA0ZjZpMXlGc1VJa29sdDBFZnYxTHFtQklHYVpZN0lEVHZNQmZ6VjlUZ1N6RG9YcEpfM0lBdW1nX2dhMkY1bFE3RkN6Vi1PdnJtZW51WTFPNUJjdlFyX1Y4M2FyNEREQzd1bmljTjhqRmktVVJzdlBTUXRHRFNHenNVME9HMGNtc21yZDl5X1hqR2w3anFVZ0pINVo1eUlNVVBfUWJHNFZWbkh0VWRwdw?oc=5"
-    },
-    {
       "category": "物流视角",
       "date": "2026-08-14",
       "source": "India Shipping News",
@@ -182,16 +162,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFUteE1OS0ZlYzI1Ykwyblh1ODBzbklYMlNkSEg2Yk03Z1RRZlNwRVpkQm8xTUJTNmdzVkEwaXU4aktWUFBjVkhlOXUtMm9YWnFnMWoxVzV5RE9GV24ydHdQYUdzYk51a3pYb1VqaGhMN0RQZ0kzR3hEN3JjR3otRHBmNlBZRXZ3dXRBeXJjZzl5dGp0ZERVQTRobVhuend2bGpWUHRRcmMwTUUwS3p6enZJNGtSQQ?oc=5"
     },
     {
-      "category": "中国供应链",
-      "date": "2026-08-12",
-      "source": "Procurement Magazine",
-      "title": "How DHL's Investment Will Expand China Logistics Capacity - Procurement Magazine",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkZ6MlpnMmNmaWdibTZKNy11UDNoVGtqakd0NDRHSEItTmZkREkxZjRSUHJDeHpKS2ZTSVRuenJsVmlGMU9JaXI4QTFUZWVuMVZOZWVGdzZMX25ZcHZUOV9USnlSZF9ZcnJ6Nkt6aEdtRENRVFFfQWxfZ2VUakx1eHlBcU5yOTFrNFZLRVZoU1BIY2gzcnRR?oc=5"
-    },
-    {
       "category": "物流视角",
       "date": "2026-08-12",
       "source": "Metro Global",
@@ -199,7 +169,37 @@
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam1zZWx5WDdfTlZTS2ZReXN6ajlVZ3dQSm04Q0JYY2o3NTc4NWVRempvNk9SLW1ybUZrUzZGclNlX1BVUHVoM00zX0RiQ1drMmJVNHNhZnlaOUhqTTRwTEFnSnMwT05QSkQ5alRyRnRWd0lKam9CVDZlVE9WVkI2NzlPRExZRGhiUlotd1hZN3J5WUlZNEpBYkJ3cHA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHFoZVpxUXkta2taM21DVlNseno2RktvNHh1YTVZNE5fNnVqcDBFMGQ1SC0zM1h4OWVlWTZ5MGo2bmF0WDM4Rk5jUjcxMjh0ejQzc04zbVdWR2x4YmJlR1NHMml0Si04bnhXOWhWSjhpMGV4Uk1TQm10TmxMcFFOZEF5dzJFczdTYVl2Ny04bkZvbWxHcm5VeVlVQnZOV0hSYWc?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-08-12",
+      "source": "Construction World",
+      "title": "Indian Exporters Face Shipping Delays - Construction World",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lhX29HdktvOEZReFRSNlpBc3NKcmg5MGhtb0dwcXdBZUFXTlE4dzdBSUZCZ3d6LWI1OWI3bjdEcWpmcmxqTVRxVE5hV2Z4dlFZLVhZUXFHNFpHaXducnBzWU5UckEyV050cTBUVnhyaFp1ekdUR2dScFJzaEcwMy05RE8xNHRVQzI1M3FURGUzdm1UMHg3TkdQQkNZcXZSdEJPeGtVdDZHQjBvT3lCVDhadkt4cTRyMTUxVA?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-08-05",
+      "source": "American Battery Technology Company",
+      "title": "The Next Battery Materials Megatrends Are Already Here - American Battery Technology Company",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5"
+    },
+    {
+      "category": "区域供应链",
+      "date": "2026-07-30",
+      "source": "Nikkei Asia",
+      "title": "Philippines joins Southeast Asia's EV race with $1bn manufacturing subsidy - Nikkei Asia",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDNHVWh0VERmYk9iQ2c4MmZFVm1hdHpMNHJWeWhPdnZFQWtoMnBwc1RfaVpMZGd0VU9oWlR0UVREbUljcW9uSU1Da2I0alJ2c2JHUmo1NGtRN0VSV25NRUJvQ05BZm1iNUZCbDMyUGdOSEtIYl9BaFhoTFB2RllySEF1VnY1eTRwTzVqRGhKUFhXd0MxbXAtZjJlWk5kZFNDd0x5OERfRWNPVGdCN2NBUnFYQkZwV0dMdnZONkk0NWFUYjI3ZFNyTDZjQ3V6UjVqcUE?oc=5"
     }
   ]
 }
