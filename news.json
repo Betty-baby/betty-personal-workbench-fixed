@@ -1,21 +1,11 @@
 {
-  "updatedAt": "2026-09-27T01:13+00:00",
+  "updatedAt": "2026-09-28T01:28+00:00",
   "items": [
-    {
-      "category": "汽车供应链",
-      "date": "2026-09-25",
-      "source": "Batteries News",
-      "title": "DHL ramps up battery logistics network worldwide as electrification reshapes automotive and energy supply chains - Batteries News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjZoOFBEdmpjdmZkLXoxUkYyX1kwMHNwRDdkSExSNGJMTXdUbTJWcHltNGJVLXJiOXJoU2hibVNzdGFoVU1ZTjE0dWg0MDZkZDFKWEZqSW94Q1BfbXBiZWhudkZZSURUZzZvLW51QlNxUXktalpLdmdiUjIzV0RzNk9yWDJrSzd4Vndqc3hHbWhrcUZQT2dDWjBIbUdqbHVCbEkxSDRPTTdZMnlUcDg2aU4yb2ctLUJoajZiVG5Ea2JVRjRSVjFsd2NXamxYbmZ1dHgxTm5R?oc=5"
-    },
     {
       "category": "科技供应链",
       "date": "2026-09-24",
-      "source": "Business Standard",
-      "title": "India must build chip capacity to guard against tech denial: Meity secy - Business Standard",
+      "source": "business-standard.com",
+      "title": "India must build chip capacity to guard against tech denial: Meity secy - business-standard.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
@@ -34,8 +24,18 @@
     {
       "category": "汽车供应链",
       "date": "2026-09-22",
-      "source": "Bruegel",
-      "title": "The European Union’s automotive sector needs a plan, not undue protection - Bruegel",
+      "source": "American Journal of Transportation",
+      "title": "DHL ramps up battery logistics network worldwide as electrification reshapes automotive and energy supply chains - American Journal of Transportation",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbFFiVktBZmx6VnBXVVhmNXdONXJ1UlJsaDJBTkhVZHRScVZtZ1lBV1FKZWk2UVdCQjJacTlYM1pTcGJJcGRoeWlZc19zSjJDcnhWakFqVTJPQzRrd3FpcEZ5QVlVdzFsTFVJLUlmRkZ2bTBFZmVxS1Y0TV93UGNLMldhai1kMnVuQ25WOVZ4N0hxbEYtNnRSdXlrcl9ueUdoY0NWMWZpYjRKMjFwTkRxUllheUJmdU9Ub1FzNzZGSlBSVWdFdmVjVHdCTDlaN1ppdTR5Mw?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-09-22",
+      "source": "bruegel.org",
+      "title": "The European Union’s automotive sector needs a plan, not undue protection - bruegel.org",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
@@ -74,12 +74,12 @@
     {
       "category": "科技供应链",
       "date": "2026-09-17",
-      "source": "PIB",
-      "title": "Semicon 2.0 to deepen India’s semiconductor ecosystem with focus on design, equipment, fabs, advanced packaging, R&D and talent - PIB",
+      "source": "Tata Electronics",
+      "title": "Nexperia and Tata Electronics announce strategic partnership across semiconductor manufacturing, technology, and innovation - Tata Electronics",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xWkhFZGJkLWtMaWRpdEZuaWYyNXRzeElHaGFqVUd5YldiMDdQTEFPaWxUbFlvMGo1ejZQZ19CXy02R0g5ZldsMWMzTUZxQVZwSmdVT004QXZPLVU4LS1UZjlKVm55Vmts?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV2RZd2hBVnNIOTJxaTQwYXNobEpiQjZrb0JjTGgySjNKZGZaX2JadFJWMHNjMHJPVmx4RDlQQmx4QzNBNUY3czFmYUd3dlpYX0p2SHRmdHVWUGpzRWhwUmUzWWd1Zlc0cEQ2VDU2RVRVc3hqMlNKaFpWSmZIZlUzeUlqRnVWaTZ0WEstcnVGWVVuV2pXdFhHYTJQSlZEUnA0UVZoMFVVRnBnV3dkOFJWZGlwOFh4cG1hdFRqZHJKVEhleVJ0SXpJbzhOd0dJSFN1QnB2dzN0cEdCOVhWY3hkM2VqMDFxdXFsQTRZ?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -92,10 +92,20 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONy04bnhub291eEh0VWZYc2hpa1ZpaFlqVk5rRGpVbEVQdEc4VVBuLUhjU21aTjNuNVJ0THRTbks4Z3lGXzBUSGlQcGJnNE1ramVxWG9ybGh4amxPXzR2Q0NRRDQ2SzZRUlJja3l0MDgyTDR3dnpVTFZnRndyMVpNUUExZl8yaGp6MUtVOGFsU1F6c0Q2VmtobDVuWVpHei1tMEdTR3otNU5VMG9x?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-09-09",
+      "source": "India Shipping News",
+      "title": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions - India Shipping News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZktXZ1llZzluOG8wVkVreExKeGZmNVdvVGlEN1FQV2tCcG5kb1NoTWRrVllFQ1k4aWxSMGFidU5VU0lLSzA2RktHejNVSlpfaVk2c3JrdnJlUnY2YWFIYUVYc01nQTAyanppVXZyQ0VpeWRDcUtnc0JINWhlOTZmdWdwS2dmRnhKaHhKSHZQNUpBa2V2b1dLNGFWZGZqTXdNbHlweDJtMG04TXlRdnJ6Ql9qazZMMUd0R1c1blhMOXVXMUlpb1U4Rm14UkxHQnpyUDF3aHhoSG1tbXNDRXF0VDF4UlFCekRaNXJQcUplUmEzYlZRRGNrZjN5TmdmdEVpak82YXFSMA?oc=5"
+    },
+    {
       "category": "贸易与政策",
       "date": "2026-09-09",
-      "source": "Business Standard",
-      "title": "US, EU strongly criticise India's tariffs, non-tariff trade barriers - Business Standard",
+      "source": "business-standard.com",
+      "title": "US, EU strongly criticise India's tariffs, non-tariff trade barriers - business-standard.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "贸易与政策",
@@ -104,12 +114,22 @@
     {
       "category": "时尚供应链",
       "date": "2026-09-07",
-      "source": "Fortune Business Insights",
-      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
+      "source": "fortunebusinessinsights.com",
+      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - fortunebusinessinsights.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-09-04",
+      "source": "infra.economictimes.indiatimes.com",
+      "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - infra.economictimes.indiatimes.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
     },
     {
       "category": "区域供应链",
@@ -120,6 +140,16 @@
       "status": "待核验",
       "stage": "区域供应链",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2VLay02a3U1UnFDWmZpbUw3TGlYSU5ydGtDWW5kT0NrbVVDVzU0MXVENG9fYlNXaVFMT1lfYjdFbnpZRkhqcS0tTkNkbUFGazktNnpIa0pZa0hxaUZnOTZpWHE5VEJhVnRic0xZU2Rvd2FrS1RoQXd0ckl0U0xieUZyeHlmRWZCcjNsTTNsazZ2QzlRUnNLcmYteC1oMUE?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-09-01",
+      "source": "The Loadstar",
+      "title": "News More disruption at Mundra Port as operators refuse to move boxes - The Loadstar",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     },
     {
       "category": "区域供应链",
@@ -152,6 +182,16 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkZ6MlpnMmNmaWdibTZKNy11UDNoVGtqakd0NDRHSEItTmZkREkxZjRSUHJDeHpKS2ZTSVRuenJsVmlGMU9JaXI4QTFUZWVuMVZOZWVGdzZMX25ZcHZUOV9USnlSZF9ZcnJ6Nkt6aEdtRENRVFFfQWxfZ2VUakx1eHlBcU5yOTFrNFZLRVZoU1BIY2gzcnRR?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-08-12",
+      "source": "Construction World India",
+      "title": "Indian Exporters Face Shipping Delays - Construction World India",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lhX29HdktvOEZReFRSNlpBc3NKcmg5MGhtb0dwcXdBZUFXTlE4dzdBSUZCZ3d6LWI1OWI3bjdEcWpmcmxqTVRxVE5hV2Z4dlFZLVhZUXFHNFpHaXducnBzWU5UckEyV050cTBUVnhyaFp1ekdUR2dScFJzaEcwMy05RE8xNHRVQzI1M3FURGUzdm1UMHg3TkdQQkNZcXZSdEJPeGtVdDZHQjBvT3lCVDhadkt4cTRyMTUxVA?oc=5"
+    },
+    {
       "category": "能源与原材料",
       "date": "2026-08-05",
       "source": "American Battery Technology Company",
@@ -160,46 +200,6 @@
       "status": "待核验",
       "stage": "原材料",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXlDNDM3WVJCckV5SkZLWkExaWRpcklkYWZfM2dlZ2Rlc3VYR1FwYU1zdUQtQ2dwRHh2aWpFcEk0akF3eEkycXFzbjNrNnVJMFdvc1lJNm5ZR0tSeTBROC1sNzJoU29ZYnhMa2hfSXAwX2c1QVRBNVMzYS1QODdYVko4Nkw?oc=5"
-    },
-    {
-      "category": "区域供应链",
-      "date": "2026-07-30",
-      "source": "Nikkei Asia",
-      "title": "Philippines joins Southeast Asia's EV race with $1bn manufacturing subsidy - Nikkei Asia",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDNHVWh0VERmYk9iQ2c4MmZFVm1hdHpMNHJWeWhPdnZFQWtoMnBwc1RfaVpMZGd0VU9oWlR0UVREbUljcW9uSU1Da2I0alJ2c2JHUmo1NGtRN0VSV25NRUJvQ05BZm1iNUZCbDMyUGdOSEtIYl9BaFhoTFB2RllySEF1VnY1eTRwTzVqRGhKUFhXd0MxbXAtZjJlWk5kZFNDd0x5OERfRWNPVGdCN2NBUnFYQkZwV0dMdnZONkk0NWFUYjI3ZFNyTDZjQ3V6UjVqcUE?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-07-29",
-      "source": "Procurement Magazine",
-      "title": "How Walmart Leverages Procurement to Advance Its ESG Targets - Procurement Magazine",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjVPOHJPdkxrNHkybUZpbF82RWxmdjNHTTV5MVZCaS1YWnl5U2NvbjR1NGJLTm5vR3RBNnRuMWM0NWM2UmI5dGNsdVBaaU90blk2MmhqbVpWTTlLVTBMOXlWWWdWaTNsWG5MM1JSSUtCYS03YkZuZW9HZHlYdDJIUEF0VmhqdDdXRlNocHlhYUVLOC0zNVlF?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-07-22",
-      "source": "DW.com",
-      "title": "Can India become the next semiconductor hub after Taiwan? - DW.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-07-22",
-      "source": "UN News",
-      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals - UN News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Db2l1SjhLYTBKa2lFbE05TmczWGdZTk1iWXNjd19ZZ2VBMjhrZG9zZzViNmc0XzVTNy1nczV3RTZTUDdwSG1waHRpeVRKZzRhNWpIam5JTQ?oc=5"
     }
   ]
 }
