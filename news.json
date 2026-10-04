@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T01:48+00:00",
+  "updatedAt": "2026-10-04T02:27+00:00",
   "items": [
     {
       "category": "能源与原材料",
       "date": "2026-10-01",
       "source": "Benchmark Mineral Intelligence",
-      "title": "How can African nations benefit from the region’s battery mineral resources? - Benchmark Mineral Intelligence",
+      "title": "How can African nations benefit from their mineral resources? - Benchmark Mineral Intelligence",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "原材料",
@@ -22,20 +22,10 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWRVcS1LMEFTeTZkZ29iakZiV3A3SGxsSXZqNE15azFiUVdyZi1RLTlnSTFULWNRV3I5VHZPMUk1SVlVdHktSkpNbDdvRzVpcUlLR1hfd1RVUkpUZVY4blQxbFN6TWs4RzhubS1QLVdlcVlkQ1ZLUHZxVTA3TWVMMWt2OElUUHZsZDltTE5idXBCNDFfdkJEV0ltUURGeUpfbjVsQ25OenA4X2RINGdhWnprR1NoVDg5NHNmVkxnZWdIRy1uTXl1R3lFMWtPaW1JVnFiWA?oc=5"
     },
     {
-      "category": "物流视角",
-      "date": "2026-09-30",
-      "source": "India Shipping News",
-      "title": "Mundra Empty Container dispute nears Resolution as APSEZ reinstates Depot Codes - India Shipping News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN09qc1hUd2VYNWdvaFF0NWFJdUZycDZmQmxpdXh2VVdJaGRsbXVrSW04Sm9CWDBiZmowWmN5VFdpa3pOMVBPa1VOYnA2WWNLWkVzd2tNNXZFT2h4SjRpdTYwa3dYY0dJekFfZ3llUTQwZ1FLdjB3TlBDbXlrcU1UbzduMUNQbFZINkdXbXRfU3NQUlJzZE40SGZ2YmpJeVMtU3pGNGFyZ3F4djNXTDRvS1hOWHBVNW5aczFkdg?oc=5"
-    },
-    {
       "category": "汽车供应链",
       "date": "2026-09-29",
-      "source": "africa.businessinsider.com",
-      "title": "Africa’s most industrialised economy set to host key battery-material facility in $3.7bn European EV supply chain - africa.businessinsider.com",
+      "source": "Business Insider Africa",
+      "title": "Africa’s most industrialised economy set to host key battery-material facility in $3.7bn European EV supply chain - Business Insider Africa",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
@@ -44,8 +34,8 @@
     {
       "category": "汽车供应链",
       "date": "2026-09-22",
-      "source": "bruegel.org",
-      "title": "The European Union’s automotive sector needs a plan, not undue protection - bruegel.org",
+      "source": "Bruegel",
+      "title": "The European Union’s automotive sector needs a plan, not undue protection - Bruegel",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
@@ -60,6 +50,16 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDF1TkZOQmp3NzZmRHZXOHgwU0NDM2NObkhyYVVpN2NOeDlma3BoZDkxQWxIT2hhbFZhUDRkQWZheEh3aTZncDJHYk9QdjA4VUtZTnhLSmdVUmhvWkdwdzZ0UEJudXczZFdmdzFnTUxtUHdyYnlhQWhqQnV0T3BFRnhSclNmdXBvRzR6MlRkOWEzb21OWDhieTRPQzMxak5IdGdsWUQzeHprQjdkV20zN3c5RDFlNGxyeG9UNA?oc=5"
+    },
+    {
+      "category": "科技供应链",
+      "date": "2026-09-18",
+      "source": "Larsen & Toubro",
+      "title": "L&T Semiconductor and Tata Electronics Partner to Expand Indigenous Manufacturing of Market-leading Chip Products for Global Customers - Larsen & Toubro",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbHVXdXN2RUlYb3cyTUdwYVk0MFQwa2RYaTdGUkFvZG9SOHZJY2xFMWtaLXlKV0ViMGdyYjJBTmZYUkx3VlBjNzlHUDFBSXBlaHRmMDk3blZjUUhPWHd1bmY1aEZlSzhIQTEwZ0lTNVpLWlJSZktoQXR1M1BaSE9YRTlCWVkxblNhYndQVERBaUoxQlVXaFhIbEZJY21EOS16NWN0SXV3clg3TlZwV1k1MmdDMzRJUTRiYVRUOFdVLWlveGRIVC1jZWNxN2JuVWZHcmxMaVJHYXVpZDFzc2RETS1reTRzeElkcmxJSDhjTVRNcHo2OG8tYjR2VlUxNlB3VlBDMlphZkpsdHBiWGFLNFBvbXVRMkFTcUlSTQ?oc=5"
     },
     {
       "category": "科技供应链",
@@ -112,10 +112,20 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-09-09",
+      "source": "indiashippingnews.com",
+      "title": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions - indiashippingnews.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZktXZ1llZzluOG8wVkVreExKeGZmNVdvVGlEN1FQV2tCcG5kb1NoTWRrVllFQ1k4aWxSMGFidU5VU0lLSzA2RktHejNVSlpfaVk2c3JrdnJlUnY2YWFIYUVYc01nQTAyanppVXZyQ0VpeWRDcUtnc0JINWhlOTZmdWdwS2dmRnhKaHhKSHZQNUpBa2V2b1dLNGFWZGZqTXdNbHlweDJtMG04TXlRdnJ6Ql9qazZMMUd0R1c1blhMOXVXMUlpb1U4Rm14UkxHQnpyUDF3aHhoSG1tbXNDRXF0VDF4UlFCekRaNXJQcUplUmEzYlZRRGNrZjN5TmdmdEVpak82YXFSMA?oc=5"
+    },
+    {
       "category": "贸易与政策",
       "date": "2026-09-09",
-      "source": "Business Standard",
-      "title": "US, EU strongly criticise India's tariffs, non-tariff trade barriers - Business Standard",
+      "source": "business-standard.com",
+      "title": "US, EU strongly criticise India's tariffs, non-tariff trade barriers - business-standard.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "贸易与政策",
@@ -142,30 +152,40 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     },
     {
-      "category": "供应商视角",
-      "date": "2026-08-18",
-      "source": "Supply Chain Digital",
-      "title": "Walmart: Embedding Sustainability Throughout Supply Chain - Supply Chain Digital",
+      "category": "科技供应链",
+      "date": "2026-08-24",
+      "source": "digitimes",
+      "title": "India roundup: India's chip push moves beyond fabs as yield, supply chains and new technology become the next test - digitimes",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM19SVHdhREdJSkpfM2h6eG9DR193dVJicllaUFJwOWxfWVl2NXpEbEF5RTI1Mzk0dmgwU0JOaEZNWFREcVRrN2FIS0JfdjNaTWZyS3NRUkJ6Y1hPUHEtaG5iX3Ayb1VjWUxPZjk5VjVscGhPdnpnZlp2ZVUzcUN3Zkwwb2JSUHlxd1d6bHp5SXQxTHdua1Nn?oc=5"
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG0yMUpVaTBOZjA0Yk93YlFmTU9mclYyamxaSWwtTDM0X2loN3Z4UEszYlN3SDNhQmd4ak1GVWhvRzd2MUFkTXpoaHhNanpjenB0QXRiNEVsUXhUcWhGM1M3bHJpazhvWmpqUERrU3J5Ym1xaWRSUkdCaHpvSFdNaDRkdGNUaXNERjNDNk53MEZHcGdoR3RjNTFGWERWMzhBZEVrcw?oc=5"
     },
     {
       "category": "区域供应链",
       "date": "2026-08-18",
-      "source": "South China Morning Post",
-      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - South China Morning Post",
+      "source": "scmp.com",
+      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - scmp.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "区域供应链",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
     },
     {
+      "category": "供应商视角",
+      "date": "2026-08-16",
+      "source": "Supply & Demand Chain Executive",
+      "title": "Multi-Tier Supplier Networks to Reshape Digital Procurement Strategy - Supply & Demand Chain Executive",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcVI0SEtObHpFY2tjbW1JTldfUU8tYy1Pb1pyVThxTXNrSXhIbGhCWFNkcGREZXBFOXpvZkhPX3lmWnFuT1FvWG9kNXB3ZTVaQzRXcll1NUpWV3BtRGV1SG5vcGpqSC1aN2pabEhIS2FnU3lPOGRqTG5zb0NDdW1OdGxOR1N1QzNGOXhDY1cyNVdtUEtvX1k4UzlGUldDaDF0Z0NIUlgxeGJJVG1VZmcxS0R6eGE0OUZHVk9vRUhRMHg1TlFJTXlzM05XOUc3bmNPVXY3SGE4bThna3pwbERmbHB1Ympqbzlk?oc=5"
+    },
+    {
       "category": "物流视角",
       "date": "2026-08-14",
-      "source": "India Shipping News",
-      "title": "Asia container freight faces delays due to typhoon, tight capacity - India Shipping News",
+      "source": "indiashippingnews.com",
+      "title": "Asia container freight faces delays due to typhoon, tight capacity - indiashippingnews.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
@@ -180,26 +200,6 @@
       "status": "待核验",
       "stage": "中国供应链",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkZ6MlpnMmNmaWdibTZKNy11UDNoVGtqakd0NDRHSEItTmZkREkxZjRSUHJDeHpKS2ZTSVRuenJsVmlGMU9JaXI4QTFUZWVuMVZOZWVGdzZMX25ZcHZUOV9USnlSZF9ZcnJ6Nkt6aEdtRENRVFFfQWxfZ2VUakx1eHlBcU5yOTFrNFZLRVZoU1BIY2gzcnRR?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-08-12",
-      "source": "Metro Global",
-      "title": "Customer Advisory: India and China Container Shipping Disruption - Metro Global",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHFoZVpxUXkta2taM21DVlNseno2RktvNHh1YTVZNE5fNnVqcDBFMGQ1SC0zM1h4OWVlWTZ5MGo2bmF0WDM4Rk5jUjcxMjh0ejQzc04zbVdWR2x4YmJlR1NHMml0Si04bnhXOWhWSjhpMGV4Uk1TQm10TmxMcFFOZEF5dzJFczdTYVl2Ny04bkZvbWxHcm5VeVlVQnZOV0hSYWc?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-08-12",
-      "source": "Construction World",
-      "title": "Indian Exporters Face Shipping Delays - Construction World",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lhX29HdktvOEZReFRSNlpBc3NKcmg5MGhtb0dwcXdBZUFXTlE4dzdBSUZCZ3d6LWI1OWI3bjdEcWpmcmxqTVRxVE5hV2Z4dlFZLVhZUXFHNFpHaXducnBzWU5UckEyV050cTBUVnhyaFp1ekdUR2dScFJzaEcwMy05RE8xNHRVQzI1M3FURGUzdm1UMHg3TkdQQkNZcXZSdEJPeGtVdDZHQjBvT3lCVDhadkt4cTRyMTUxVA?oc=5"
     }
   ]
 }
