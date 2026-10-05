@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-04T02:27+00:00",
+  "updatedAt": "2026-10-05T01:45+00:00",
   "items": [
+    {
+      "category": "汽车供应链",
+      "date": "2026-10-04",
+      "source": "InsideEVs",
+      "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production - InsideEVs",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VYVzRuc3QzSVNnbHd5aWF2OVZmM1FkRXYydk5iNUkzTHZVUVRIVTFrSlRfZXhBdzdDUkxubEtRREhxQ0hOQ3FMMWE0U0xMTEZpTU5UcTB0NExVUWxXR29DZUlfdTlzZFR6TjBNa3c0MDRVTHJfOERSOE5zQVl1QmN6VFYtUGF3dFJF?oc=5"
+    },
     {
       "category": "能源与原材料",
       "date": "2026-10-01",
@@ -20,6 +30,16 @@
       "status": "待核验",
       "stage": "中国供应链",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWRVcS1LMEFTeTZkZ29iakZiV3A3SGxsSXZqNE15azFiUVdyZi1RLTlnSTFULWNRV3I5VHZPMUk1SVlVdHktSkpNbDdvRzVpcUlLR1hfd1RVUkpUZVY4blQxbFN6TWs4RzhubS1QLVdlcVlkQ1ZLUHZxVTA3TWVMMWt2OElUUHZsZDltTE5idXBCNDFfdkJEV0ltUURGeUpfbjVsQ25OenA4X2RINGdhWnprR1NoVDg5NHNmVkxnZWdIRy1uTXl1R3lFMWtPaW1JVnFiWA?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-09-30",
+      "source": "Logistics Viewpoints",
+      "title": "US-China Tariff Relief Changes the Logistics Math, Not the Supply Chain Strategy - Logistics Viewpoints",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHRabkpvUjRWbHJUVDMxTVA4NF9hZlBCWTNWRllJUnhnd3QyNWJoVEwwdUJEcHEtWkRDSkpsUVhKQXlzVHAwUzZHMlduaWplaDJURllnbzR3SW5tdnhNQmwwMUFVY28xMEl3dnRaeUc3amt2X08wdGlKcnd6ZkNrRTkzRFMtZ1o5RmpLSlFMY051S3pMYXo4aGhlMjBtU1BfMVdoRG5xY2RKbmVRVUZLMmliLWphVGdpWTM3X0FkQ2Y?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -64,8 +84,8 @@
     {
       "category": "科技供应链",
       "date": "2026-09-18",
-      "source": "aninews.in",
-      "title": "SEMICON India Day 2 sees 25 partnerships across chip manufacturing, supply chains, packaging and skills - aninews.in",
+      "source": "ANI News",
+      "title": "SEMICON India Day 2 sees 25 partnerships across chip manufacturing, supply chains, packaging and skills - ANI News",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
@@ -84,12 +104,12 @@
     {
       "category": "科技供应链",
       "date": "2026-09-17",
-      "source": "Tata Electronics",
-      "title": "Nexperia and Tata Electronics announce strategic partnership across semiconductor manufacturing, technology, and innovation - Tata Electronics",
+      "source": "PIB",
+      "title": "Semicon 2.0 to deepen India’s semiconductor ecosystem with focus on design, equipment, fabs, advanced packaging, R&D and talent - PIB",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV2RZd2hBVnNIOTJxaTQwYXNobEpiQjZrb0JjTGgySjNKZGZaX2JadFJWMHNjMHJPVmx4RDlQQmx4QzNBNUY3czFmYUd3dlpYX0p2SHRmdHVWUGpzRWhwUmUzWWd1Zlc0cEQ2VDU2RVRVc3hqMlNKaFpWSmZIZlUzeUlqRnVWaTZ0WEstcnVGWVVuV2pXdFhHYTJQSlZEUnA0UVZoMFVVRnBnV3dkOFJWZGlwOFh4cG1hdFRqZHJKVEhleVJ0SXpJbzhOd0dJSFN1QnB2dzN0cEdCOVhWY3hkM2VqMDFxdXFsQTRZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xWkhFZGJkLWtMaWRpdEZuaWYyNXRzeElHaGFqVUd5YldiMDdQTEFPaWxUbFlvMGo1ejZQZ19CXy02R0g5ZldsMWMzTUZxQVZwSmdVT004QXZPLVU4LS1UZjlKVm55Vmts?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -113,26 +133,6 @@
     },
     {
       "category": "物流视角",
-      "date": "2026-09-09",
-      "source": "indiashippingnews.com",
-      "title": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions - indiashippingnews.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZktXZ1llZzluOG8wVkVreExKeGZmNVdvVGlEN1FQV2tCcG5kb1NoTWRrVllFQ1k4aWxSMGFidU5VU0lLSzA2RktHejNVSlpfaVk2c3JrdnJlUnY2YWFIYUVYc01nQTAyanppVXZyQ0VpeWRDcUtnc0JINWhlOTZmdWdwS2dmRnhKaHhKSHZQNUpBa2V2b1dLNGFWZGZqTXdNbHlweDJtMG04TXlRdnJ6Ql9qazZMMUd0R1c1blhMOXVXMUlpb1U4Rm14UkxHQnpyUDF3aHhoSG1tbXNDRXF0VDF4UlFCekRaNXJQcUplUmEzYlZRRGNrZjN5TmdmdEVpak82YXFSMA?oc=5"
-    },
-    {
-      "category": "贸易与政策",
-      "date": "2026-09-09",
-      "source": "business-standard.com",
-      "title": "US, EU strongly criticise India's tariffs, non-tariff trade barriers - business-standard.com",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "贸易与政策",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3JQRWtDaHZQOGlZY29vYnZMdkVZSDVZa3Awc2NJd09ZN25NdjRNTGU0SVlud2FYTDJvV3lxWXpfSm1tTmF3SVRhWkZMRWRUbU5fWW9KMl95d0h3RERCMDR3WFVhUV94ZWo5RlMxOHZsb1U0QUozalRDZUwzNTdhUEVuZkVLd1c0bGdVZEJzUlk4T3A1Ml93S2FqUW5aS2hldXl2NTFBNzU4Rk5VbUNBN0xrSkpUYVdjZVhDM1RSNEFnaXdGX29LRlQxNHNfd9IB0wFBVV95cUxQdnRoS2ZVUXlmZWxGZjF5b0piQnRHM2ZkYzZUcDFOczBJQkZxZXhDa3o0RjMzVWNSRTRZT3Z2Ui0tdTBuWl9IbjVmaTM1NXVnSnRLX0c1Ri0tUmt6b3pfS1A2aWFlZ3loNTJjT3hrRHZOYnNHaG5nYmhVaUl2VzlyQkdzdW5CeFlHMnRSa0t0b3VrMmo3TkFCb1owOW5jTnliel9HLUZQUFFONDJVYmpfQmRzLUphWTNDZFFzUnFpVGZjRGs1V3ZLYmFlRXhMSzl3czhV?oc=5"
-    },
-    {
-      "category": "物流视角",
       "date": "2026-09-04",
       "source": "ET Infra",
       "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - ET Infra",
@@ -144,8 +144,8 @@
     {
       "category": "物流视角",
       "date": "2026-09-01",
-      "source": "The Loadstar",
-      "title": "News More disruption at Mundra Port as operators refuse to move boxes - The Loadstar",
+      "source": "theloadstar.com",
+      "title": "News More disruption at Mundra Port as operators refuse to move boxes - theloadstar.com",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
@@ -162,10 +162,20 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG0yMUpVaTBOZjA0Yk93YlFmTU9mclYyamxaSWwtTDM0X2loN3Z4UEszYlN3SDNhQmd4ak1GVWhvRzd2MUFkTXpoaHhNanpjenB0QXRiNEVsUXhUcWhGM1M3bHJpazhvWmpqUERrU3J5Ym1xaWRSUkdCaHpvSFdNaDRkdGNUaXNERjNDNk53MEZHcGdoR3RjNTFGWERWMzhBZEVrcw?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-08-19",
+      "source": "Marine Insight",
+      "title": "24-Hour Warning Strike By German Port Workers Halts Cargo Operations At 6 Major Seaports - Marine Insight",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlRsYUpuUUo0R2xVd3NoYW9EUWhtcUlFMm1xUHAwWFQ0dEJTUzczdURuTnZEeExvalNBUWNUUWpEeUFBaFE0ZW9qcDJJdWZDRm81VWVLS0JvUkpUZDltWkN3MUNDMzVrTFNSbXI3dDA0bDJLN3dwSDZnV0I1d2pHM1VLMjZ4bjNOeWwweDdSMUozcmp0aFA5ZlhvdE5tQ1hsU3pLd2NfOVZGNEl3enc5S2VjZjctNDBSeXFJ?oc=5"
+    },
+    {
       "category": "区域供应链",
       "date": "2026-08-18",
-      "source": "scmp.com",
-      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - scmp.com",
+      "source": "South China Morning Post",
+      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - South China Morning Post",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "区域供应链",
@@ -184,22 +194,12 @@
     {
       "category": "物流视角",
       "date": "2026-08-14",
-      "source": "indiashippingnews.com",
-      "title": "Asia container freight faces delays due to typhoon, tight capacity - indiashippingnews.com",
+      "source": "India Shipping News",
+      "title": "Asia container freight faces delays due to typhoon, tight capacity - India Shipping News",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFUteE1OS0ZlYzI1Ykwyblh1ODBzbklYMlNkSEg2Yk03Z1RRZlNwRVpkQm8xTUJTNmdzVkEwaXU4aktWUFBjVkhlOXUtMm9YWnFnMWoxVzV5RE9GV24ydHdQYUdzYk51a3pYb1VqaGhMN0RQZ0kzR3hEN3JjR3otRHBmNlBZRXZ3dXRBeXJjZzl5dGp0ZERVQTRobVhuend2bGpWUHRRcmMwTUUwS3p6enZJNGtSQQ?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-08-12",
-      "source": "Procurement Magazine",
-      "title": "How DHL's Investment Will Expand China Logistics Capacity - Procurement Magazine",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkZ6MlpnMmNmaWdibTZKNy11UDNoVGtqakd0NDRHSEItTmZkREkxZjRSUHJDeHpKS2ZTSVRuenJsVmlGMU9JaXI4QTFUZWVuMVZOZWVGdzZMX25ZcHZUOV9USnlSZF9ZcnJ6Nkt6aEdtRENRVFFfQWxfZ2VUakx1eHlBcU5yOTFrNFZLRVZoU1BIY2gzcnRR?oc=5"
     }
   ]
 }
