@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T01:42+00:00",
+  "updatedAt": "2026-10-12T02:10+00:00",
   "items": [
     {
       "category": "中国供应链",
@@ -10,6 +10,16 @@
       "status": "待核验",
       "stage": "中国供应链",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdWJSdDZZaDRmbVR3TGVkZDlQZTQ1RWFhb2w4TWdSaFB6SjJ0VktXRVk1N1VpUWhtUXZaV3A3VnVMdzJRc2NvTUJnelZ2aEx3QUpxelByZ2pfcVppLW1GaEsxanVUZXI3YVp0SVNEYmFCbnNPNmJlR3BueFJ0Q2MtYmdPc1FkY1N5M3JnX0RxYzFqXzlfck9EV3FVbi1lY3NkaFkyTEhURFJVWkd5UjBfblNESi1wOGs0eXAxRHluT2tTNGVfMmdvYlgwOEZWTl9DYnFDRUtkTC1Zd0xYdzh1V1ZMckpIbGtORFJ2Rlo3QQ?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-10-10",
+      "source": "InsideEVs",
+      "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production - InsideEVs",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VYVzRuc3QzSVNnbHd5aWF2OVZmM1FkRXYydk5iNUkzTHZVUVRIVTFrSlRfZXhBdzdDUkxubEtRREhxQ0hOQ3FMMWE0U0xMTEZpTU5UcTB0NExVUWxXR29DZUlfdTlzZFR6TjBNa3c0MDRVTHJfOERSOE5zQVl1QmN6VFYtUGF3dFJF?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -52,6 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG1CUXlXR3NzMExSU21RSHlfTnRnNTJ5VWI1MktxTjVCbHZfSTVzUXo2aU9FSlNxVWJ0aFBTREIxb0lXN2FwVTdTVVNhWVBXMWVxWV81VTNUVGFWTUJMMmNWVjF3M2c4bjN3QWpfb0duX19leTVqNjNScEllQlFMRg?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-10-02",
+      "source": "Gulf News",
+      "title": "UAE shipping costs surge 300% to 500% after maritime disruptions - Gulf News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFlqb0JScU5FdVNrUEFJaFlWOGZLQ3VHU0NJU3ZPelVYYzJ4ajZ3NDB6WDhVQ3Y5LVBOYTcwUkpFQzlrOUlvNWluclB6UmZzcjNWTFdUVlJ0MFB3dTZRLVRqSjJOWkhYRzBSajZGMzFWMFFOb2VQb3NKLUotenNqMTN3YlZtOGp3YnFqMENhOU94eGpHbjRTNkYyU19Xa1FWWFNjcVRNNnJzUl9rTWfSAcABQVVfeXFMTUtzNDJjVnZQRERTQ2hhZkt0UnUwd3NPSXRsbU9XUkp5b1JFXzZKenpFa04tRy1lSEdQUXM4akNRQUw4dm85Tnp0SzlWYjZrdFBHbG1yWFRFQW54VEVFdUpqbUY3Wk43NGVHVGd6R003eTBCUDBBVGhQTld4b3ZnUVg5UVdHNm1SbWtkVFlkM0E5Q25QRUFXTk5ZVkN0S2lubXB6aFdpdm10R0puUzg0UDBpdHBiN01rQXJWSGdSM0w4?oc=5"
+    },
+    {
       "category": "中国供应链",
       "date": "2026-10-01",
       "source": "CEO Insights Asia",
@@ -62,14 +82,34 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWRVcS1LMEFTeTZkZ29iakZiV3A3SGxsSXZqNE15azFiUVdyZi1RLTlnSTFULWNRV3I5VHZPMUk1SVlVdHktSkpNbDdvRzVpcUlLR1hfd1RVUkpUZVY4blQxbFN6TWs4RzhubS1QLVdlcVlkQ1ZLUHZxVTA3TWVMMWt2OElUUHZsZDltTE5idXBCNDFfdkJEV0ltUURGeUpfbjVsQ25OenA4X2RINGdhWnprR1NoVDg5NHNmVkxnZWdIRy1uTXl1R3lFMWtPaW1JVnFiWA?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-09-30",
+      "source": "Transportation and Logistics International",
+      "title": "Asian port congestion raises supply chain risks for 2027 - Transportation and Logistics International",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHktQ2RWSmtsV3Y5RC1QRGp0OHAwWlhieXpkZ29hUkRIb0ttYTRsT19XQWNFOXBxa1pLUFRxVDUweXJzZGd1LTRkVnVFUVFreVpPLS0zY2NqZW1JMnZzYkFMM2V5aDNUSEdjTUtXOTRnaVpzS0dJNC1Db1E3eE5zcDhiTmtrYkRXT0Z0R25uSzdhZw?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-09-29",
+      "source": "WWD",
+      "title": "Asia’s Port Congestion Could Take 10 Months to Clear - WWD",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVVUVXJ0bFlIT3F1UDFsZnNqVklzRTN6YjFxZ0VYbGkteTI0WHA3U1hNZGF5a1hoZ0JwcEJDdWhXWEktVDViU2lDWTVpNjEtV01CSTZyTWdCOVNJbDJLd0dfbXZiVUJ0V2E2OXlqS0Ntd3dhalNhb01Vd29KenRwdFRjbDZOZklkNkVTZ2pVX014NlZ0M1lZdWxpMi1UV3dwWmg0MUt4M3NYaUZETVNQTWJRTFJIRU5oVlE?oc=5"
+    },
+    {
       "category": "汽车供应链",
       "date": "2026-09-22",
-      "source": "American Journal of Transportation",
-      "title": "DHL ramps up battery logistics network worldwide as electrification reshapes automotive and energy supply chains - American Journal of Transportation",
+      "source": "DHL Group",
+      "title": "DHL ramps up battery logistics network worldwide as electrification reshapes automotive and energy supply chains - DHL Group",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbFFiVktBZmx6VnBXVVhmNXdONXJ1UlJsaDJBTkhVZHRScVZtZ1lBV1FKZWk2UVdCQjJacTlYM1pTcGJJcGRoeWlZc19zSjJDcnhWakFqVTJPQzRrd3FpcEZ5QVlVdzFsTFVJLUlmRkZ2bTBFZmVxS1Y0TV93UGNLMldhai1kMnVuQ25WOVZ4N0hxbEYtNnRSdXlrcl9ueUdoY0NWMWZpYjRKMjFwTkRxUllheUJmdU9Ub1FzNzZGSlBSVWdFdmVjVHdCTDlaN1ppdTR5Mw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX19fVnYyVjRxcUVlY2V0S1JGMDBVaTFpM3I5Wmp6QUZwcWRaMzlSbm9ONVRHeFI3dC05ZFBydWlwZzExaFJsSGNPeVpXTDBuN0ZESXZSc0prUU9ZOUZpWGhJZmZVX0M2a0RXbDlQSU1tRk9YMlZJTnZEeDNnZldCd0tFcHNnSVRIRFZtSTNWZmM5N0xyQlNEdXdPbHUzZlpVRU16dWp1MzJVNGhGemtpOVdpR3BBTGVLbThuNWJySVRGd2tjZnhjLWtrNktCemhLczh1czg5YzMtemlUbnBHNFgzUTRobzVnRVJ2eTl0T1llM1RfTkZVbDZscWp4ZndZZ1BhbXVNd0JJUQ?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -83,6 +123,16 @@
     },
     {
       "category": "科技供应链",
+      "date": "2026-09-21",
+      "source": "Visual Capitalist",
+      "title": "Ranked: The Countries That Make the World’s Electronics - Visual Capitalist",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmg5ZHo3dDNiX21PZGg1VExfSG5wbUx1YmJnTkFBX0xfMmVTNTVFSTJ6dVpaV3I0amtqZjlPellFRE5XNXRkdklPOUFFUmhWWjdaM2FNbkNkbWU1M3p0bVo5bGMtYzdyNER4MEFXVE9MeHVWM3laaHMyZ0JyWlJpMGtn?oc=5"
+    },
+    {
+      "category": "科技供应链",
       "date": "2026-09-18",
       "source": "Larsen & Toubro",
       "title": "L&T Semiconductor and Tata Electronics Partner to Expand Indigenous Manufacturing of Market-leading Chip Products for Global Customers - Larsen & Toubro",
@@ -90,16 +140,6 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbHVXdXN2RUlYb3cyTUdwYVk0MFQwa2RYaTdGUkFvZG9SOHZJY2xFMWtaLXlKV0ViMGdyYjJBTmZYUkx3VlBjNzlHUDFBSXBlaHRmMDk3blZjUUhPWHd1bmY1aEZlSzhIQTEwZ0lTNVpLWlJSZktoQXR1M1BaSE9YRTlCWVkxblNhYndQVERBaUoxQlVXaFhIbEZJY21EOS16NWN0SXV3clg3TlZwV1k1MmdDMzRJUTRiYVRUOFdVLWlveGRIVC1jZWNxN2JuVWZHcmxMaVJHYXVpZDFzc2RETS1reTRzeElkcmxJSDhjTVRNcHo2OG8tYjR2VlUxNlB3VlBDMlphZkpsdHBiWGFLNFBvbXVRMkFTcUlSTQ?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-09-18",
-      "source": "ANI News",
-      "title": "SEMICON India Day 2 sees 25 partnerships across chip manufacturing, supply chains, packaging and skills - ANI News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMnRUYTJZVVFqcjJFV2J2UmY3SjR5TUFFWEJfWGpoWklueEdaa3lPLVNiaDlhRlB5RDl6TFYteW9CekNsZ2g3cWM5QzVfeVhOdVFRNXdUZVpJMG5hQmRRRGxqWFRTNW9KS1R2c0NlbTMxUW04Wi0xYjFwdTFxaVFINjFsa09MNnc4cDZSd0lkY08tT3dEbG13UlFwUlNQbDJXZEM1SGt0WmFtY2pudGlQTnBnWlRvd05jaWtzYVBWMDFvVUVTQWtfYlBwaE44MmpHM3VmOXdGVjdOSF9aTDBicmhFVFZCR1U?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -132,14 +172,14 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
     },
     {
-      "category": "贸易与政策",
-      "date": "2026-09-09",
-      "source": "Business Standard",
-      "title": "US, EU strongly criticise India's tariffs, non-tariff trade barriers - Business Standard",
+      "category": "物流视角",
+      "date": "2026-09-01",
+      "source": "The Loadstar",
+      "title": "News More disruption at Mundra Port as operators refuse to move boxes - The Loadstar",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "贸易与政策",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3JQRWtDaHZQOGlZY29vYnZMdkVZSDVZa3Awc2NJd09ZN25NdjRNTGU0SVlud2FYTDJvV3lxWXpfSm1tTmF3SVRhWkZMRWRUbU5fWW9KMl95d0h3RERCMDR3WFVhUV94ZWo5RlMxOHZsb1U0QUozalRDZUwzNTdhUEVuZkVLd1c0bGdVZEJzUlk4T3A1Ml93S2FqUW5aS2hldXl2NTFBNzU4Rk5VbUNBN0xrSkpUYVdjZVhDM1RSNEFnaXdGX29LRlQxNHNfd9IB0wFBVV95cUxQdnRoS2ZVUXlmZWxGZjF5b0piQnRHM2ZkYzZUcDFOczBJQkZxZXhDa3o0RjMzVWNSRTRZT3Z2Ui0tdTBuWl9IbjVmaTM1NXVnSnRLX0c1Ri0tUmt6b3pfS1A2aWFlZ3loNTJjT3hrRHZOYnNHaG5nYmhVaUl2VzlyQkdzdW5CeFlHMnRSa0t0b3VrMmo3TkFCb1owOW5jTnliel9HLUZQUFFONDJVYmpfQmRzLUphWTNDZFFzUnFpVGZjRGs1V3ZLYmFlRXhMSzl3czhV?oc=5"
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     },
     {
       "category": "科技供应链",
@@ -152,54 +192,14 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG0yMUpVaTBOZjA0Yk93YlFmTU9mclYyamxaSWwtTDM0X2loN3Z4UEszYlN3SDNhQmd4ak1GVWhvRzd2MUFkTXpoaHhNanpjenB0QXRiNEVsUXhUcWhGM1M3bHJpazhvWmpqUERrU3J5Ym1xaWRSUkdCaHpvSFdNaDRkdGNUaXNERjNDNk53MEZHcGdoR3RjNTFGWERWMzhBZEVrcw?oc=5"
     },
     {
-      "category": "汽车供应链",
+      "category": "物流视角",
       "date": "2026-08-21",
-      "source": "Automotive News",
-      "title": "As battery needs shift, automakers rethink supplier partnerships in search of long-term benefits - Automotive News",
+      "source": "WorldCargo News",
+      "title": "Sohar container volumes rise 40% as Hormuz disruption reshapes Gulf shipping - WorldCargo News",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnNFVnMzdVZoOGVBNnRLWEx4aHpDdGFaZ19kbG85S1g0aThhbUJ0cXpJZm4xX0Y4d1ZOUHhaazFURWZvNDk5aTNhZkY0Nmo5M2VMSXZZQmU5b2UyMTQ2MDNzQ01KRWtPZFdKN2NyaV9XYjV3UmM0MTNGUm1tRlFRU3VpeHpEdw?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-08-18",
-      "source": "Supply Chain Digital",
-      "title": "Walmart: Embedding Sustainability Throughout Supply Chain - Supply Chain Digital",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM19SVHdhREdJSkpfM2h6eG9DR193dVJicllaUFJwOWxfWVl2NXpEbEF5RTI1Mzk0dmgwU0JOaEZNWFREcVRrN2FIS0JfdjNaTWZyS3NRUkJ6Y1hPUHEtaG5iX3Ayb1VjWUxPZjk5VjVscGhPdnpnZlp2ZVUzcUN3Zkwwb2JSUHlxd1d6bHp5SXQxTHdua1Nn?oc=5"
-    },
-    {
-      "category": "区域供应链",
-      "date": "2026-08-18",
-      "source": "South China Morning Post",
-      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - South China Morning Post",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWfSAa4BQVVfeXFMT3B0U05uemllU2hzTnNET213VjVpZURmemg5MEZlN2xra0U0c3B3WTVsMnBnYmdqa2xEQksxSEpLZzhraEhDd1RrN0Npb3JHWVBxcE9LZmZjQUpXdVZTLUlKNy0zVnpVLWZBNUVtS1l6dWpiSkg2LWxaa2pKeDN4S1VZY2VBRllTeFpHNVBlUWwycWtubW9hcjdibERrWjZNMEY2SHFLT0RLSmJyR3dB?oc=5"
-    },
-    {
-      "category": "时尚供应链",
-      "date": "2026-08-17",
-      "source": "AIMultiple",
-      "title": "Top 11 AI in Fashion Use Cases & Examples - AIMultiple",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-08-16",
-      "source": "Supply & Demand Chain Executive",
-      "title": "Multi-Tier Supplier Networks to Reshape Digital Procurement Strategy - Supply & Demand Chain Executive",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcVI0SEtObHpFY2tjbW1JTldfUU8tYy1Pb1pyVThxTXNrSXhIbGhCWFNkcGREZXBFOXpvZkhPX3lmWnFuT1FvWG9kNXB3ZTVaQzRXcll1NUpWV3BtRGV1SG5vcGpqSC1aN2pabEhIS2FnU3lPOGRqTG5zb0NDdW1OdGxOR1N1QzNGOXhDY1cyNVdtUEtvX1k4UzlGUldDaDF0Z0NIUlgxeGJJVG1VZmcxS0R6eGE0OUZHVk9vRUhRMHg1TlFJTXlzM05XOUc3bmNPVXY3SGE4bThna3pwbERmbHB1Ympqbzlk?oc=5"
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaG83Wl9Fd2JUc1RiZ25oTWUxTWtpNG5iR1JFdTVoRkdxZkJCVE9oazVSRG1Fcl9FNlJxNGVUSlltM19TOFFjTndMVndNX0RramJncmgxYTR2UUNvNmNxNnV2UGJkY2dMc2liX0xwX2FjdlhUbWF5S3FrLWVtOXdtU2xCTEFXUVhtTFlBR2JPMFNnZDZGSml1LUg4c2tmdjhCQThZMWxhUG56Z0c2REprSEV4Qlg5VGFielZQMFlrcDd3Zw?oc=5"
     }
   ]
 }
