@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-12T02:10+00:00",
+  "updatedAt": "2026-10-13T03:25+00:00",
   "items": [
+    {
+      "category": "汽车供应链",
+      "date": "2026-10-12",
+      "source": "Automotive News",
+      "title": "Daily 5 report for Oct. 12: ZETA’s Albert Gore warns Trump’s EV rollbacks make U.S. factory bets riskier - Automotive News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVm5rb3FVWXhIZW9SZFk1N0NLWS1qdG9oRG9EWDNPMWdkbGs5YkdsVjNjQmd1SkhRU09sdGZRTDV0dXN1dVZDSDQ0alR0VUMwdU5lWkpJRXZGT21DUnFGQTVyajBoRFdUaWVRYUllXzRfWF9LdkFOYUVBbTBkMENaUFdlczl6MFpwRTBuZXpPR2JfY0k5NWNWT3FmY24?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-10-12",
+      "source": "ET Auto",
+      "title": "Battery localisation is no longer optional for Indian EV makers - ET Auto",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkhCR2NYdnpwdkwzTnY2N1FJQTFlVVQ5TUlsSnN3eHV2cUlFLWpIVFhJMkp5Q0tMTlowdUlscHJkelo5amZxTU1HVjBqNUxuRUxWQkJyMUx4MXFodllySk5QZERfZDM5UGRQMU9HOFdGbWlXQkNGYVVmSUFQN2VmT1A1d3M2SEVMWXJiTTRzRzlmcUpxakJkdHI0SG9ISGl0OWdFVDhsYXNNWkwtckFncFpucTlEZFRBbFF3Nm5SOHo0WUgxTS04Mk1FdklVR2RlYVHSAdcBQVVfeXFMTjdsRHJBY0w1al9zeTBGT3BWYU9KNlB5WFB0VGEwOFMyZnhkS1ItTVFJSklmdkV2bkZ0MkhIUUx4bjBsd2RMYm0tUko5WTRSV29jRUJISFNmWWxvTWRmamRuQlpTZGppRTl3amk4VjkwQ1R0aGQ0NTVLd1R6MkV2b0YyeG1GMnJ3OU81TXM5T19RWHZWZE9WRkFpSXpsam9hOEV0bEZ1OXV2T0U2TFg3Q0o2U09jX2h3WWFubUxsNlhRUzhzbncwcGw2WVllWHdaRW9YbXlhdW8?oc=5"
+    },
     {
       "category": "中国供应链",
       "date": "2026-10-10",
@@ -32,14 +52,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlVPX0xaYkVKSUNjX2xONlZ0dTZpM3RiTkhPdnVhWm5HUWJMbjFWazctRGJkSVJIdDJGTnBFMVRNU01yWWI3NjJqZk5NZEVJbWx3Rlk1MXJ6bHlOMVdCektFV1E0Q2RzaTRRa1ZibWpLckhJTHFvQzkzOHhWdm02R2JGdG02V1JFTzRWU3NXNzZuclRxOHVrMHliaC04Mm1LeXhzblZxWG05dw?oc=5"
     },
     {
-      "category": "科技供应链",
+      "category": "能源与原材料",
       "date": "2026-10-09",
-      "source": "SNS Insider",
-      "title": "Tata Electronics And Sumitomo Chemical Strengthen India’s Semiconductor Supply Chain - SNS Insider",
+      "source": "POLITICO.eu",
+      "title": "EU’s new list of critical mineral projects focuses on clean energy metals - POLITICO.eu",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VOHBzZ3hMemxnTlFVNW44ckJYOEdDbEtwR3MwZnlhNlI2YWdLZ0VvelV6ZE4zZzdjb1RQbXB0dHdDMjlveF8yZWgzOFc3UWxTcHRhMFN1M0JESkN0bHM2RlROSld2RnhuWlAw?oc=5"
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRE85czRTdEdua3U2RlVVTkdvMHRuQlhvbXM5T1JpWkdyTmExZEc4dmdRbllKTWo3dVNucml3dVQwc1V2RlRpOG82QzVQc2lXVUxTREkzMHZtVHVWSEk1bmlfMHZjZU1saGo1SjFYTFFveXh6dGVTVVc1bTdVbndVNUZIalE1NWg0OEhPMTN1QTZ2SDdKSjdxeXNxMkVWVnBpNEU4cXhyMzU?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -112,16 +132,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX19fVnYyVjRxcUVlY2V0S1JGMDBVaTFpM3I5Wmp6QUZwcWRaMzlSbm9ONVRHeFI3dC05ZFBydWlwZzExaFJsSGNPeVpXTDBuN0ZESXZSc0prUU9ZOUZpWGhJZmZVX0M2a0RXbDlQSU1tRk9YMlZJTnZEeDNnZldCd0tFcHNnSVRIRFZtSTNWZmM5N0xyQlNEdXdPbHUzZlpVRU16dWp1MzJVNGhGemtpOVdpR3BBTGVLbThuNWJySVRGd2tjZnhjLWtrNktCemhLczh1czg5YzMtemlUbnBHNFgzUTRobzVnRVJ2eTl0T1llM1RfTkZVbDZscWp4ZndZZ1BhbXVNd0JJUQ?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-09-21",
-      "source": "Bruegel",
-      "title": "The European Union’s automotive sector needs a plan, not undue protection - Bruegel",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm81SVFrSmNGU3BjQXhlZE1rZWY2V2Qtc2R2cHNxcGtVWWdGZk0yUGFFQUpscEtaLU5KMFh2OVlwaTBvSnM2WDFDZDFOZ0hQX01FQlhyM3Y0VWdla005RzdNZjIxTkNIWjAycHlyVTJndHJ4azVpekZXSnZudWhVU2xxRl9KX2pwYktSVUttOTh1RVppSlNZS1RHQ3RLN0JCVllOVw?oc=5"
-    },
-    {
       "category": "科技供应链",
       "date": "2026-09-21",
       "source": "Visual Capitalist",
@@ -130,16 +140,6 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmg5ZHo3dDNiX21PZGg1VExfSG5wbUx1YmJnTkFBX0xfMmVTNTVFSTJ6dVpaV3I0amtqZjlPellFRE5XNXRkdklPOUFFUmhWWjdaM2FNbkNkbWU1M3p0bVo5bGMtYzdyNER4MEFXVE9MeHVWM3laaHMyZ0JyWlJpMGtn?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-09-18",
-      "source": "Larsen & Toubro",
-      "title": "L&T Semiconductor and Tata Electronics Partner to Expand Indigenous Manufacturing of Market-leading Chip Products for Global Customers - Larsen & Toubro",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbHVXdXN2RUlYb3cyTUdwYVk0MFQwa2RYaTdGUkFvZG9SOHZJY2xFMWtaLXlKV0ViMGdyYjJBTmZYUkx3VlBjNzlHUDFBSXBlaHRmMDk3blZjUUhPWHd1bmY1aEZlSzhIQTEwZ0lTNVpLWlJSZktoQXR1M1BaSE9YRTlCWVkxblNhYndQVERBaUoxQlVXaFhIbEZJY21EOS16NWN0SXV3clg3TlZwV1k1MmdDMzRJUTRiYVRUOFdVLWlveGRIVC1jZWNxN2JuVWZHcmxMaVJHYXVpZDFzc2RETS1reTRzeElkcmxJSDhjTVRNcHo2OG8tYjR2VlUxNlB3VlBDMlphZkpsdHBiWGFLNFBvbXVRMkFTcUlSTQ?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -173,6 +173,16 @@
     },
     {
       "category": "物流视角",
+      "date": "2026-09-04",
+      "source": "ET Infra",
+      "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - ET Infra",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
+    },
+    {
+      "category": "物流视角",
       "date": "2026-09-01",
       "source": "The Loadstar",
       "title": "News More disruption at Mundra Port as operators refuse to move boxes - The Loadstar",
@@ -190,16 +200,6 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG0yMUpVaTBOZjA0Yk93YlFmTU9mclYyamxaSWwtTDM0X2loN3Z4UEszYlN3SDNhQmd4ak1GVWhvRzd2MUFkTXpoaHhNanpjenB0QXRiNEVsUXhUcWhGM1M3bHJpazhvWmpqUERrU3J5Ym1xaWRSUkdCaHpvSFdNaDRkdGNUaXNERjNDNk53MEZHcGdoR3RjNTFGWERWMzhBZEVrcw?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-08-21",
-      "source": "WorldCargo News",
-      "title": "Sohar container volumes rise 40% as Hormuz disruption reshapes Gulf shipping - WorldCargo News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaG83Wl9Fd2JUc1RiZ25oTWUxTWtpNG5iR1JFdTVoRkdxZkJCVE9oazVSRG1Fcl9FNlJxNGVUSlltM19TOFFjTndMVndNX0RramJncmgxYTR2UUNvNmNxNnV2UGJkY2dMc2liX0xwX2FjdlhUbWF5S3FrLWVtOXdtU2xCTEFXUVhtTFlBR2JPMFNnZDZGSml1LUg4c2tmdjhCQThZMWxhUG56Z0c2REprSEV4Qlg5VGFielZQMFlrcDd3Zw?oc=5"
     }
   ]
 }
