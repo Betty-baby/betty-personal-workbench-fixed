@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-14T01:42+00:00",
+  "updatedAt": "2026-10-15T01:18+00:00",
   "items": [
+    {
+      "category": "汽车供应链",
+      "date": "2026-10-13",
+      "source": "Canada's National Observer",
+      "title": "Can Chinese EV competition jolt Canada's auto industry without wrecking it? - Canada's National Observer",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2VuQWZZQXJpTnl4TDAxZS1MWl94TUltYTlrSVpGX2JiQk96VlgzZTFxRGVJTG9Ia2VaN1NYYVlIN1NUZWhoYUxDUUtaT2JreHZyZHdrYVdMa3pJMWF4TXg3LTU5eG9WSHpkdEpKZi1vQWU3Nndza2pVUGw3cS1yUkJyQnU1YnBiTXNSS3Zlcm8zOFduVWJmbGw4cmM?oc=5"
+    },
     {
       "category": "汽车供应链",
       "date": "2026-10-12",
@@ -112,6 +122,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHktQ2RWSmtsV3Y5RC1QRGp0OHAwWlhieXpkZ29hUkRIb0ttYTRsT19XQWNFOXBxa1pLUFRxVDUweXJzZGd1LTRkVnVFUVFreVpPLS0zY2NqZW1JMnZzYkFMM2V5aDNUSEdjTUtXOTRnaVpzS0dJNC1Db1E3eE5zcDhiTmtrYkRXT0Z0R25uSzdhZw?oc=5"
     },
     {
+      "category": "物流视角",
+      "date": "2026-09-29",
+      "source": "WWD",
+      "title": "Asia’s Port Congestion Could Take 10 Months to Clear - WWD",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVVUVXJ0bFlIT3F1UDFsZnNqVklzRTN6YjFxZ0VYbGkteTI0WHA3U1hNZGF5a1hoZ0JwcEJDdWhXWEktVDViU2lDWTVpNjEtV01CSTZyTWdCOVNJbDJLd0dfbXZiVUJ0V2E2OXlqS0Ntd3dhalNhb01Vd29KenRwdFRjbDZOZklkNkVTZ2pVX014NlZ0M1lZdWxpMi1UV3dwWmg0MUt4M3NYaUZETVNQTWJRTFJIRU5oVlE?oc=5"
+    },
+    {
       "category": "时尚供应链",
       "date": "2026-09-28",
       "source": "Fortune Business Insights",
@@ -142,16 +162,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX19fVnYyVjRxcUVlY2V0S1JGMDBVaTFpM3I5Wmp6QUZwcWRaMzlSbm9ONVRHeFI3dC05ZFBydWlwZzExaFJsSGNPeVpXTDBuN0ZESXZSc0prUU9ZOUZpWGhJZmZVX0M2a0RXbDlQSU1tRk9YMlZJTnZEeDNnZldCd0tFcHNnSVRIRFZtSTNWZmM5N0xyQlNEdXdPbHUzZlpVRU16dWp1MzJVNGhGemtpOVdpR3BBTGVLbThuNWJySVRGd2tjZnhjLWtrNktCemhLczh1czg5YzMtemlUbnBHNFgzUTRobzVnRVJ2eTl0T1llM1RfTkZVbDZscWp4ZndZZ1BhbXVNd0JJUQ?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-09-21",
-      "source": "Bruegel",
-      "title": "The European Union’s automotive sector needs a plan, not undue protection - Bruegel",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm81SVFrSmNGU3BjQXhlZE1rZWY2V2Qtc2R2cHNxcGtVWWdGZk0yUGFFQUpscEtaLU5KMFh2OVlwaTBvSnM2WDFDZDFOZ0hQX01FQlhyM3Y0VWdla005RzdNZjIxTkNIWjAycHlyVTJndHJ4azVpekZXSnZudWhVU2xxRl9KX2pwYktSVUttOTh1RVppSlNZS1RHQ3RLN0JCVllOVw?oc=5"
-    },
-    {
       "category": "科技供应链",
       "date": "2026-09-21",
       "source": "Visual Capitalist",
@@ -172,6 +182,16 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81SjRDZWZMUWFaVVl0MWlzUHFNZ081am9uOWdRNloyOGpSZmFLRDVOdi1tWmY4Q3pPVFpqc3B2Um1jVHRMR0h3d0sxSlBxZTFGcElvZGdaXzU5Rzc5eGdZTmNNcjJXSEp4TWc?oc=5"
     },
     {
+      "category": "科技供应链",
+      "date": "2026-09-17",
+      "source": "YourStory.com",
+      "title": "SEMICON India sees flurry of MoUs as chip supply chain expands - YourStory.com",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2tyaDh5X1JmZEdzYzZ2V2gtcE5lUTNEZ2FRNjNHejgwUE1JWUc5UWRkNGxpLWdwejNOMFBfTVVfZ2lxT01kWXNvWnViUG9hZHhfM1A4a1lJSXBKaGItZzJDd01UUmVMNlFqaTNwOHNZNllCeFVQcjQ3MEl0bDhJY0RDTDBtVkV6NFRQUVZRNVkzTTBvTC1N?oc=5"
+    },
+    {
       "category": "汽车供应链",
       "date": "2026-09-15",
       "source": "Reuters",
@@ -180,26 +200,6 @@
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONy04bnhub291eEh0VWZYc2hpa1ZpaFlqVk5rRGpVbEVQdEc4VVBuLUhjU21aTjNuNVJ0THRTbks4Z3lGXzBUSGlQcGJnNE1ramVxWG9ybGh4amxPXzR2Q0NRRDQ2SzZRUlJja3l0MDgyTDR3dnpVTFZnRndyMVpNUUExZl8yaGp6MUtVOGFsU1F6c0Q2VmtobDVuWVpHei1tMEdTR3otNU5VMG9x?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-09-04",
-      "source": "ET Infra",
-      "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - ET Infra",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkIyTlgwakJ0M3lod01yWW9zVVNnei05WWd3eHdkQUxzNFBhTW9rd0ZKQUJIUl8zblozbkRJWGd3bXRpSTNEbmJ6TGM1OElDdllOWVFaYmRTZzZseGR5Y0QzTmtoWmhOMkxSQk1XSTBLSE50Z1o3TTlnX29SVTB5V2dZVWVPQmxwT2tPaFhKTmNUVlhMV3hOVFJGWEZaNF9zTktrSVZsa1VmUTh5bVlmSDltYkxCS3JSYnpvRElBYkh0WUkwQll5WW1BNzM4SG1LYkpNYXI2S21mSVdVOUQxU1J6LVRpaFV5T0HSAe8BQVVfeXFMUEZQZ05oc1hYdjBIYUd4QmtZMThfcUtSOWRxODVxcUs3NHZQOEpmSldOWTh3NEhtaHR2cExWa0Vta21Vek40WmtmT0RBYWdzczhsQjVpV3NfZ2p6MGtlSmRseTZfTVVtMHhfbE5jdG9HVlJpbUc2cTRWYTR3R0JackdWOF9KRzhqcU9Ob3ZiZGFPbWRsNXgzb1dQVWlmQlFUY1BhbDJWTnl4bEhnUUZFSHNneVR5MUdVMExYd3I2OVdXbUZBTVh2MmRDWmd3NTg1YlpUNnlXT3p4eUhxbFVocWJxakdoV2RNeEszZy1heTQ?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-09-01",
-      "source": "The Loadstar",
-      "title": "News More disruption at Mundra Port as operators refuse to move boxes - The Loadstar",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     }
   ]
 }
