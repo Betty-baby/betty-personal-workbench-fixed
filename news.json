@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:38+00:00",
+  "updatedAt": "2026-10-21T01:24+00:00",
   "items": [
     {
       "category": "供应链视角",
@@ -32,16 +32,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVm5rb3FVWXhIZW9SZFk1N0NLWS1qdG9oRG9EWDNPMWdkbGs5YkdsVjNjQmd1SkhRU09sdGZRTDV0dXN1dVZDSDQ0alR0VUMwdU5lWkpJRXZGT21DUnFGQTVyajBoRFdUaWVRYUllXzRfWF9LdkFOYUVBbTBkMENaUFdlczl6MFpwRTBuZXpPR2JfY0k5NWNWT3FmY24?oc=5"
     },
     {
-      "category": "供应链视角",
-      "date": "2026-10-11",
-      "source": "Cincinnati Enquirer",
-      "title": "The Strategic Edge: Senghor Logistics Top-Rated Sea Freight Shipping Services Guide for Modern Global Importers - Cincinnati Enquirer",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应链",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVldJbFlCdmpEYnVjSzA5anF5Z2RDcGpJSGFWRk9zZE0tR1dObmdGVE94X0QzWDNYY29yQWhYak54cEZXRVBFYnNyVURfZ0RtSU5pR0U5VHJxQ0ZtX1I3ajdEWEFwYXBuZFk1Ump4RXl3cF9Icy13QzZlRGsyYnAwb1c2czF0VnRNdkJWeFM3TnpkeXNFamhGTHdyNWY5VlZ1b3ppUkhFaXRVSkQ5MEU0TmloTEd0ZTJXN2hkWGF1eGxMeVVHdUozMTB4MnhsSFplbmRXa0tjVFR1d1pidWN1M3E3RlAwcnQtN2JjUE5SVm1oODRacVdHNw?oc=5"
-    },
-    {
       "category": "区域供应链",
       "date": "2026-10-05",
       "source": "Fortune",
@@ -52,6 +42,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG1CUXlXR3NzMExSU21RSHlfTnRnNTJ5VWI1MktxTjVCbHZfSTVzUXo2aU9FSlNxVWJ0aFBTREIxb0lXN2FwVTdTVVNhWVBXMWVxWV81VTNUVGFWTUJMMmNWVjF3M2c4bjN3QWpfb0duX19leTVqNjNScEllQlFMRg?oc=5"
     },
     {
+      "category": "时尚供应链",
+      "date": "2026-10-05",
+      "source": "Fortune Business Insights",
+      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "时尚供应链",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
+    },
+    {
       "category": "物流视角",
       "date": "2026-10-02",
       "source": "Gulf News",
@@ -60,16 +60,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFlqb0JScU5FdVNrUEFJaFlWOGZLQ3VHU0NJU3ZPelVYYzJ4ajZ3NDB6WDhVQ3Y5LVBOYTcwUkpFQzlrOUlvNWluclB6UmZzcjNWTFdUVlJ0MFB3dTZRLVRqSjJOWkhYRzBSajZGMzFWMFFOb2VQb3NKLUotenNqMTN3YlZtOGp3YnFqMENhOU94eGpHbjRTNkYyU19Xa1FWWFNjcVRNNnJzUl9rTWc?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-10-01",
-      "source": "CEO Insights Asia",
-      "title": "From China+1 to China+Many: How Asian Companies Are Redesigning Supply Chains - CEO Insights Asia",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWRVcS1LMEFTeTZkZ29iakZiV3A3SGxsSXZqNE15azFiUVdyZi1RLTlnSTFULWNRV3I5VHZPMUk1SVlVdHktSkpNbDdvRzVpcUlLR1hfd1RVUkpUZVY4blQxbFN6TWs4RzhubS1QLVdlcVlkQ1ZLUHZxVTA3TWVMMWt2OElUUHZsZDltTE5idXBCNDFfdkJEV0ltUURGeUpfbjVsQ25OenA4X2RINGdhWnprR1NoVDg5NHNmVkxnZWdIRy1uTXl1R3lFMWtPaW1JVnFiWA?oc=5"
     },
     {
       "category": "物流视角",
@@ -92,24 +82,14 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVVUVXJ0bFlIT3F1UDFsZnNqVklzRTN6YjFxZ0VYbGkteTI0WHA3U1hNZGF5a1hoZ0JwcEJDdWhXWEktVDViU2lDWTVpNjEtV01CSTZyTWdCOVNJbDJLd0dfbXZiVUJ0V2E2OXlqS0Ntd3dhalNhb01Vd29KenRwdFRjbDZOZklkNkVTZ2pVX014NlZ0M1lZdWxpMi1UV3dwWmg0MUt4M3NYaUZETVNQTWJRTFJIRU5oVlE?oc=5"
     },
     {
-      "category": "时尚供应链",
-      "date": "2026-09-28",
-      "source": "Fortune Business Insights",
-      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
-    },
-    {
-      "category": "贸易与政策",
+      "category": "中国供应链",
       "date": "2026-09-25",
-      "source": "China Briefing",
-      "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
+      "source": "Supply Chain Dive",
+      "title": "6 food manufacturers talk supply chain tactics - Supply Chain Dive",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "贸易与政策",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5"
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3hUUTEydG5nX1EzQmlKODYzc1VoTzZfcDRuZ19USjk0S2w2YXF1WE5YZklSVWtfM3UyM0d4NmxuTG5PMFB5SlBBd0dxdlJ0VXJRekFudm9EMHZWejBuMmNzQURqWGNlNnhYQXlwVzVBTU5XU2JSejd0NzB5dzRMMWh4cFFiNWdHRnV2a1FkbzVVYXhaaGc?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -130,16 +110,6 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmg5ZHo3dDNiX21PZGg1VExfSG5wbUx1YmJnTkFBX0xfMmVTNTVFSTJ6dVpaV3I0amtqZjlPellFRE5XNXRkdklPOUFFUmhWWjdaM2FNbkNkbWU1M3p0bVo5bGMtYzdyNER4MEFXVE9MeHVWM3laaHMyZ0JyWlJpMGtn?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-09-21",
-      "source": "CRN Asia",
-      "title": "Tata Electronics races to build India’s full semiconductor stack through ecosystem partnerships - CRN Asia",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEY3ZEJmN09Da2ZnR0V2ZlhzQ2RZSGxMb2Z5ZmZJRWNrM1RvajJuSVZDd095RW5ZYVdFekxGNUEtVm9KREdnT2NockFuOWhmSDYyTjloamNlekhNVTRydHhKQWlQV3gtTWZSQ0xxUXpaOXE5R3Z6eGhpeU5NOXMtc1RWR3IxMnpYSmNOWkwycHlxOW1pVi1pOW5ZTlN3NnFmd3NGVHVTVFR5bTR5UElEUkNOcDJOdkdKX2RMZ0RZLWotQ1NzMDRtanJMOGk1QUNX?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -200,6 +170,36 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG0yMUpVaTBOZjA0Yk93YlFmTU9mclYyamxaSWwtTDM0X2loN3Z4UEszYlN3SDNhQmd4ak1GVWhvRzd2MUFkTXpoaHhNanpjenB0QXRiNEVsUXhUcWhGM1M3bHJpazhvWmpqUERrU3J5Ym1xaWRSUkdCaHpvSFdNaDRkdGNUaXNERjNDNk53MEZHcGdoR3RjNTFGWERWMzhBZEVrcw?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-08-21",
+      "source": "WorldCargo News",
+      "title": "Sohar container volumes rise 40% as Hormuz disruption reshapes Gulf shipping - WorldCargo News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaG83Wl9Fd2JUc1RiZ25oTWUxTWtpNG5iR1JFdTVoRkdxZkJCVE9oazVSRG1Fcl9FNlJxNGVUSlltM19TOFFjTndMVndNX0RramJncmgxYTR2UUNvNmNxNnV2UGJkY2dMc2liX0xwX2FjdlhUbWF5S3FrLWVtOXdtU2xCTEFXUVhtTFlBR2JPMFNnZDZGSml1LUg4c2tmdjhCQThZMWxhUG56Z0c2REprSEV4Qlg5VGFielZQMFlrcDd3Zw?oc=5"
+    },
+    {
+      "category": "供应商视角",
+      "date": "2026-08-18",
+      "source": "Supply Chain Digital Magazine",
+      "title": "Walmart: Embedding Sustainability Throughout Supply Chain - Supply Chain Digital Magazine",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM19SVHdhREdJSkpfM2h6eG9DR193dVJicllaUFJwOWxfWVl2NXpEbEF5RTI1Mzk0dmgwU0JOaEZNWFREcVRrN2FIS0JfdjNaTWZyS3NRUkJ6Y1hPUHEtaG5iX3Ayb1VjWUxPZjk5VjVscGhPdnpnZlp2ZVUzcUN3Zkwwb2JSUHlxd1d6bHp5SXQxTHdua1Nn?oc=5"
+    },
+    {
+      "category": "区域供应链",
+      "date": "2026-08-18",
+      "source": "South China Morning Post",
+      "title": "US transshipment ‘scam’ claims put Asean exporters in a bind - South China Morning Post",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXdITlF6YnNONXA5S2c0cGhqTmVwZ05jMW1UUER3cW9pRTUyV2lGX3BDX0xfVm9IVHdWaUZWcGFaRGFjdUhpVEZYb3pXZVJxZHN1ak9icXJ1SFF2ME85Q0dGU0FuVGdWNVAtM3dBdTdmaDJPcER2TXpjUEk3aDJjMm9lUEI4ai1zb1VieEpjZHJ2SWtoREdVMWQtenhxX2N2RjI4Qk1Ia0xaU1lQMWc?oc=5"
     }
   ]
 }
