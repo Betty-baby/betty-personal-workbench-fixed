@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T01:22+00:00",
+  "updatedAt": "2026-10-23T01:20+00:00",
   "items": [
     {
       "category": "供应链视角",
@@ -42,6 +42,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlVPX0xaYkVKSUNjX2xONlZ0dTZpM3RiTkhPdnVhWm5HUWJMbjFWazctRGJkSVJIdDJGTnBFMVRNU01yWWI3NjJqZk5NZEVJbWx3Rlk1MXJ6bHlOMVdCektFV1E0Q2RzaTRRa1ZibWpLckhJTHFvQzkzOHhWdm02R2JGdG02V1JFTzRWU3NXNzZuclRxOHVrMHliaC04Mm1LeXhzblZxWG05dw?oc=5"
     },
     {
+      "category": "供应链视角",
+      "date": "2026-10-11",
+      "source": "Cincinnati Enquirer",
+      "title": "The Strategic Edge: Senghor Logistics Top-Rated Sea Freight Shipping Services Guide for Modern Global Importers - Cincinnati Enquirer",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应链",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVldJbFlCdmpEYnVjSzA5anF5Z2RDcGpJSGFWRk9zZE0tR1dObmdGVE94X0QzWDNYY29yQWhYak54cEZXRVBFYnNyVURfZ0RtSU5pR0U5VHJxQ0ZtX1I3ajdEWEFwYXBuZFk1Ump4RXl3cF9Icy13QzZlRGsyYnAwb1c2czF0VnRNdkJWeFM3TnpkeXNFamhGTHdyNWY5VlZ1b3ppUkhFaXRVSkQ5MEU0TmloTEd0ZTJXN2hkWGF1eGxMeVVHdUozMTB4MnhsSFplbmRXa0tjVFR1d1pidWN1M3E3RlAwcnQtN2JjUE5SVm1oODRacVdHNw?oc=5"
+    },
+    {
       "category": "能源与原材料",
       "date": "2026-10-08",
       "source": "Ellen MacArthur Foundation",
@@ -50,16 +60,6 @@
       "status": "待核验",
       "stage": "原材料",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUpUenZZeldRdVY0cWU1cHVKV1NxQlZXOUc5SnZPaHhrd05YZFQ2Y0JHM1NRLXYzWW9LZlJQYjlYb3NORTE3ODVucFdzanJHU19DTnUyQUQ4VzVhUXdkMmd6QS1YbWVJVVVaMVVRMzRrcmozWVBCRmR2dnNuYlJSVUpB?oc=5"
-    },
-    {
-      "category": "区域供应链",
-      "date": "2026-10-05",
-      "source": "Fortune",
-      "title": "Why ‘China plus one’ is paying off less than Southeast Asia hoped - Fortune",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG1CUXlXR3NzMExSU21RSHlfTnRnNTJ5VWI1MktxTjVCbHZfSTVzUXo2aU9FSlNxVWJ0aFBTREIxb0lXN2FwVTdTVVNhWVBXMWVxWV81VTNUVGFWTUJMMmNWVjF3M2c4bjN3QWpfb0duX19leTVqNjNScEllQlFMRg?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -92,14 +92,14 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWRVcS1LMEFTeTZkZ29iakZiV3A3SGxsSXZqNE15azFiUVdyZi1RLTlnSTFULWNRV3I5VHZPMUk1SVlVdHktSkpNbDdvRzVpcUlLR1hfd1RVUkpUZVY4blQxbFN6TWs4RzhubS1QLVdlcVlkQ1ZLUHZxVTA3TWVMMWt2OElUUHZsZDltTE5idXBCNDFfdkJEV0ltUURGeUpfbjVsQ25OenA4X2RINGdhWnprR1NoVDg5NHNmVkxnZWdIRy1uTXl1R3lFMWtPaW1JVnFiWA?oc=5"
     },
     {
-      "category": "物流视角",
+      "category": "中国供应链",
       "date": "2026-09-30",
-      "source": "Transportation and Logistics International",
-      "title": "Asian port congestion raises supply chain risks for 2027 - Transportation and Logistics International",
+      "source": "Vietnam Briefing",
+      "title": "China’s Pinglu Canal Opens New Trade Route to Vietnam: What Businesses Should Know - Vietnam Briefing",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHktQ2RWSmtsV3Y5RC1QRGp0OHAwWlhieXpkZ29hUkRIb0ttYTRsT19XQWNFOXBxa1pLUFRxVDUweXJzZGd1LTRkVnVFUVFreVpPLS0zY2NqZW1JMnZzYkFMM2V5aDNUSEdjTUtXOTRnaVpzS0dJNC1Db1E3eE5zcDhiTmtrYkRXT0Z0R25uSzdhZw?oc=5"
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGEwM1AyODI2Z3NuWWhDM05pNzBGUUl2QzR5YmNlQ0V2bHVPMEdaanMyT2JBMU1tWVlENHE0RWlZS2prYmMzdTlTZENyQ01kWTc1MGoyeDNMd3ZQdDNMZnYtZE1sbzN6RzhBb1o3d1ZaN0hmdHNUUjRWQTFPQXVWWVpHSWFMN0dmcVU1dEt4c3U5WDVJ?oc=5"
     },
     {
       "category": "物流视角",
@@ -112,14 +112,14 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVVUVXJ0bFlIT3F1UDFsZnNqVklzRTN6YjFxZ0VYbGkteTI0WHA3U1hNZGF5a1hoZ0JwcEJDdWhXWEktVDViU2lDWTVpNjEtV01CSTZyTWdCOVNJbDJLd0dfbXZiVUJ0V2E2OXlqS0Ntd3dhalNhb01Vd29KenRwdFRjbDZOZklkNkVTZ2pVX014NlZ0M1lZdWxpMi1UV3dwWmg0MUt4M3NYaUZETVNQTWJRTFJIRU5oVlE?oc=5"
     },
     {
-      "category": "贸易与政策",
-      "date": "2026-09-25",
-      "source": "China Briefing",
-      "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
+      "category": "汽车供应链",
+      "date": "2026-09-24",
+      "source": "JD Power",
+      "title": "Assessing Europe’s Gigafactory Landscape - JD Power",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "贸易与政策",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5"
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkE2N3N4N1RweFNVNkpFWUYxTWZrVVRIUnkxTl8tMWIzR0h5a2pGanVKem1GZ3VZRzRiNXl0b2VKV0F4LWpwcVN2Z2NDTi1ETk5pSjBITTBDdk5rN2kzLTl1NGJGeHdnY1pJSWcxRF9yM0R4SGxpUHJUZWlrUHRaLW5TQ3g?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -130,6 +130,16 @@
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX19fVnYyVjRxcUVlY2V0S1JGMDBVaTFpM3I5Wmp6QUZwcWRaMzlSbm9ONVRHeFI3dC05ZFBydWlwZzExaFJsSGNPeVpXTDBuN0ZESXZSc0prUU9ZOUZpWGhJZmZVX0M2a0RXbDlQSU1tRk9YMlZJTnZEeDNnZldCd0tFcHNnSVRIRFZtSTNWZmM5N0xyQlNEdXdPbHUzZlpVRU16dWp1MzJVNGhGemtpOVdpR3BBTGVLbThuNWJySVRGd2tjZnhjLWtrNktCemhLczh1czg5YzMtemlUbnBHNFgzUTRobzVnRVJ2eTl0T1llM1RfTkZVbDZscWp4ZndZZ1BhbXVNd0JJUQ?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-09-22",
+      "source": "Supply Chain Management Review",
+      "title": "First Shift: Energy costs and manufacturing ecosystems hold news cycle - Supply Chain Management Review",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3k1TUM3WWc5d1lLWGhHTkdSSm5uRHN4eXhENERtNUFCTjJGeGNySzV5MktERVBYLVdUSUlYXzNBUjBjSjVJSkJKRGVJaWoybmlHUFl5VGZXM1lvdWJZbGtEdmRFTzhCY01jbWxsYTE3cndtcm1DTkRoakozUjF1cEdJd3psZ2FVZnN4OXAyQQ?oc=5"
     },
     {
       "category": "科技供应链",
@@ -182,24 +192,14 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWJFUkhobU1GUl9wTVlOeXhfWmpGMXJwQUZOWWo2M19RVXNmVmZhalo1dmVXaXo3cmdoUDdfYm9MRVZQaHhkeDZ1QjdNdnZDZXFxU1pRX0ZNemtlSUtfdzVqYVU3VUFfVEVwc1BrekNJSUdPRkxXVzZuTHVPUUpsbVRoMmxCNEIyc3JjZUVQN21EUQ?oc=5"
     },
     {
-      "category": "中国供应链",
-      "date": "2026-09-01",
-      "source": "Fibre2Fashion",
-      "title": "China vs Vietnam vs India vs Bangladesh: Best Apparel Sourcing Destination in 2026 - Fibre2Fashion",
+      "category": "物流视角",
+      "date": "2026-09-02",
+      "source": "Splash247",
+      "title": "Mundra empty-box rule triggers wider container transport strike - Splash247",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcm1pXzV2Q2tjU3QtWEtWaFpsRm9tRGVlMlFYaWVLSlNRbWRtWGdDQkdmTGtabkpRcXhxczI4c2J6T2cybGVnbGpfLXh0Q3Q5RE5fMnQyNmhHZ0dwdldyVWNnb3lmTWlLR3A4YUNZanJKY3hNUVJxSGlVUEZJNkJqQzdPNUstZmFaWXhRSzl6YjdTOGd1Und5VjdoMndOaWIyS0JHVEtXYXRoNW1ZREp3SUZsUHk4ZWFxZlBPQXRMTDdvWWtrcG1RZUY5dHlScjFLdVhxQS15dmZaWjJaVVRZdmNoWEtuX2xTWmN0Q2NaUQ?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-08-27",
-      "source": "Fibre2Fashion",
-      "title": "Apparel Lead Time Comparison by Country | China, Vietnam, India, Bangladesh, Turkey & Mexico - Fibre2Fashion",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHpyS3dnV1lPWlBwUjVFY0xMOVZGdDRtdG44TE43RW12NXczWXJodzVHMHNTSFV6ajVpV2MwN3JPZjdRaGFzRkdCN01fa1pIdG4zSkNiR3AwVTFScVM4eFZVc2VWUkc5cy1ZRUl4MWdlcGxfdlU0LXhrOGVKYWhJdjd3YUVNNXdmNDBxX1pabkZPQ2hZMGlJWDdnZktueEpoQUIxT1NuYndKQmY0T0RBTmYxdVI1b05WODJHQWd1eDkxUkZESDBoZml6bzdRc250bXc?oc=5"
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZENLZzdWbFIzS3lHTDd0Tm9Vc2lzQWN2Snhsa0hvRGgzZDRmdlY3U0tZOHRfVXFSamNPcDR5U0pyMlU1N2tmN2VjYTF4WVQ2SlktMWdYRGF2T3hiRk9MQlZZcUZoOWxNVktJUEJ3VzBaZ052OWtYSzIzMTRBYlg5S0JVbXJURkMyRUVsUk9LMA?oc=5"
     }
   ]
 }
