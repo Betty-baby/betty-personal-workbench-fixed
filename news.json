@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-29T02:14+00:00",
+  "updatedAt": "2026-10-30T02:27+00:00",
   "items": [
     {
-      "category": "时尚供应链",
-      "date": "2026-10-28",
-      "source": "Infosys",
-      "title": "Fast-fashion supply chains: From challenges to a responsive model - Infosys",
+      "category": "中国供应链",
+      "date": "2026-10-29",
+      "source": "XenoSpectrum",
+      "title": "HP, ASUS and Acer Reportedly Move Some PC Production Back to China as Component Costs Climb - XenoSpectrum",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81NEkxOHRtdTBTOXZNSHB2VS1zeHM5bHNvSVd2d3AwX2thUjE1UGNSck91OVhKWXVTTmpiTy1pS2gtdE9xZFBWcUIwLTBhdVFJZlpkYWRyeDY0a3I4aXNXdUVOS2pxMzNBSEd3Q205Sng5ODFLaWI0OXVPOWg?oc=5"
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nSUZsRXhoOUZ2MXZVQnVUTWo2eTcwTTBtWmt4a01HNnNMSXlISUU2ZTBsM2lfZWgwMWhBb0M0VmtPVGxOS21TbFJySzUwTnpGRDZvVm52ZW9aM3B5N3pwZHQ1X0hxQQ?oc=5"
     },
     {
-      "category": "供应商视角",
-      "date": "2026-10-28",
-      "source": "Manufacturing Today India",
-      "title": "The next phase of manufacturing digitalisation could be in procurement, not just production - Manufacturing Today India",
+      "category": "区域供应链",
+      "date": "2026-10-29",
+      "source": "The Southeast Asia Desk",
+      "title": "🛍 The Southeast Asian retail brand manufacturing the hubs to global competitors - The Southeast Asia Desk",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13YWdIbkp2c2FtYmcyRzdnY2JubFAydmlKTHh6NWhlQm42NnkyVEtqejlwTThxanNScHdaTzZiOWdLdWZUSjlvWmZ0Yk5fd2Q2YmRmUkg1UmwwYUkwbVZfSGlWQV9uZjQxVU5lel8yWE5aU3FXemxpWkZCcw?oc=5"
+      "stage": "区域供应链",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xb3VvZ09JbExyb1Nndkp2bnBnWnZvd0FMMkNKQ2FDQzFsNnNuTFY2R0o3LWhrN19ORHhyeUllMlgtZFBJUmszZlN5SnlkSmpXb2lENWdwRUFRc1ZXRnBnY2JndHBkaGc0dC1ndXpHdHU2Y1pGUGt3dThTTQ?oc=5"
     },
     {
       "category": "供应商视角",
@@ -42,26 +42,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOSGVxbVY0dXZTVkFOaWwtS0toNFk2YzZYMjdhOWFYN1h0a2pZNVhkOVNXQnc3U1A1bVFsYnVDNF90Qko0SmZLWXFFaTF5QkF2bmE1WkZTYXJEOGFQbEhkMGRzcjJuUzBQUndtOFQwXzJwT0lraTdtd1prVmZsNE42eDFRdm1Ea19wc21EWi12dC1XVlRYbHdOWmlBamh6YkpGWnlGU1NCaGMzOFVZd0Fjd2JuaXJzMmhIZUZXTmZiT3padjdfakY1bDB2SndsMjkyWHlRdkk2b2VobjV4OGhUVTVEak43RURMUjJNd3FtaWpOVFR3cFBFbDZUOGo5dXVBWmRJNncteWd5bnppTHBuTVppU1RkRmIyVURVVzc5YmZYY0tqRXQydDJKVVUyMng2bVQwUw?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-10-26",
-      "source": "BW Auto World",
-      "title": "India Must Build Battery Cell Manufacturing Capacity To Reduce China Dependence, Says Yogesh Mudras - BW Auto World",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU094RnFTN3RLeHN3NjNsU0V5TzI4aUJkc1RBMUpoajFlckZHS2VLdG5tWEJsei1mam9NcEdUcDFjMnRrZVFYWC1QUGM1OFNBUVI1RE5FUU5kemJycGliaGpnUDlaVHMwdFRCRWNCOVVXRWdFanhRSGJ4TERjUml1U0x1VnEyQjNCQlJEcldlYmF1RGtERnRBMVJmel9JSHBmMTRHQkVUcDdYMTRWdjhhM1NCc3Z3dGFURHNXNHpleWQ5VEJ0ME9ReVNWZF9ySE9wQnRJ?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-10-12",
-      "source": "Benchmark Mineral Intelligence",
-      "title": "Upstream and downstream policy push: Europe Regional Spotlight - Benchmark Mineral Intelligence",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlVPX0xaYkVKSUNjX2xONlZ0dTZpM3RiTkhPdnVhWm5HUWJMbjFWazctRGJkSVJIdDJGTnBFMVRNU01yWWI3NjJqZk5NZEVJbWx3Rlk1MXJ6bHlOMVdCektFV1E0Q2RzaTRRa1ZibWpLckhJTHFvQzkzOHhWdm02R2JGdG02V1JFTzRWU3NXNzZuclRxOHVrMHliaC04Mm1LeXhzblZxWG05dw?oc=5"
-    },
-    {
       "category": "时尚供应链",
       "date": "2026-10-12",
       "source": "Fortune Business Insights",
@@ -70,16 +50,6 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-10-08",
-      "source": "Ellen MacArthur Foundation",
-      "title": "Critical Minerals: Energy transition - Ellen MacArthur Foundation",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUpUenZZeldRdVY0cWU1cHVKV1NxQlZXOUc5SnZPaHhrd05YZFQ2Y0JHM1NRLXYzWW9LZlJQYjlYb3NORTE3ODVucFdzanJHU19DTnUyQUQ4VzVhUXdkMmd6QS1YbWVJVVVaMVVRMzRrcmozWVBCRmR2dnNuYlJSVUpB?oc=5"
     },
     {
       "category": "中国供应链",
@@ -113,6 +83,16 @@
     },
     {
       "category": "物流视角",
+      "date": "2026-09-30",
+      "source": "Transportation and Logistics International",
+      "title": "Asian port congestion raises supply chain risks for 2027 - Transportation and Logistics International",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHktQ2RWSmtsV3Y5RC1QRGp0OHAwWlhieXpkZ29hUkRIb0ttYTRsT19XQWNFOXBxa1pLUFRxVDUweXJzZGd1LTRkVnVFUVFreVpPLS0zY2NqZW1JMnZzYkFMM2V5aDNUSEdjTUtXOTRnaVpzS0dJNC1Db1E3eE5zcDhiTmtrYkRXT0Z0R25uSzdhZw?oc=5"
+    },
+    {
+      "category": "物流视角",
       "date": "2026-09-29",
       "source": "WWD",
       "title": "Asia’s Port Congestion Could Take 10 Months to Clear - WWD",
@@ -120,6 +100,16 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVVUVXJ0bFlIT3F1UDFsZnNqVklzRTN6YjFxZ0VYbGkteTI0WHA3U1hNZGF5a1hoZ0JwcEJDdWhXWEktVDViU2lDWTVpNjEtV01CSTZyTWdCOVNJbDJLd0dfbXZiVUJ0V2E2OXlqS0Ntd3dhalNhb01Vd29KenRwdFRjbDZOZklkNkVTZ2pVX014NlZ0M1lZdWxpMi1UV3dwWmg0MUt4M3NYaUZETVNQTWJRTFJIRU5oVlE?oc=5"
+    },
+    {
+      "category": "贸易与政策",
+      "date": "2026-09-25",
+      "source": "China Briefing",
+      "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "贸易与政策",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -142,16 +132,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlBPbmR6T18wdXdxZ1l0ZS1GbjVvN0xSTi1sd1J5VTZlR3YtQVNJQi1ndEdmcENESHdPX1pJeGphRV91Tk03TlBDOWs5QUVYaWdFcmhNZ2lNRDVVNEdBZ2FSMGVvSVY4R09wVkRoX0lVY2VvdTJPcm00SE5lZGtldXRzUk5SRGpQYUd0cW5ndWItWUJPNGU2VlV1Q2RLUjA?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-09-21",
-      "source": "Bruegel",
-      "title": "The European Union’s automotive sector needs a plan, not undue protection - Bruegel",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm81SVFrSmNGU3BjQXhlZE1rZWY2V2Qtc2R2cHNxcGtVWWdGZk0yUGFFQUpscEtaLU5KMFh2OVlwaTBvSnM2WDFDZDFOZ0hQX01FQlhyM3Y0VWdla005RzdNZjIxTkNIWjAycHlyVTJndHJ4azVpekZXSnZudWhVU2xxRl9KX2pwYktSVUttOTh1RVppSlNZS1RHQ3RLN0JCVllOVw?oc=5"
-    },
-    {
       "category": "科技供应链",
       "date": "2026-09-21",
       "source": "Visual Capitalist",
@@ -160,16 +140,6 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmg5ZHo3dDNiX21PZGg1VExfSG5wbUx1YmJnTkFBX0xfMmVTNTVFSTJ6dVpaV3I0amtqZjlPellFRE5XNXRkdklPOUFFUmhWWjdaM2FNbkNkbWU1M3p0bVo5bGMtYzdyNER4MEFXVE9MeHVWM3laaHMyZ0JyWlJpMGtn?oc=5"
-    },
-    {
-      "category": "科技供应链",
-      "date": "2026-09-21",
-      "source": "CRN Asia",
-      "title": "Tata Electronics races to build India’s full semiconductor stack through ecosystem partnerships - CRN Asia",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEY3ZEJmN09Da2ZnR0V2ZlhzQ2RZSGxMb2Z5ZmZJRWNrM1RvajJuSVZDd095RW5ZYVdFekxGNUEtVm9KREdnT2NockFuOWhmSDYyTjloamNlekhNVTRydHhKQWlQV3gtTWZSQ0xxUXpaOXE5R3Z6eGhpeU5NOXMtc1RWR3IxMnpYSmNOWkwycHlxOW1pVi1pOW5ZTlN3NnFmd3NGVHVTVFR5bTR5UElEUkNOcDJOdkdKX2RMZ0RZLWotQ1NzMDRtanJMOGk1QUNX?oc=5"
     },
     {
       "category": "科技供应链",
@@ -200,6 +170,36 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUtWX0VmTTR3dTM0MG9xX1lUemFxRjFkZHVtc2w4aXNNRmp5MzdlV2hQZkNUVUFPeXY2REN4eXVxSG1ZOVIwMlhkQ2JJUFJDazJRZHVZX183SXdTSDhUOWpPSDhGZzUyQ2tPZjU3SjhZcXNQUEM0WGVPVzB2bERKblpvR3pxTW1TUFV0RjlDa3o5c3BFZFB5Z2laa3VBUXhCSlF3?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-09-07",
+      "source": "Logistics Middle East",
+      "title": "Why empty containers are causing problems for global trade - Logistics Middle East",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2ZNazJoS0hEUktkeFNLU1BEQXpld2M3Yl9hZ0duVDctYk9BNUROQlV5aE1JYmk5bmZQZnBidG1wM3J6Mm9YMVNVU2JKYkI3V0lEcEhiZzZ1QVY0WkhBR0NRSmpLRnVyTGY1bjNlcEtNY05NWHhyRTM0Yl9Zb1FybGVoRjRKSEw4SHJfUmJ4MlFpTTFhVmM5ZGN2ZGJfUVpL?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-09-04",
+      "source": "ET Infra",
+      "title": "Adani Ports to open empty container yard inside Mundra as depot strike hits trade - ET Infra",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0NXUUJFOHVSRWt0bnEtRjBiR2g3M3NqSGJOQ2o5X2hYdlFZTEs4YnlGYjR0RmEwNVF3RldSb1h1ZUdUOWRfVmM0cWpvVWpqVHlGVUFGYS1wcHlWQ2hJUHBKaE1CQUdERmtuQ3VMZzFCMDdmUEJrWlFTMEc1Q1pQbkRFZVFYZjRvcm9jdUJEbWViQV9pWXVBWmtJekpHckhzaElLSmhBX1d5eVJVZ3VCVUx0cWhuUUtJSV9SNTNLcnEwU3pZT1BJb04tbnJiTW1tLUNudGdKNnU5TlVFQlN5dThmVTNRb3NP0gHuAUFVX3lxTE5VLWwzdXZGUlVRLTRwX3JaY01oaUc2TnhubjlVNFVDUkxhd0dFMy05VWR6eVQ5cVAxVUZPRjlYX1JXZWM0aXRpMDlkVFR4Tkg5NE1xcnNJd1Uyd3FnM3ZuSGdZZ29MQUJBV2VRelNJd2tfY2tKRk8tUmVsS3JvTWVIYW1fakswNWROM203bjZKTUZVLTZaZVh1VEhpU1Nvck51bG1yVGp3SnR2eDRzeE5VUS1laWRfRnprQnhQZ1o4SVVQS2NWZDlFQVRhQzNNQ3RxZ0hUVGtfeHk1LUdoM1lwSU55R1Zkc2lTWUhJZHc?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-09-01",
+      "source": "The Loadstar",
+      "title": "News More disruption at Mundra Port as operators refuse to move boxes - The Loadstar",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEs0N3lrbklQUXhFZERQWXc3QXRaVFA4VmRqUFVsdXBmR2tCaXRiWnF6SnB3aTVyeGtmbV9KTVZ2Z0JFWlJ4NjhjX2pFUmJGaW9uYTNFWUlORUcyWm8xVVRYX0JUMmtvc2FSQ3A4SDNVUF93QUVQa3ZoOUZOVHZLVGh4N0VxVXBuaVdLVzB4alZkRHc?oc=5"
     }
   ]
 }
