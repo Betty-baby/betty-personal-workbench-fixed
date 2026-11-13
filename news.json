@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-11-12T03:40+00:00",
+  "updatedAt": "2026-11-13T03:17+00:00",
   "items": [
     {
       "category": "贸易与政策",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "Sandler, Travis & Rosenberg, P.A.",
-      "title": "CAFTA-DR Short Supply Requests for Wrinkle-Free Fabrics Approved - Sandler, Travis & Rosenberg, P.A.",
+      "title": "Excess Capacity Tariffs: Will They or Won’t They? Part 2 - Sandler, Travis & Rosenberg, P.A.",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "贸易与政策",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnJGME9Ea1pqWFdObEZmRHNva1RuZHp2M01VWTFqRS1LV25SSHNZVVN5WVVtdVpBajlsQmhaamh1ZzNVei16M1dvVTktN19xNDZ3S2xFRjhYV2NHeFFuQm12NkNOUzF1bjU4aU5TenlJUFRVRWtYLWlobk1vdVA1dEZncWVva21mVGZyM2k5d0V0bFVhWVp2WnBjZEJnRTA2bVZvcXlhMlNKUmtCQjJodlpScE5YWVp6T2c3cVJBZnRxSkIzSHNXb01ESThQYmVkUXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjNDTVFrbzhRZ3BoRTVoaVprYzQ3VHc2Rm1WTGRTRDd0dm95clp5SktZSXBQNkF5NzdjMVFEaUJXM1VmZVotSHlRUUVBVE9WU2l0RHphQ0EzUl94Y1FrdV9RMUlsWEx4U0dBWHROTGtEMzRhdkdOMUY5NDA4SWhBeFQxb214Sl9NRVdfOWtybmNnTnF0ZGpuMnZNRlgwMFdzYWxydWUtVDRFRnNCN0VyLVV2N0NHZG5SNmlOb3MtM3hVOFk?oc=5"
+    },
+    {
+      "category": "供应商视角",
+      "date": "2026-11-12",
+      "source": "Mexico Business News",
+      "title": "Dual Sourcing Aims to Prevent Automotive Production Stoppages - Mexico Business News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmtIT3BzSmtVMVR6TEs1X0ZZd2JkVTQ4VGxjcm9wRzU1N21tZnduMkNfS1ozendXZ2x5dXdnRC0xYzJPVFFCbkJXS1NFaS1jWHVUYXZ1NlFRM1BNSEFsY0FqOTU3R3hXYmRzc3F2NXQ3S18zN3JBRXNPaFZkR1c4T3dQYVRLS0ZuenJfSXRySlpNRm9aZklUbGxlMmxTRXU2Wk44?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-11-10",
+      "source": "Department of Energy (.gov)",
+      "title": "Breaking It Down: Next-Generation Batteries - Department of Energy (.gov)",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0ZoN0JnenJHNEI0ZjJla084SkJTSDk1TnExOTd4OG5ydXNmV0FObmx4dDJkUloxVnNlNjNiaTRwb2NMVkw3eEFmQXNDMlJXUWZmOXJiQW5FenhOZTB4aDYtZlg1X1NaeGdXOVVydWxNRU9qRXpNc1lsTi1JUFhoSEt3?oc=5"
     },
     {
       "category": "贸易与政策",
@@ -120,16 +140,6 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-08-14",
-      "source": "India Shipping News",
-      "title": "Asia container freight faces delays due to typhoon, tight capacity - India Shipping News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFUteE1OS0ZlYzI1Ykwyblh1ODBzbklYMlNkSEg2Yk03Z1RRZlNwRVpkQm8xTUJTNmdzVkEwaXU4aktWUFBjVkhlOXUtMm9YWnFnMWoxVzV5RE9GV24ydHdQYUdzYk51a3pYb1VqaGhMN0RQZ0kzR3hEN3JjR3otRHBmNlBZRXZ3dXRBeXJjZzl5dGp0ZERVQTRobVhuend2bGpWUHRRcmMwTUUwS3p6enZJNGtSQQ?oc=5"
     }
   ]
 }
