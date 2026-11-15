@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:57+00:00",
+  "updatedAt": "2026-11-15T02:28+00:00",
   "items": [
     {
       "category": "贸易与政策",
@@ -12,16 +12,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjNDTVFrbzhRZ3BoRTVoaVprYzQ3VHc2Rm1WTGRTRDd0dm95clp5SktZSXBQNkF5NzdjMVFEaUJXM1VmZVotSHlRUUVBVE9WU2l0RHphQ0EzUl94Y1FrdV9RMUlsWEx4U0dBWHROTGtEMzRhdkdOMUY5NDA4SWhBeFQxb214Sl9NRVdfOWtybmNnTnF0ZGpuMnZNRlgwMFdzYWxydWUtVDRFRnNCN0VyLVV2N0NHZG5SNmlOb3MtM3hVOFk?oc=5"
     },
     {
-      "category": "供应商视角",
-      "date": "2026-11-12",
-      "source": "Mexico Business News",
-      "title": "Dual Sourcing Aims to Prevent Automotive Production Stoppages - Mexico Business News",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmtIT3BzSmtVMVR6TEs1X0ZZd2JkVTQ4VGxjcm9wRzU1N21tZnduMkNfS1ozendXZ2x5dXdnRC0xYzJPVFFCbkJXS1NFaS1jWHVUYXZ1NlFRM1BNSEFsY0FqOTU3R3hXYmRzc3F2NXQ3S18zN3JBRXNPaFZkR1c4T3dQYVRLS0ZuenJfSXRySlpNRm9aZklUbGxlMmxTRXU2Wk44?oc=5"
-    },
-    {
       "category": "物流视角",
       "date": "2026-11-11",
       "source": "Reuters",
@@ -30,16 +20,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjVEamc0U2hCbTNOcFFjYjBWMXVVQXhVSE90X0s1YzNCSXJyN3RRblRodlFjX092SFF6SUdESXh2bE5rSlpZSFF3OWRUZ182dkRFcGFXX192UktNLVNLdGVmTjFTemQzN25ZT3BLUUFmT1I3emhKUVJCNnN2dUpNTnU1eE5lS3kzVjNuTHBNdmZ5NHVWSDIydUZpLVNlZjB4QWd6WUZR?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-11-07",
-      "source": "아시아경제",
-      "title": "[Energy Odyssey](18) After Oil, Rare Earths... China-Centric Supply Chains Flash a \"Warning Light\" - 아시아경제",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hVVEzelNtVFFYbTlIWnB3Q2xXN1RvZW53bnA5Unl3Z3VZVXg0NG9lQ0szZE9oYXE3bWc4aHJ6R2d4NHN0SDFsYk9FTUNLdFlIajJKUFdUM196S0pBSVlqcmE5aFo?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -52,6 +32,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSk8walg4X3dKRmRDZ1BXdFZuMGpSVHJHNFdBMWRIWWdaRXdQTVA0Z1d4b1RmVTBqRE9MZDVHUXZ2MFdNaWhPbUZaaGdEX2drMjBfMVM5VnU3OXQwaHBDSy1SV01sLTc2TGhPbkRUSXdFMVNDZ2hpX0szQkRLODRael95a3ZjbC1kTVJNSi1xRm4?oc=5"
     },
     {
+      "category": "科技供应链",
+      "date": "2026-10-26",
+      "source": "Fortune Business Insights",
+      "title": "Semiconductor Market Size, Share and Forecast Analysis 2034 - Fortune Business Insights",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JOG9LeWFiS2JJRzEydzhLaVh2VGphZ0hINXViT0pZeXNTeWw0R3ZmZGppN2JhLU1sVUdiQ21iNEpUWGY1UVVBSEs5YlRwSlJmWDV3WkxYaWpkdGFJRXVtdnAyWllaeXR6S2U3SHBLQjFpWVFZNnc?oc=5"
+    },
+    {
       "category": "时尚供应链",
       "date": "2026-10-26",
       "source": "Fortune Business Insights",
@@ -60,6 +50,16 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
+    },
+    {
+      "category": "供应链视角",
+      "date": "2026-10-09",
+      "source": "Supply Chain Management Review",
+      "title": "First Shift: Freight costs, capacity signals and sourcing shifts redraw operating plans - Supply Chain Management Review",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应链",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0NFR3dXcTJ6VWNoVnBHeDZzdjlfbGdTQjZKTkhoSk1ZakFmX2xGX2ZNQXdTTlZJNFlLVUtPdDF3d3RGdFNZWjkzODV2VE5GYjRZSnBMSnhJUHFFWTRoMDI3dHJ4TkxyT21iUkFrR2RWd1NJYzN3anZISzZsYVA2azRoWGxoYmhWVWNDN0hISXphLUZ6QmtRVjB0ZDlGRWdDVkFUbg?oc=5"
     },
     {
       "category": "供应商视角",
