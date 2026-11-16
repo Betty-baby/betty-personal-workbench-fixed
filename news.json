@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:28+00:00",
+  "updatedAt": "2026-11-16T02:38+00:00",
   "items": [
     {
       "category": "贸易与政策",
@@ -12,14 +12,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjNDTVFrbzhRZ3BoRTVoaVprYzQ3VHc2Rm1WTGRTRDd0dm95clp5SktZSXBQNkF5NzdjMVFEaUJXM1VmZVotSHlRUUVBVE9WU2l0RHphQ0EzUl94Y1FrdV9RMUlsWEx4U0dBWHROTGtEMzRhdkdOMUY5NDA4SWhBeFQxb214Sl9NRVdfOWtybmNnTnF0ZGpuMnZNRlgwMFdzYWxydWUtVDRFRnNCN0VyLVV2N0NHZG5SNmlOb3MtM3hVOFk?oc=5"
     },
     {
-      "category": "物流视角",
-      "date": "2026-11-11",
-      "source": "Reuters",
-      "title": "Hapag-Lloyd raises outlook for third time on strong freight rates - Reuters",
+      "category": "汽车供应链",
+      "date": "2026-11-12",
+      "source": "HKTDC Research",
+      "title": "Key South African Growth Sectors: Automotive Manufacturing - HKTDC Research",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjVEamc0U2hCbTNOcFFjYjBWMXVVQXhVSE90X0s1YzNCSXJyN3RRblRodlFjX092SFF6SUdESXh2bE5rSlpZSFF3OWRUZ182dkRFcGFXX192UktNLVNLdGVmTjFTemQzN25ZT3BLUUFmT1I3emhKUVJCNnN2dUpNTnU1eE5lS3kzVjNuTHBNdmZ5NHVWSDIydUZpLVNlZjB4QWd6WUZR?oc=5"
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DN2FJZ21MNUx3RDk5TWFqTnNVdFNpYV9YbVY1Y1ZQSVFpOG9ubzJBZDdDSTRoS3ZZeW50RVg5ZFl0ZElxTUdLWWtYNTNSdWpXVUtoRmdiWTJRRVJDV2NTV1F3?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -110,16 +110,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1lHZVZoZFBHZDQ5Mk9KejBuN1dqVGlBWm1VbFZvaWxmY3lkNXpXMXh0QmUyek80dEt0YUFOcG1LcXJqb2FwU0lMcFE4LVNKWE1LNkNCTEQ0S3loZUNma240UGljT1ZWQ3BtVktzN0s0MUFMYjV2Tm00VGFUYk52T0pFUC02amZ2MlgtbFR2aFo?oc=5"
-    },
-    {
-      "category": "时尚供应链",
-      "date": "2026-08-17",
-      "source": "AIMultiple",
-      "title": "Top 11 AI in Fashion Use Cases & Examples - AIMultiple",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNlNfRG1Hbnk0b0tHYWhLbXRzNTlUeFVTY2F3M01RYlpYOFNQb1JaSlFCcXZvdVIwWGhzdjQzWVl3SktpZlJ1MFlXTlQ?oc=5"
     }
   ]
 }
