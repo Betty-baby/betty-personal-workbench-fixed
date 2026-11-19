@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-11-18T04:04+00:00",
+  "updatedAt": "2026-11-19T04:01+00:00",
   "items": [
     {
-      "category": "能源与原材料",
-      "date": "2026-11-17",
-      "source": "Kings Research",
-      "title": "Critical Minerals: Demand Drivers and Supply Risks - Kings Research",
+      "category": "汽车供应链",
+      "date": "2026-11-19",
+      "source": "The Macau Post Daily",
+      "title": "From selling cars to building supply chains, China, SE Asia deepen NEV cooperation - The Macau Post Daily",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKYzFZaUJkb2tjWWVJVmdpM2t1SDMyaFZFZ1lQMi1pTTNPc19weGRXWlZFSjZHRXkzeVpyRmZHalQ2ckp1UzFxdkdxZUstUGg5WWlMdFM0WFRTNmFQdEdfcTBjQmlYNmlPVURMUmdKLWVKUUFTM0dJb0Vxd1c?oc=5"
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aTC1YUENVM0ltaTJ2Q3RvcUV3TVlnTjVia3BGNjV3dTV3M24xajY3eE4xMnc3QklWQXd1ZDR2ai1kY2E2d21LNmxHQ1M5UjUtQVFN?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-11-18",
+      "source": "TMX Newsfile",
+      "title": "JUSDA Named Among Forbes China's 2026 Global Logistics Flagship Brands - TMX Newsfile",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ21SR3JNc2s1bElGWF85OXFYallzSnlVZUthMk8xLTdUbmJIeFdzWVBtN3B2TjVzRWNsams2amptSTl1RlhxR0JVUU5KbHJDTkI3NmwzM2xVamlBZV9kc3kzaU5mam96OWx0ZUtiY2tMSlRqM2ZWb25WX1JRQjAtVzVYYVhEdUh3T2lhSGFjQnJ5aGpCY1VMcmk4aDN3Z2hSakRnT0VTMldqLXlscWVCekZLdw?oc=5"
     },
     {
       "category": "供应商视角",
@@ -30,26 +40,6 @@
       "status": "待核验",
       "stage": "科技供应链",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JOG9LeWFiS2JJRzEydzhLaVh2VGphZ0hINXViT0pZeXNTeWw0R3ZmZGppN2JhLU1sVUdiQ21iNEpUWGY1UVVBSEs5YlRwSlJmWDV3WkxYaWpkdGFJRXVtdnAyWllaeXR6S2U3SHBLQjFpWVFZNnc?oc=5"
-    },
-    {
-      "category": "时尚供应链",
-      "date": "2026-11-02",
-      "source": "Fortune Business Insights",
-      "title": "Apparel Market Size, Share, Future Trends & Forecast, 2034 - Fortune Business Insights",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
-    },
-    {
-      "category": "时尚供应链",
-      "date": "2026-10-28",
-      "source": "Oracle NetSuite",
-      "title": "The Top 12 Apparel Industry Challenges in 2026 - Oracle NetSuite",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSk8walg4X3dKRmRDZ1BXdFZuMGpSVHJHNFdBMWRIWWdaRXdQTVA0Z1d4b1RmVTBqRE9MZDVHUXZ2MFdNaWhPbUZaaGdEX2drMjBfMVM5VnU3OXQwaHBDSy1SV01sLTc2TGhPbkRUSXdFMVNDZ2hpX0szQkRLODRael95a3ZjbC1kTVJNSi1xRm4?oc=5"
     },
     {
       "category": "供应商视角",
