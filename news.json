@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-21T03:51+00:00",
+  "updatedAt": "2026-11-22T02:54+00:00",
   "items": [
+    {
+      "category": "科技供应链",
+      "date": "2026-11-21",
+      "source": "Digital Journal",
+      "title": "Canada looks to strengthen its computer chip supply chain - Digital Journal",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "科技供应链",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNklZTGd3emJHZDRwWWt6bDNOdFJ1OHVPS3cyOXYtbzdqLXR2WTV3dGtNZzJWVXNoZnd5WU45b1F0bXZ2cHBUSlFycElCOW5vdEN6eExzQ2lpX3R2U29VbTZvU2pNNkZ4bUdMbzlZa3E4Q2lJWEQwcF9yN2xTMk1pLXNhYTRjenpXZXJKTDdwcng1VWtiSFJtX0VIeXlkUQ?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-11-21",
+      "source": "InsideEVs",
+      "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production - InsideEVs",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VYVzRuc3QzSVNnbHd5aWF2OVZmM1FkRXYydk5iNUkzTHZVUVRIVTFrSlRfZXhBdzdDUkxubEtRREhxQ0hOQ3FMMWE0U0xMTEZpTU5UcTB0NExVUWxXR29DZUlfdTlzZFR6TjBNa3c0MDRVTHJfOERSOE5zQVl1QmN6VFYtUGF3dFJF?oc=5"
+    },
     {
       "category": "汽车供应链",
       "date": "2026-11-20",
@@ -23,23 +43,23 @@
     },
     {
       "category": "汽车供应链",
-      "date": "2026-11-19",
-      "source": "Foley & Lardner LLP",
-      "title": "From EVs to Energy Storage: What Automotive Companies Should Know Before Pivoting to Data Centers and the Grid - Foley & Lardner LLP",
+      "date": "2026-11-20",
+      "source": "China Daily Global Edition",
+      "title": "From selling cars to building supply chains, China, Southeast Asia deepen NEV cooperation - China Daily Global Edition",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUEtHRHlxdzNKUWFhYVhvc0hNc2l1N2o0SS13YWFScjhUWTE0NkpCNU9HRHBfRmRhdWtOQUZSZXdmbWdiNlByRGp5RGZtbExXanBJbUJNZlY1dWpMYk9yektrbnpEb2s2b0V2S2RzSXQ0Rjh1a2RMV2ljM1lJT19Ga3A1YkhoM0hzTnUwMDlvRVN1eHNlaHhXVXVfa2xld010bjNxaHlUU3Z1X1NGYmRLQUkyLUx5NmJmUWlMUW5WV2V1S3VycTFJdTlZMHEwZl9UdGRzbm9Mc1k5WDRnTzg1bURJSUFGYWc4UXNkWFQ2ZW01dmlT?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjF2ci1pQ3F5cnlRcThjUlYtWlJfMHNjVEdRd29ySWVMWHhfUlVCc2V0WGh0UGtoUEQzaUc2cmhlc0hVekZEU1dmVWNSLXl0UWN2LUcwYWQ0X0JlVklmVFhraXRyMmV0b2t0MmM1S2x2dnpjZGRibWhTemRFY3pSM01n?oc=5"
     },
     {
-      "category": "汽车供应链",
+      "category": "能源与原材料",
       "date": "2026-11-19",
-      "source": "ET Auto",
-      "title": "Japan auto industry targets common standards to strengthen supply chain - ET Auto",
+      "source": "King's College London",
+      "title": "Beyond extraction at COP31: Building just and circular battery value chains for the global energy transition in developing economies | Feature from King's College London - King's College London",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRTFteGJJRGhpVnJEdWlIS205QmlkV2pic2k4cThIMl9KLXI5NWtyVm1yTVh3cDhnSDR2QUpWSmxkU2RfQTVHaFVMUld5OFlzZU05RG5FdmgxWEFKLWV0VnBIVmM4SXZXVkUtbXNQLWJRTk9RczA2b2FKM3dtaWtDNVFyYUVZa3pnYS1zMEpscFRUM2hLTXctdi1DZ3I2NVZtaWJmU1RSVzg2REgzZ21XdkpHQzJNWDZtLXJHSGE1eXVJeWRuUXo5M2kwczc3VnhjRnJaUUhoTWtzSmPSAeABQVVfeXFMTTRPTDNocUNTOXpxWXFheW1nU0RpYXJnUmlpZlNXd0kzRmE0UlNBSkRGMlB4ckw3OWJrUjZQQndxdFd6cmFJYk15YndaQ0l3ZDg1QVA4ZUlLc0FNQWloUlloSGJIZk8zd19ORWNrRm5WS0x3eVg3ZnQtWnBwV2Y3MWsxZVNWZGZhQ2pNNVRoc3NrSklFYUw0Yk9ZVDJPcG1EbjV0amZ5YXZwa0FOMkROQXlzR2h2OWs0SU5uWmh6c1VLb1JCb2d6a0JNZ3dhX2swQ3JGaXVDNEFKTDdGMGU1bGc?oc=5"
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10RTNLQXNPNV80ZFFYZlhkX0lNTzdlaC1GYjhOZDJ5Ri0yeWRpc3JXUWtQLU90dV91aTkxdUdHMFJUOHVfZlpFdXpvRGhMelBscHJCd0h6Q0Q0S2hO?oc=5"
     },
     {
       "category": "贸易与政策",
@@ -52,16 +72,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZll6andhMEN0MUdLbkhqX2h5T1dXMW9fTzl5Y3VoZlVodXJiblJ2elRZZEh5YjY1bkpZUUh2OUt6Q2NoQi1RNTBDSG5zNlVvQm81MXBEZHJMeFdHLVgzRGRrSUx1TUZRZ18wNHg2R1dnXzJvM1QtY3JUT2hZM2NnSHRTUkhCNGpMOXRvR3JnMWFoSzl5UHpPT1liSmZPYVE?oc=5"
     },
     {
-      "category": "汽车供应链",
-      "date": "2026-11-19",
-      "source": "China Daily Global Edition",
-      "title": "From selling cars to building supply chains, China, Southeast Asia deepen NEV cooperation - China Daily Global Edition",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "汽车供应链",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjF2ci1pQ3F5cnlRcThjUlYtWlJfMHNjVEdRd29ySWVMWHhfUlVCc2V0WGh0UGtoUEQzaUc2cmhlc0hVekZEU1dmVWNSLXl0UWN2LUcwYWQ0X0JlVklmVFhraXRyMmV0b2t0MmM1S2x2dnpjZGRibWhTemRFY3pSM01n?oc=5"
-    },
-    {
       "category": "贸易与政策",
       "date": "2026-11-17",
       "source": "Sandler, Travis & Rosenberg, P.A.",
@@ -72,14 +82,14 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSENWV1MwQ3lSVDNrY3Y5TWgyNHZDUWs3NXpKLWRlVE04a3VzNG5lTE9OS25IbEdNMF9XMTBna2hFdnFteEtDMFYyb3QwYjVpUHU2SUtBXzYycGxIQXlHSzhvNmNpSXFVTjNycE5lS1NlRndwQ191SkE0R3l0aERMTU45TEw4VWJxZjhGTHZrNlR1QjVIZFRmWHN6TW1fNzRueWJMektoR19wY3I2aVpOSEZhUDRFZw?oc=5"
     },
     {
-      "category": "供应商视角",
-      "date": "2026-11-16",
-      "source": "Automotive News",
-      "title": "Procurement risk management: Building resilient supply chains beyond Tier 1 - Automotive News",
+      "category": "能源与原材料",
+      "date": "2026-11-17",
+      "source": "Kings Research",
+      "title": "Critical Minerals: Demand Drivers and Supply Risks - Kings Research",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGNMRHgtSVZrVnZvSW1jeEU2eXFselUtQUtmbm5iTGlUdWNWY01BTmEzcU5EelVwNG9vSXgtR0xlaXJraWZ2cmQ3cTFkWnZ3ZXozRlNoX256Q19acDZWY3p3MVJmRW9aRlN3Rjc4X055QW5EQUpLN0x6TFBRdGo4V1loQVJhYUNtc0RscThicWZTaFluX25pX3N1bl9ET3lmUC1EUXI3ZXNWSDhGN0x3NHNsbnhpWDYxU0l0b2R6VVZ2QWZxRjNLSGF5WEMtdw?oc=5"
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKYzFZaUJkb2tjWWVJVmdpM2t1SDMyaFZFZ1lQMi1pTTNPc19weGRXWlZFSjZHRXkzeVpyRmZHalQ2ckp1UzFxdkdxZUstUGg5WWlMdFM0WFRTNmFQdEdfcTBjQmlYNmlPVURMUmdKLWVKUUFTM0dJb0Vxd1c?oc=5"
     },
     {
       "category": "汽车供应链",
@@ -90,6 +100,16 @@
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUVjM2xxT0Noa0ZwVGM1Ty1Wa0dDaDVNZkVIanV4QnV5UFExemU3UVQ0NS1KVnFBQ0JkUFV0V2tQMXlmWUI3M3NjTWlKRkNpYWoxcDNxTmJMUmh0V0dDaFlnTER6dFBrb0RRcnFIeThhMEhHSTBRX3R5NjFlU1JNZjh4VzMyUkZuamZRMjcyZ1VmMFJOaldhTFZEdDM0TlNzdWppRThfZUw5bGY4SEtla24yU3ZSV3c5RlHSAb8BQVVfeXFMT24zbW1BbVMzeUdmUVd1SS1KNWs3MlZQUlJzXzhtOWZ0d3IxS004WTAyM3JVSWU4Q1AwZHhwS1Zqd1pCZzU0RUJUMm16VHF0cDF0R0J5MGQ5S1BzemJGb3d5RFE1UEZneFoxTmlSbEdqMlJhTzN4cGRQd0MxMzRaZ3htcjNhYkNpRWxCQ3BYMWZ6ZHFRZDFTWU00TXBHeEFfZ2NEU29TX0hDTWhoTjZZRlAxQk9aYUVvU1FqSzhKalk?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-11-10",
+      "source": "Nature",
+      "title": "Electric vehicle battery materials supply disruptions can be mitigated with chemistry changes and recycling - Nature",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IMHV3ckoyQ3ZhT2NFaWVnUjFiaXVqeWNpbDBwYmFVMUY4Q05pSThfd3lVeS1hSVBzYkJua0Vka1h2WlFwOW5QUHZxVFZLa0RmLXgzcXA4X3pyTkhqMm5V?oc=5"
     },
     {
       "category": "科技供应链",
@@ -110,6 +130,26 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-11-02",
+      "source": "TNGlobal",
+      "title": "EV supply chains dominate APAC automotive investment as focus shifts to components - TNGlobal",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbnFDZlh3OHhZSDZYdVp1ZU5UdHctYmNKTktHUlAyV1E5UjBsdlF0QlFYODRSb1ZLRGEwaUFjS19rTWtFUEVpbERRUjA4T2ctRENGZGZrSEUtYm16ci1HckVkclJGX1ZvTXZDMjYyMGVlTzdNVFZpXzZucUJpR0g0VHRwdFNUWURtRWxQV1RENExmcFJUT0FiWnYxd3ZTNldHX3RhdDB1M2c2MzlvMEpYWXRSeF9zSFptYWc?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-10-08",
+      "source": "Ellen MacArthur Foundation",
+      "title": "Critical Minerals: Energy transition - Ellen MacArthur Foundation",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUpUenZZeldRdVY0cWU1cHVKV1NxQlZXOUc5SnZPaHhrd05YZFQ2Y0JHM1NRLXYzWW9LZlJQYjlYb3NORTE3ODVucFdzanJHU19DTnUyQUQ4VzVhUXdkMmd6QS1YbWVJVVVaMVVRMzRrcmozWVBCRmR2dnNuYlJSVUpB?oc=5"
     },
     {
       "category": "供应商视角",
@@ -142,6 +182,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG1CUXlXR3NzMExSU21RSHlfTnRnNTJ5VWI1MktxTjVCbHZfSTVzUXo2aU9FSlNxVWJ0aFBTREIxb0lXN2FwVTdTVVNhWVBXMWVxWV81VTNUVGFWTUJMMmNWVjF3M2c4bjN3QWpfb0duX19leTVqNjNScEllQlFMRg?oc=5"
     },
     {
+      "category": "汽车供应链",
+      "date": "2026-09-22",
+      "source": "DHL Group",
+      "title": "DHL ramps up battery logistics network worldwide as electrification reshapes automotive and energy supply chains - DHL Group",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX19fVnYyVjRxcUVlY2V0S1JGMDBVaTFpM3I5Wmp6QUZwcWRaMzlSbm9ONVRHeFI3dC05ZFBydWlwZzExaFJsSGNPeVpXTDBuN0ZESXZSc0prUU9ZOUZpWGhJZmZVX0M2a0RXbDlQSU1tRk9YMlZJTnZEeDNnZldCd0tFcHNnSVRIRFZtSTNWZmM5N0xyQlNEdXdPbHUzZlpVRU16dWp1MzJVNGhGemtpOVdpR3BBTGVLbThuNWJySVRGd2tjZnhjLWtrNktCemhLczh1czg5YzMtemlUbnBHNFgzUTRobzVnRVJ2eTl0T1llM1RfTkZVbDZscWp4ZndZZ1BhbXVNd0JJUQ?oc=5"
+    },
+    {
       "category": "物流视角",
       "date": "2026-09-22",
       "source": "FreightWaves",
@@ -150,16 +200,6 @@
       "status": "待核验",
       "stage": "物流",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1lHZVZoZFBHZDQ5Mk9KejBuN1dqVGlBWm1VbFZvaWxmY3lkNXpXMXh0QmUyek80dEt0YUFOcG1LcXJqb2FwU0lMcFE4LVNKWE1LNkNCTEQ0S3loZUNma240UGljT1ZWQ3BtVktzN0s0MUFMYjV2Tm00VGFUYk52T0pFUC02amZ2MlgtbFR2aFo?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-09-10",
-      "source": "Z2Data",
-      "title": "7 Effective Strategies for Strengthening Your Supply Chain Diversity - Z2Data",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlpQMXYtaTBXcTZpcmlaTXVkYmdXU2dJZ2RpQnVLemtPcnpQZ0ZWOGhuLXpjVi02U212YWJyeTBOQVUyVVE0eDg2TUZpSDdJbDEtNzdodzRmak9wUkUxOHBqOG5FSlVOb25rZ1FNdHhXcEJ5aGxybUNuVGtjZy1MVExMdXpOT1BoX0oxM3A2RUtyRkl1VU52Y1h2RGxCTU9YV3Fz?oc=5"
     }
   ]
 }
