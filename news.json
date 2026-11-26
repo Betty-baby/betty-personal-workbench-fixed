@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-25T05:17+00:00",
+  "updatedAt": "2026-11-26T04:46+00:00",
   "items": [
+    {
+      "category": "物流视角",
+      "date": "2026-11-26",
+      "source": "IndexBox",
+      "title": "Davies Turner: Suez Return Sparks Asia-UK Container Delays and Port Congestion - News and Statistics - IndexBox",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejRfMDFXZ1djYzJYUDJFSXNrYjRWMFh4UlJQSkYzM3kyV3dPSjU5M1drQnMxWFQzci1fSkttUFBlMFp5OEtkVW56RjEtZ3FtQXZoaHVvWjNZNzUzRkxTUmlXbTZhRzlpVnlxUktEbUZZQjR5OHRwU0hDNVZiQzJPNDBXdmFqTndYM1lwZnNjUXpDdHIyZnBjb1MxTmN0VHF0S1hQd1FrSThWblpzWkNCOVRGWDdXYU9f?oc=5"
+    },
     {
       "category": "汽车供应链",
       "date": "2026-11-25",
@@ -12,6 +22,16 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjl3bFhPeEh2eFZPSGhmeDAtdlE0UnQ0ekNzREtSeVc1eVB1bmJkbHdlSEJHZ3ByeW9YV0ppWGZjd0d2c3JiVklsbF9wSTZnY3NfUnJKbHctTHRGQkJNS0tSUGVfWHpMaHVqZUdja19zcVNKTGZtaFkyWjZmd1poSkRiV1JsTXhROG9UWXNCRkxrRW1tQ3MyTlpJWHFTU3N4bEQzeXlPM19fRzBocVpmNThhZW5oeUt4d2hPWjJ2eTJDelRXT3JNb0RR?oc=5"
     },
     {
+      "category": "供应商视角",
+      "date": "2026-11-24",
+      "source": "Procurement Magazine",
+      "title": "Precision Medicine: API Sourcing and AI Risk in Pharma - Procurement Magazine",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应商",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlFDcEUxZExuNG93d21NakxSSzRwaXlaUnM0VnQ5aE82TVREM2N4enJ2UmVnQWFfakZDY1NMVFZZY2k1X1pkXzRWU1RaTXRLNHRmZlY5TlFlblczUUUySTlBTXM5amJqUUhBcXhRLTRZWkZHVFRqMFBLNGZMa1duM3VzWU9tRGlKNFVXLW9n?oc=5"
+    },
+    {
       "category": "汽车供应链",
       "date": "2026-11-20",
       "source": "Mexico Business News",
@@ -20,6 +40,26 @@
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcU9wUmUxVU5nVmhOUS1FQWc5S0xsem1LLTJJeFM1UXk3a1lIeFNlbU4yX2c4ODYwb3B4MW12bGRsOUpYWU5mbms5TUZIVkRQcEZUQl96emxWZ09fcElTdmVuNHNEclNIUGNlZHdLUGtNUTRoRENRbUNrMHZ3VDhTQ185WDBMTzdpUnZzNVJUNjZRbHdqVE9QNkc4MENRaDBR?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-11-20",
+      "source": "Automotive News",
+      "title": "China batteries vs. foreign oil: The U.S. energy dilemma and the auto industry - Automotive News",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTE5FV0ZWNlI1R2RRUFVSc1BkLXlrdXZJN2Nha1I1TWlWd2l0RllzVjdKUi1rWXNpc1ZENFpZQW5mQ1hxczB3N1dnSVhSX2VKN1BnNVhpWHFybHhocjc5OFhrc3ZVUGFoQm01cGt6TFI3dXJscUxRRVBncFA2cFZQM2YydzF4NzEtcUFZ?oc=5"
+    },
+    {
+      "category": "汽车供应链",
+      "date": "2026-11-19",
+      "source": "Foley & Lardner LLP",
+      "title": "From EVs to Energy Storage: What Automotive Companies Should Know Before Pivoting to Data Centers and the Grid - Foley & Lardner LLP",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUEtHRHlxdzNKUWFhYVhvc0hNc2l1N2o0SS13YWFScjhUWTE0NkpCNU9HRHBfRmRhdWtOQUZSZXdmbWdiNlByRGp5RGZtbExXanBJbUJNZlY1dWpMYk9yektrbnpEb2s2b0V2S2RzSXQ0Rjh1a2RMV2ljM1lJT19Ga3A1YkhoM0hzTnUwMDlvRVN1eHNlaHhXVXVfa2xld010bjNxaHlUU3Z1X1NGYmRLQUkyLUx5NmJmUWlMUW5WV2V1S3VycTFJdTlZMHEwZl9UdGRzbm9Mc1k5WDRnTzg1bURJSUFGYWc4UXNkWFQ2ZW01dmlT?oc=5"
     },
     {
       "category": "能源与原材料",
@@ -33,13 +73,43 @@
     },
     {
       "category": "中国供应链",
-      "date": "2026-11-18",
-      "source": "TMX Newsfile",
-      "title": "JUSDA Named Among Forbes China's 2026 Global Logistics Flagship Brands - TMX Newsfile",
+      "date": "2026-11-19",
+      "source": "The Manila Times",
+      "title": "Aung Crown Releases Comparative Sourcing Assessment Examining Vietnam and China for Custom Hat Manufacturing - The Manila Times",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ21SR3JNc2s1bElGWF85OXFYallzSnlVZUthMk8xLTdUbmJIeFdzWVBtN3B2TjVzRWNsams2amptSTl1RlhxR0JVUU5KbHJDTkI3NmwzM2xVamlBZV9kc3kzaU5mam96OWx0ZUtiY2tMSlRqM2ZWb25WX1JRQjAtVzVYYVhEdUh3T2lhSGFjQnJ5aGpCY1VMcmk4aDN3Z2hSakRnT0VTMldqLXlscWVCekZLdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbjZrcy1GREJpZjlTSWpPdU5pQ3dKTUl2TGRfRThwNlhSSmZPanEwdDk0TzZrdHd5eUI0ODF3SW85V1I4U3dSbHVZT19Qb0xQZ3U5LVZRbmFpdUVSYXdaOGNnZVNqWUE2amotY1kxN1NBa2Z5b3JoRzUzVGRIbVJSMXdYV2FHMjFKR05EZm9Pd0l5VU5qTDdUSWZkcW5LdXpXYm9RZjVPZXJVb2JpTkFQMWZuQm1RbjlVTThhWXptVFlvY3ZlNHNkaFRGeEhfckJlUnRoOW5iNzhhT3czTGdsZm83RnNZbUNMWlpWSUVjSUoxSjZDaWVvRmQ0T0t4WTdxTnE1dWM3R3dRWE3SAZACQVVfeXFMTmU3RnJSSlgxVGl3S1UwaWpuOGVjZndLenhHaDRsYmZNTEswaXlLeEwxb21fNTdMRk8tSHdhLW1DdGxIYU5VTFNpZXZKdWtxS3p5NzNiZVV5OGlWWUU4NmI3cjVzaWpGNEZzLUw4aGg5Z1FZU0tobWptNXhBRGktNXM0cnR3WWR4RmdKVExYaHVaVVRTb2xEX3lkam9FQTlLRG9EOXdvc21NX2FWZnNsMFhHNnpqby1SbzJJb20zX1Fla1ZuZkZvWExmakZwNGZIQnVzcVFtTzhZNVdRSUdhVlFDRzAxNkU2RFRrY3I3Q1Y1VndDd3YxSm1QTmRRbDdodldfWFkxM3RsY0gzOVc2U3U?oc=5"
+    },
+    {
+      "category": "中国供应链",
+      "date": "2026-11-19",
+      "source": "Cantech Letter",
+      "title": "JUSDA Named Among Forbes China’s 2026 Global Logistics Flagship Brands - Cantech Letter",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "中国供应链",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2RQQVlwUV9UYlkzcnpHd3NtYzduOW5jYUh2LVBTZXRob09JajY1eUlQSnhQQnlVbUdtQTRjLXh2dDVCQVB6LXBVWUVySTFVdU5HOGZqQ1ZfQWdVeFhFNmlRTXhFYWstQzRhOEVvRUo0LWFhN2lBUEZKc0pCVDB6SmJ1YzNDY1hueXhOYW9weGY5elZJVnMzSWdINjlmQkNaZDk0cjNqaVl1b2tFUEtB?oc=5"
+    },
+    {
+      "category": "供应链视角",
+      "date": "2026-11-19",
+      "source": "Kean University",
+      "title": "Kean University Supply Chain Degree Prepares Students for Maritime Careers - Kean University",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "供应链",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVEhQRGhxNnAzMTFtOEZBWFA5X1FqOXU3VkNxVjd1TDAwdV9Dd0lYTjhMSUljdEZZWEZ6YS1oZWFidTRjeWxjMnVrdGFWeVJZZDZ5bmxTNm8xZk51Y21aOVl5X0hkT3lEbURnS3AyTUFoQzlCUUE2RnE0MUxoQkpYTGJ4b1lqeXI5TjB5UVdDOXVqZURaZHRSSTRual8?oc=5"
+    },
+    {
+      "category": "能源与原材料",
+      "date": "2026-11-17",
+      "source": "Kings Research",
+      "title": "Critical Minerals: Demand Drivers and Supply Risks - Kings Research",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "原材料",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKYzFZaUJkb2tjWWVJVmdpM2t1SDMyaFZFZ1lQMi1pTTNPc19weGRXWlZFSjZHRXkzeVpyRmZHalQ2ckp1UzFxdkdxZUstUGg5WWlMdFM0WFRTNmFQdEdfcTBjQmlYNmlPVURMUmdKLWVKUUFTM0dJb0Vxd1c?oc=5"
     },
     {
       "category": "贸易与政策",
@@ -62,6 +132,16 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUVjM2xxT0Noa0ZwVGM1Ty1Wa0dDaDVNZkVIanV4QnV5UFExemU3UVQ0NS1KVnFBQ0JkUFV0V2tQMXlmWUI3M3NjTWlKRkNpYWoxcDNxTmJMUmh0V0dDaFlnTER6dFBrb0RRcnFIeThhMEhHSTBRX3R5NjFlU1JNZjh4VzMyUkZuamZRMjcyZ1VmMFJOaldhTFZEdDM0TlNzdWppRThfZUw5bGY4SEtla24yU3ZSV3c5RlHSAb8BQVVfeXFMT24zbW1BbVMzeUdmUVd1SS1KNWs3MlZQUlJzXzhtOWZ0d3IxS004WTAyM3JVSWU4Q1AwZHhwS1Zqd1pCZzU0RUJUMm16VHF0cDF0R0J5MGQ5S1BzemJGb3d5RFE1UEZneFoxTmlSbEdqMlJhTzN4cGRQd0MxMzRaZ3htcjNhYkNpRWxCQ3BYMWZ6ZHFRZDFTWU00TXBHeEFfZ2NEU29TX0hDTWhoTjZZRlAxQk9aYUVvU1FqSzhKalk?oc=5"
     },
     {
+      "category": "汽车供应链",
+      "date": "2026-11-10",
+      "source": "Nature",
+      "title": "Electric vehicle battery materials supply disruptions can be mitigated with chemistry changes and recycling - Nature",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "汽车供应链",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IMHV3ckoyQ3ZhT2NFaWVnUjFiaXVqeWNpbDBwYmFVMUY4Q05pSThfd3lVeS1hSVBzYkJua0Vka1h2WlFwOW5QUHZxVFZLa0RmLXgzcXA4X3pyTkhqMm5V?oc=5"
+    },
+    {
       "category": "时尚供应链",
       "date": "2026-11-09",
       "source": "Fortune Business Insights",
@@ -72,24 +152,24 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGllZmF6c0hVN3NKUllOVHFYVzl3OGJjY21VSm0zMU5EOVdkOWZmRlVVRU9QbDRTdWdsQjlkbVEtb1R0Zkh5bFY3YmpmWTFOTGdmUWplZlcwSVFqVGFrTFlWbHRWYWdoWnJ0UzR3?oc=5"
     },
     {
-      "category": "供应商视角",
-      "date": "2026-11-04",
-      "source": "Procurement Magazine",
-      "title": "Top 10: Procurement Leaders in Manufacturing - Procurement Magazine",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUVpzUkI0WmZ5RlNvSEJKLVU2aVgwWVgtZkJSVnVuZXRTWmxkMGFuNFFlZUNrcVFBTEFBOXk0bWZrVmJLSzJwdTRoZ21PUjB2aEZ6Z25sRUNsaFg5angzaUNBbFd3c2xLR2FDUXkycUhyY2FaTEdxMjlhSDZZYVpEZ2Vn?oc=5"
-    },
-    {
       "category": "科技供应链",
-      "date": "2026-11-02",
-      "source": "Fortune Business Insights",
-      "title": "Semiconductor Market Size, Share and Forecast Analysis 2034 - Fortune Business Insights",
+      "date": "2026-11-06",
+      "source": "Global Trade Magazine",
+      "title": "How Global Semiconductor Supply Chains Are Reshaping Electronics Manufacturing - Global Trade Magazine",
       "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
       "status": "待核验",
       "stage": "科技供应链",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JOG9LeWFiS2JJRzEydzhLaVh2VGphZ0hINXViT0pZeXNTeWw0R3ZmZGppN2JhLU1sVUdiQ21iNEpUWGY1UVVBSEs5YlRwSlJmWDV3WkxYaWpkdGFJRXVtdnAyWllaeXR6S2U3SHBLQjFpWVFZNnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkxCRkVHVlE2eXNfbjlZZDVtZXlZSHRPVnRKZVBhOHMwTHpseXZzMmlOVEltS2hGNGtHdmdVVFlqdmRTX0JvY1BrejJyalR2MkltOFFCRGxhWFByZXQxc3Jzd1lZMTdSLUE2OTBnMDFSb1czTWZmT1IzNUVUUDBKSi1OZGFJdlJBWVNub0UwLTJWNXN6WExSTjZZWjFwVWJWcy13X3dMVUlBQ3E4V0w0?oc=5"
+    },
+    {
+      "category": "物流视角",
+      "date": "2026-11-02",
+      "source": "Automotive Logistics",
+      "title": "Maersk orders 26 container ships as Asian port congestion disrupts global supply chains - Automotive Logistics",
+      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
+      "status": "待核验",
+      "stage": "物流",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVDR0MDRYci1MVHVmQl9iU3FNLXJmUEhOSmZoWGVWUjh2SkFhT2JkaHpJaEZhSklfby0yWXRkN2hBOGc0RTMyVWlhUGhvRjJ3RGxoa1BWQ25qS0VkeU5XRHFpVDJCdEt5M2NiNlVTM3NfaTBOUVFsQTBYXzNrM2NFc08yYmNFNHVZeW9FTnNjOHZ0d0FTYkNqV0hkVGhtSEd6WTMxRnZTQlBGMlJFYTFFTTQ0a1dlUEdCdTJZT1FnY3BndEtSMzFvYWQybEo2SWVfZVBZUQ?oc=5"
     },
     {
       "category": "时尚供应链",
@@ -100,26 +180,6 @@
       "status": "待核验",
       "stage": "时尚供应链",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81NEkxOHRtdTBTOXZNSHB2VS1zeHM5bHNvSVd2d3AwX2thUjE1UGNSck91OVhKWXVTTmpiTy1pS2gtdE9xZFBWcUIwLTBhdVFJZlpkYWRyeDY0a3I4aXNXdUVOS2pxMzNBSEd3Q205Sng5ODFLaWI0OXVPOWg?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-10-28",
-      "source": "Manufacturing Today India",
-      "title": "The next phase of manufacturing digitalisation could be in procurement, not just production - Manufacturing Today India",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13YWdIbkp2c2FtYmcyRzdnY2JubFAydmlKTHh6NWhlQm42NnkyVEtqejlwTThxanNScHdaTzZiOWdLdWZUSjlvWmZ0Yk5fd2Q2YmRmUkg1UmwwYUkwbVZfSGlWQV9uZjQxVU5lel8yWE5aU3FXemxpWkZCcw?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-10-27",
-      "source": "Manufacturing Digital",
-      "title": "Rubix: Why MRO Sourcing Needs a Strategic Rethink - Manufacturing Digital",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5MNUdNZS1XeEdLLWZMN05YSWdzc1JxQm1oN0ZKRGRJTk9DXzY0LXZFUFRGSE5HWEdEZnV6al9xTjBpWnpGQ2hkN1JneTEwYTYyT3BBMzltdWZWY2IyVkRFS0x1N3RhQm5GS2Q1dFRueENGSE1kWXNQejhaWkR0V3JXQVVJb29TVk9UTlliVmZnb0pO?oc=5"
     },
     {
       "category": "贸易与政策",
@@ -140,66 +200,6 @@
       "status": "待核验",
       "stage": "汽车供应链",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6TElEZnprcnJ2dm9nUklFY25rWjZFOUlucjJoakg1VUx6bnR5TkRSeFRIZWdpV2l6cFd5bDRQbTlBbFNKSm05aUpvQndGdzdKTVE0bmN4ME9mOHpnVTZUdQ?oc=5"
-    },
-    {
-      "category": "能源与原材料",
-      "date": "2026-10-08",
-      "source": "Ellen MacArthur Foundation",
-      "title": "Critical Minerals: Energy transition - Ellen MacArthur Foundation",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "原材料",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUpUenZZeldRdVY0cWU1cHVKV1NxQlZXOUc5SnZPaHhrd05YZFQ2Y0JHM1NRLXYzWW9LZlJQYjlYb3NORTE3ODVucFdzanJHU19DTnUyQUQ4VzVhUXdkMmd6QS1YbWVJVVVaMVVRMzRrcmozWVBCRmR2dnNuYlJSVUpB?oc=5"
-    },
-    {
-      "category": "供应商视角",
-      "date": "2026-10-06",
-      "source": "Supply Chain Management Review",
-      "title": "Funding the Future of Sourcing: Cost Takeout Strategies for Manufacturing Procurement - Supply Chain Management Review",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "供应商",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWdjZllVaTE0eDRhdGlGRHB5RGJRTkVnMWRyc3NrRk5DWEh2bk9uRnhQRDMtajlNeHA4SWpzc0hUTkwtWUxva3FZakR1Nm9RVHR1em82bVlkWjZBa2dhRXcya3dIMy1kREJvWFF0RTY3S1RfQWRJMlA5VGJNU0tzUDZzWDVuVnd5dFNmZUhzNUJYTVN5MUlRMC1pbk5iYUR5a1p2MDJjNWc1UVJ4bksyNGdsMA?oc=5"
-    },
-    {
-      "category": "区域供应链",
-      "date": "2026-10-05",
-      "source": "Fortune",
-      "title": "Why ‘China plus one’ is paying off less than Southeast Asia hoped - Fortune",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "区域供应链",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG1CUXlXR3NzMExSU21RSHlfTnRnNTJ5VWI1MktxTjVCbHZfSTVzUXo2aU9FSlNxVWJ0aFBTREIxb0lXN2FwVTdTVVNhWVBXMWVxWV81VTNUVGFWTUJMMmNWVjF3M2c4bjN3QWpfb0duX19leTVqNjNScEllQlFMRg?oc=5"
-    },
-    {
-      "category": "时尚供应链",
-      "date": "2026-09-25",
-      "source": "Retail News Asia",
-      "title": "Gucci Shifts Sneaker Manufacturing To China In Break With Tradition - Retail News Asia",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "时尚供应链",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzNPbE1CcDJsNlpHa3RyM2RmVWJsd0lRNXRrSHNqTUN4VVZXMnp3NEhBaVBYWXZtaWVlUTl0VkVwek5kRmhod2d5bURzV2JBb3dtUnMyQzRWTnhfWHJKZlE4VnhVaG5ocnNwaG9VVEZJc3Njdm1QNWFkUnd5dnZVeDZuYVpCRHJxZHp6eVQ2Y3U4LXhiUGc?oc=5"
-    },
-    {
-      "category": "物流视角",
-      "date": "2026-09-22",
-      "source": "FreightWaves",
-      "title": "New report: Just a third of container shipping on-time - FreightWaves",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "物流",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1lHZVZoZFBHZDQ5Mk9KejBuN1dqVGlBWm1VbFZvaWxmY3lkNXpXMXh0QmUyek80dEt0YUFOcG1LcXJqb2FwU0lMcFE4LVNKWE1LNkNCTEQ0S3loZUNma240UGljT1ZWQ3BtVktzN0s0MUFMYjV2Tm00VGFUYk52T0pFUC02amZ2MlgtbFR2aFo?oc=5"
-    },
-    {
-      "category": "中国供应链",
-      "date": "2026-09-22",
-      "source": "Supply Chain Management Review",
-      "title": "First Shift: Energy costs and manufacturing ecosystems hold news cycle - Supply Chain Management Review",
-      "summary": "公开RSS新闻线索。阅读原文后，在WorkBench里记录：发生了什么？影响哪个供应链环节？下一步应该查看什么数据？",
-      "status": "待核验",
-      "stage": "中国供应链",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3k1TUM3WWc5d1lLWGhHTkdSSm5uRHN4eXhENERtNUFCTjJGeGNySzV5MktERVBYLVdUSUlYXzNBUjBjSjVJSkJKRGVJaWoybmlHUFl5VGZXM1lvdWJZbGtEdmRFTzhCY01jbWxsYTE3cndtcm1DTkRoakozUjF1cEdJd3psZ2FVZnN4OXAyQQ?oc=5"
     }
   ]
 }
